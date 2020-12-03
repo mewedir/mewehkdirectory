@@ -1,10 +1,48 @@
 本頁更新 : https://mewe.com/join/mewehknewcomer
 
-[Group 目錄](#Group-目錄)
-[Page 目錄](#Page-目錄)
+- [Group 目錄](#group-目錄)
+  - [新聞, 時事](#新聞-時事)
+  - [港島區](#港島區)
+  - [九龍區](#九龍區)
+  - [新界區](#新界區)
+  - [外國勢力](#外國勢力)
+  - [本土](#本土)
+  - [寵物](#寵物)
+  - [飲飲食食](#飲飲食食)
+  - [運動](#運動)
+  - [娛樂,電影, 電視](#娛樂電影-電視)
+  - [動漫, 電玩](#動漫-電玩)
+  - [旅遊](#旅遊)
+  - [興趣](#興趣)
+  - [二手買賣, Free](#二手買賣-free)
+  - [外國資訊](#外國資訊)
+  - [玄學/神秘學](#玄學神秘學)
+  - [感情生活](#感情生活)
+  - [醫療保健](#醫療保健)
+  - [教育、家庭、育兒資訊](#教育家庭育兒資訊)
+  - [美術、插畫](#美術插畫)
+  - [其他](#其他)
+  - [移民](#移民)
+  - [宗教](#宗教)
+- [Page 目錄](#page-目錄)
+  - [區議員](#區議員)
+  - [漫畫, 插畫](#漫畫-插畫)
+  - [IT, 資訊科技類](#it-資訊科技類)
+  - [KOL](#kol)
+  - [新聞, 時事討論](#新聞-時事討論)
+  - [運動](#運動-1)
+  - [本土,社運](#本土社運)
+  - [飲食](#飲食)
+  - [Gamer](#gamer)
+  - [旅遊](#旅遊-1)
+  - [興趣](#興趣-1)
+  - [網店](#網店)
+  - [黃店](#黃店)
+  - [其他](#其他-1)
 
 # Group 目錄
 
+## 新聞, 時事
 |<p style='font-size:20px'>新聞, 時事</p>||
 |:---|---|
 |公開論壇|https://mewe.com/join/citizens_forum|
@@ -29,7 +67,7 @@
 |Terry的媒體懶人堂|https://mewe.com/p/terry的媒體懶人堂|
 |PSHK|https://mewe.com/p/photographicsocietyhk|
 
-
+## 港島區
 |<p style='font-size:20px'>港島區</p>||
 |:---|---|
 |大天炮遊園地 （大坑天后炮台山）|https://mewe.com/join/tinhautaihang.realhker|
@@ -54,7 +92,7 @@
 |灣仔街坊福利會|https://mewe.com/join/wanchai|
 |CWB lunch 情報區|https://mewe.com/join/lunchincwb|
 
-
+## 九龍區
 |<p style='font-size:20px'>九龍區</p>||
 |:---|---|
 |🎗九龍城是我家🇭🇰|https://mewe.com/join/kowlooncity|
@@ -75,7 +113,7 @@
 |觀塘～臥虎～藏龍|https://mewe.com/join/kwuntong|
 ||https://mewe.com/join/慈雲山資訊交流|
 
-
+## 新界區
 |<p style='font-size:20px'>新界區</p>||
 |:---|---|
 |～～新界西聯盟NT West Avengers～～|http://mewe.com/join/ntwestavengers|
@@ -119,7 +157,7 @@
 |Tai Po 大埔|https://mewe.com/join/taipo|
 ||https://mewe.com/join/tuenmuncow|
 
-
+## 外國勢力
 |<p style='font-size:20px'>外國勢力</p>||
 |:---|---|
 |🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
@@ -169,7 +207,7 @@
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
 
-
+## 本土
 |<p style='font-size:20px'>本土</p>||
 |:---|---|
 |＊Hea on nine hkers٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎ|https://mewe.com/join/heaonninehkdaily|
@@ -219,7 +257,7 @@
 |香港人吹下水|https://mewe.com/join/hktalk|
 |民主同路人每日資訊|https://mewe.com/group/5fc094a9eabc344c979f3164|
 
-
+## 寵物
 |<p style='font-size:20px'>寵物</p>||
 |:---|---|
 |🎗以和為貴婦狗的講場🐩|https://mewe.com/join/yellowpoodle|
@@ -247,7 +285,7 @@
 |愛鼠交流群I love hamster|https://mewe.com/join/ilovehamster|
 |貓奴貓屎貓事多|https://mewe.com/join/meowsmore|
 
-
+## 飲飲食食
 |<p style='font-size:20px'>飲飲食食</p>||
 |:---|---|
 |☝🏻日🖐🏻餐黃店💛分享|https://mewe.com/join/adayofmeal|
@@ -277,7 +315,7 @@
 |奶茶通俗學|https://mewe.com/p/milktealogy奶茶通俗學|
 |今晚掃「黃」掃邊度？|https://mewe.com/join/tonightsowongmission|
 
-
+## 運動
 |<p style='font-size:20px'>運動</p>||
 |:---|---|
 |🎗YOGA和你傾🧘🏻|https://mewe.com/join/yellowyoga|
@@ -307,7 +345,7 @@
 |Make your own backpacking gear|https://mewe.com/join/myog-makeyourownbackpackinggear|
 |NBA 討論區|https://mewe.com/join/nba_hk1|
 
-
+## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
 |:---|---|
 |文人多說話|https://mewe.com/join/talkalot|
@@ -322,7 +360,7 @@
 |電影劇集中伏分享區|https://mewe.com/join/on9movies|
 |viutv討論區|https://mewe.com/join/siusiuviutv|
 
-
+## 動漫, 電玩
 |<p style='font-size:20px'>動漫, 電玩</p>||
 |:---|---|
 |《超異域公主連結☆Re:Dive》交流群|https://mewe.com/join/princessconectrediveshare|
@@ -350,7 +388,7 @@
 |TK工房 3D模型高達 首辦製作|https://mewe.com/join/tkworksd|
 |香港聖鬥士星矢同盟會|https://mewe.com/join/saintseiyahk|
 
-
+## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
 |:---|---|
 |三屋日遊谷|https://mewe.com/join/3homejapan|
@@ -376,7 +414,7 @@
 |環球旅人group|https://mewe.com/join/trafolife|
 |韓國自遊行與自駕遊分享|https://mewe.com/join/traveltokorea|
 
-
+## 興趣
 |<p style='font-size:20px'>興趣</p>||
 |:---|---|
 |手帳文具CLUB|https://mewe.com/join/journalclub|
@@ -414,7 +452,8 @@
 |皂咩・meh de savon|https://mewe.com/join/皂咩mehdesavon|
 |香港電子書討論|https://mewe.com/group/5fc8a368318dcd7d246100c6|
 
-|<p style='font-size:20px'></p>||
+## 二手買賣, Free
+|<p style='font-size:20px'>二手買賣, Free</p>||
 |:---|---|
 |一二手球衣交易站Jersey Exchange Station|https://mewe.com/join/jersey|
 |二手物品轉讓，用得唔好哂|https://mewe.com/join/secondhandtransfer|
@@ -436,13 +475,13 @@
 ||https://mewe.com/join/同路人二手交易群|
 |我們都是真香港人♡手足情深FREE感恩♡|https://mewe.com/join/yellowbrother4free|
 
-
+## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
 |:---|---|
 |日本有野 ニッポンの|https://mewe.com/group/5fb65b61236dfe43af421b50|
 |韓國迷|https://mewe.com/join/korealover|
 
-
+## 玄學/神秘學
 |<p style='font-size:20px'>玄學/神秘學</p>||
 |---|---|
 |<JS八字 • 人生攻略> 可以免費解答八字/風水問題|https://mewe.com/join/jslifeguide|
@@ -454,7 +493,7 @@
 |Rabbit B塔羅時間|https://mewe.com/join/rabbitbworkshop|
 |🎗玄學和你傾🔮✨|https://mewe.com/join/yellowfaith|
 
-
+## 感情生活
 |<p style='font-size:20px'>感情生活</p>||
 |:---|---|
 |男同性戀|https://mewe.com/join/男同性戀|
@@ -463,7 +502,7 @@
 |HEHE💛💙 交友活動協會|https://mewe.com/join/hehe_gatheringhongkong|
 |MeWeLove愛情谷🥰|https://mewe.com/join/mewelove|
 
-
+## 醫療保健
 |<p style='font-size:20px'>醫療保健</p>||
 |:---|---|
 |🦷 箍牙撚 💪🏻|https://mewe.com/join/cool_teeth|
@@ -478,7 +517,7 @@
 |香港生酮飲食分享|https://mewe.com/join/香港生酮飲食分享hkketogenic|
 |The Key of Soul 心靈鑰匙|https://mewe.com/p/thekeyofsoul|
 
-
+## 教育、家庭、育兒資訊
 |<p style='font-size:20px'>教育、家庭、育兒資訊</p>||
 |:---|---|
 |🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
@@ -488,15 +527,15 @@
 |家家有本難唸的經|Https://mewe.com/join/familybible|
 |港爸港媽大戰鬥|https://mewe.com/join/hkfmbattle|
 |香港兒童身心健康分享組|https://mewe.com/join/hkchildren|
-|||
-|**美術、插畫**||
-|||
-|---||
+
+## 美術、插畫
+|<p style='font-size:20px'>美術、插畫</p>||
+|:---|---|
 |《窮家有道 - 窮生 X HR熊 》|https://mewe.com/p/mr_mrspoor|
 |香港裝修及室內設計交流|https://mewe.com/join/decos|
 |Noraneko Butai 野良猫部隊|https://mewe.com/join/noranekobutai野良猫部隊|
 
-
+## 其他
 |<p style='font-size:20px'>其他</p>||
 |:---|---|
 |💛正義L上身🤓💛💛|https://mewe.com/join/righteous|
@@ -537,7 +576,7 @@
 |非中國製嘅小朋友用品|https://mewe.com/join/bbgoodsabc_canto|
 |市集資訊及檔主經驗分享區(香港)|https://mewe.com/group/5fb7a9476aab7206998bb643|
 
-
+## 移民
 |<p style='font-size:20px'>移民</p>||
 |:---|---|
 |走佬移民去UK (英國) 之 BNO GO!|https://mewe.com/join/走佬移民去uk英國之bnogo|
@@ -547,7 +586,7 @@
 |帶着包包去台灣|https://mewe.com/join/breadbabyintaiwan|
 |從零開始移民英國|https://mewe.com/join/readytogouk|
 
-
+## 宗教
 |<p style='font-size:20px'>宗教</p>||
 |:---|---|
 |🎗佛偈和你傾🙏🏻|https://mewe.com/join/yellowbuddah|
@@ -557,13 +596,13 @@
 # Page 目錄
 
 
-
+## 區議員
 |<p style='font-size:20px'>區議員</p>||
 |:---|---|
 |中西區石塘咀區議員葉錦龍|https://mewe.com/p/samyip|
 |中西區 西營盤區議員 黃永志Napo Wong|https://mewe.com/p/napowong|
 
-
+## 漫畫, 插畫
 |<p style='font-size:20px'>漫畫, 插畫</p>||
 |:---|---|
 |小熊群膠會 (圖文page)|https://mewe.com/p/stupidnfun|
@@ -575,14 +614,14 @@
 |Dustykid|https://mewe.com/p/dustykid|
 |MtzCherry X Ricebowlhead|https://mewe.com/p/mtzcherryxricebowlhead1|
 
-
+## IT, 資訊科技類
 |<p style='font-size:20px'>IT, 資訊科技類</p>||
 |:---|---|
 |小熊來電、whoscall、芝麻來電、小鴨幹線|https://mewe.com/p/hkjunkcall.com|
 |HKEPC|https://mewe.com/p/hkepc|
 |PCM 官方mewe|https://mewe.com/p/pcmxplay.it|
 
-
+## KOL
 |<p style='font-size:20px'>KOL</p>||
 |:---|---|
 |王艾倫冒險日記|https://mewe.com/p/王艾倫冒險日記1|
@@ -595,14 +634,14 @@
 |香港棉花糖女孩Cherry|https://mewe.com/p/cherry1|
 |成波之路 my ways to get fat|https://mewe.com/p/mywaystogetfat|
 
-
+## 新聞, 時事討論
 |<p style='font-size:20px'>新聞, 時事討論</p>||
 |:---|---|
 |香港新聞文宣轉載|https://mewe.com/p/香港新聞文宣轉載1|
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 |FORTUNE INSIGHT|https://mewe.com/p/fortuneinsight|
 
-
+## 運動
 |<p style='font-size:20px'>運動</p>||
 |:---|---|
 |足小研究所|https://mewe.com/p/足小研究所|
@@ -610,7 +649,7 @@
 |運動筆記hk|https://mewe.com/p/bijihk|
 |Fitz 運動平台|https://mewe.com/p/fitz%E9%81%8B%E5%8B%95%E5%B9%B3%E5%8F%B0|
 
-
+## 本土,社運
 |<p style='font-size:20px'>本土,社運</p>||
 |:---|---|
 |百牆迷因|https://mewe.com/p/%E7%99%BE%E7%89%86%E8%BF%B7%E5%9B%A0|
@@ -625,7 +664,7 @@
 |香港奇談百景|https://mewe.com/p/香港奇談百景1|
 |Yellowland HK 走訪深黃大地|https://mewe.com/p/走訪深黃大地yellowlandhk|
 
-
+## 飲食
 |<p style='font-size:20px'>飲食</p>||
 |:---|---|
 |肚餓都只食良|https://mewe.com/p/onlyeatgood|
@@ -636,13 +675,13 @@
 |Little B Kitchen 💛 小B廚房|https://mewe.com/p/littlebkitchen|
 |candace mama|https://mewe.com/p/candacemama|
 
-
+## Gamer
 |<p style='font-size:20px'>Gamer</p>||
 |:---|---|
 |希治閣 - 遊戲情報科|https://mewe.com/p/scaryplay1|
 |Cornrice粟米米|https://mewe.com/p/cornrice粟米米|
 
-
+## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
 |:---|---|
 |到這世界邊端-丹麥|https://mewe.com/p/%E5%88%B0%E9%80%99%E4%B8%96%E7%95%8C%E9%82%8A%E7%AB%AF-%E4%B8%B9%E9%BA%A51|
@@ -650,25 +689,25 @@
 |瀛遊物語|https://mewe.com/p/瀛遊物語jstorypro1|
 |Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
 
-
+## 興趣
 |<p style='font-size:20px'>興趣</p>||
 |:---|---|
 |攝時間 \| 香港Podcast \| 香港播客 \|廣東話Podcast \|香港人|https://mewe.com/p/sipsigan|
 |Art of Ngan 雁堂|https://mewe.com/p/rebeccahon|
 
-
+## 網店
 |<p style='font-size:20px'>網店</p>||
 |:---|---|
 |Nutchies HK|https://mewe.com/p/nutchieshk|
 |RAS Handmade|https://mewe.com/p/rashandmade|
 
-
+## 黃店
 |<p style='font-size:20px'>黃店</p>||
 |:---|---|
 |（黃店）狼婆婆咖啡店 Om Grandma Wolf Coffee|https://mewe.com/p/狼婆婆咖啡店omgrandmawolfcoffee|
 |||
 
-
+## 其他
 |<p style='font-size:20px'>其他</p>||
 |:---|---|
 |好宅之人|https://mewe.com/p/veryotaku|
