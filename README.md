@@ -18,8 +18,7 @@
 |本地網媒 - 陣地文化|https://mewe.com/p/%E9%99%A3%E5%9C%B01|
 |休班記者 (請搜尋 ondutyjournalist)|https://mewe.com/p/%E4%BC%91%E7%8F%AD%E8%A8%98%E8%80%85|
 |香城公民媒體 Hong Kong Citizen Media Page|https://mewe.com/p/%E9%A6%99%E5%9F%8E%E5%85%AC%E6%B0%91%E5%AA%92%E9%AB%94hongkongcitizenmedia|
-"|蘋果日報北美版|https://mewe.com/p/蘋果日報北美版
-https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%88|"
+|蘋果日報北美版|https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%88|
 |MeWe 100毛|https://mewe.com/p/100most|
 |MeWe 毛記電視|https://mewe.com/p/tvmost|
 |聚言時報 Polymer|https://mewe.com/p/polymerhk|
@@ -62,8 +61,7 @@ https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%
 |旺角街坊會|https://mewe.com/join/mongkok|
 |油塘|https://mewe.com/join/yautong|
 |金黃大仙圈（無人導航自由駕駛）|https://mewe.com/join/wts|
-"|紅磡黃埔街坊會HUNGHOM WHAMPOA KAIFONG ASSOCIATION
-|https://mewe.com/join/hunghomwhampoakaifongassociation|"
+|紅磡黃埔街坊會HUNGHOM WHAMPOA KAIFONG ASSOCIATION|https://mewe.com/join/hunghomwhampoakaifongassociation|
 |真土瓜灣之友|https://mewe.com/join/tkw|
 |荔枝角同路人|https://mewe.com/join/yellowlaichikok|
 |馬頭圍/馬頭涌/馬頭角)|https://mewe.com/join/mataucoolies|
@@ -129,8 +127,7 @@ https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%
 |北美香港人DIYer 谷|https://mewe.com/join/北美香港人diyer|
 |在台香港人💛|https://mewe.com/join/hkerintw|
 |住加男人|https://mewe.com/join/canmenmewegroup|
-"|坎培垃香港人俱樂部 CANBERRA HONG KONGER'S CLUB 🇭🇰🇦🇺
-|https://mewe.com/join/canberrahongkongersclub|"
+|坎培垃香港人俱樂部 CANBERRA HONG KONGER'S CLUB 🇭🇰🇦🇺|https://mewe.com/join/canberrahongkongersclub|
 |波士頓港女 Missyelly|https://mewe.com/join/hkongbosgirl|
 |美國波士頓香港人 HongKongers in Boston|https://mewe.com/join/hongkongersinboston|
 |美國香港人|https://mewe.com/join/ushkers|
@@ -190,8 +187,7 @@ https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%
 |南區交通關注組|https://mewe.com/join/southerndistricttransportconcerngroup|
 |建制柒事|https://mewe.com/join/建制柒事|
 |香港人 Memes|https://mewe.com/join/hkermemes|
-"|香港人，加油！𝚂𝚝𝚊𝚗𝚍 𝚆𝚒𝚝𝚑 𝙷𝚘𝚗𝚐 𝙺𝚘𝚗𝚐
-|https://mewe.com/join/addoilhk|"
+|香港人，加油！𝚂𝚝𝚊𝚗𝚍 𝚆𝚒𝚝𝚑 𝙷𝚘𝚗𝚐 𝙺𝚘𝚗𝚐|https://mewe.com/join/addoilhk|
 |香港人自由吹水谷|https://mewe.com/join/hkers_chatroom|
 |香港人喺邊都要團結|https://mewe.com/join/hongkongunited|
 |香港女同HKLES|https://mewe.com/join/hkles|
@@ -285,8 +281,7 @@ https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%
 |山跑行山用品交易區|https://mewe.com/join/trailrunningtrading|
 |公義同潛 香港人潛水group|https://mewe.com/join/divingwithjustice|
 |我地真係好撚鍾意踩越野單車|https://mewe.com/join/我地真係好撚鍾意踩越野單車|
-"|我哋真係好撚鍾意行山 WE'RE REALLY LOVE HONG KONG HIKING|https://mewe.com/group/5fb70cbc77a54353f731db2c
-https://mewe.com/join/我哋真係好撚鍾意行山_were_really_love_hiking|"
+|我哋真係好撚鍾意行山 WE'RE REALLY LOVE HONG KONG HIKING|https://mewe.com/group/5fb70cbc77a54353f731db2c|
 |和你傾英超|https://mewe.com/join/epl|
 |波事春秋。 足球⚽️|https://mewe.com/join/footballmatter|
 |城門河跑友group|https://mewe.com/join/shingmunriverrunner|
@@ -416,7 +411,7 @@ https://mewe.com/join/我哋真係好撚鍾意行山_were_really_love_hiking|"
 |皂咩・meh de savon|https://mewe.com/join/皂咩mehdesavon|
 
 
-|<p style='font-size:20px'>Free Group/二手買賣/配對</p>||
+|<p style='font-size:20px'></p>||
 |:---|---|
 |一二手球衣交易站Jersey Exchange Station|https://mewe.com/join/jersey|
 |二手物品轉讓，用得唔好哂|https://mewe.com/join/secondhandtransfer|
