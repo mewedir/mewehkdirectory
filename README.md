@@ -626,8 +626,7 @@
 |:---|---|
 |王艾倫冒險日記|https://mewe.com/p/王艾倫冒險日記1|
 |香港作家王迪詩|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E4%BD%9C%E5%AE%B6%E7%8E%8B%E8%BF%AA%E8%A9%A9|
-"|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95
-|"
+|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
 |游大東影視筆記|https://mewe.com/p/yautaitung|
 |Bobs Your Uncle (BOB叔)|https://mewe.com/p/bobsyouruncle|
 |梁凱寧|https://mewe.com/p/maggieleung梁凱寧|
