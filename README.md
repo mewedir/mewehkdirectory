@@ -1,5 +1,6 @@
 本頁更新 : https://mewe.com/join/mewehknewcomer
 
+
 - [Group 目錄](#group-目錄)
   - [新聞, 時事](#新聞-時事)
   - [港島區](#港島區)
@@ -620,8 +621,7 @@
 |小熊來電、whoscall、芝麻來電、小鴨幹線|https://mewe.com/p/hkjunkcall.com|
 |HKEPC|https://mewe.com/p/hkepc|
 |PCM 官方mewe|https://mewe.com/p/pcmxplay.it|
-
-
+|Apple User Club|ttps://mewe.com/p/appleuserclub|
 ## KOL
 |<p style='font-size:20px'>KOL</p>||
 |:---|---|
@@ -674,6 +674,7 @@
 |食·港女🎗|https://mewe.com/p/eathkgirls1|
 |Little B Kitchen 💛 小B廚房|https://mewe.com/p/littlebkitchen|
 |candace mama|https://mewe.com/p/candacemama|
+|SeafoodGreat 嬌姐海鮮|https://mewe.com/p/seafoodgreatby%E5%AC%8C%E5%A7%90%E6%B5%B7%E9%AE%AE|
 
 ## Gamer
 |<p style='font-size:20px'>Gamer</p>||
@@ -722,3 +723,5 @@
 |Unlimited Build Works|https://mewe.com/p/unlimitedbuildworks|
 |Timable|www.mewe.com/join/timablegroup|
 |醫。思維|https://mewe.com/p/medicalinspire|
+|昰樸催眠治療室 Sparkling Point Studi|https://mewe.com/p/sparklingpoint_studio|
+|Penana - 香港人搞的小說網站|https://mewe.com/p/penana故事平台|
