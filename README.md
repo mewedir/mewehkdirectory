@@ -1,5 +1,8 @@
 本頁更新 : https://mewe.com/join/mewehknewcomer
 
+[Group 目錄](#Group目錄)
+[Page 目錄](#Page目錄)
+
 # Group 目錄
 
 |<p style='font-size:20px'>新聞, 時事</p>||
