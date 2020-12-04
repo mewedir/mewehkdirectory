@@ -621,7 +621,7 @@
 |小熊來電、whoscall、芝麻來電、小鴨幹線|https://mewe.com/p/hkjunkcall.com|
 |HKEPC|https://mewe.com/p/hkepc|
 |PCM 官方mewe|https://mewe.com/p/pcmxplay.it|
-|Apple User Club|ttps://mewe.com/p/appleuserclub|
+|Apple User Club|https://mewe.com/p/appleuserclub|
 ## KOL
 |<p style='font-size:20px'>KOL</p>||
 |:---|---|
