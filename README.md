@@ -587,6 +587,7 @@
 |:---|---|
 |中西區石塘咀區議員葉錦龍|https://mewe.com/p/samyip|
 |中西區 西營盤區議員 黃永志Napo Wong|https://mewe.com/p/napowong|
+|大埔（林村谷）區議員陳振哲（機場大叔）|https://mewe.com/p/richardchan|
 
 ## 漫畫, 插畫
 |<p style='font-size:20px'>漫畫, 插畫</p>||
@@ -608,6 +609,7 @@
 |PCM 官方mewe|https://mewe.com/p/pcmxplay.it|
 |Apple User Club|https://mewe.com/p/appleuserclub|
 |winandmac Media|https://mewe.com/p/winandmachk|
+|Post76影音玩樂網|https://mewe.com/p/post76%E5%BD%B1%E9%9F%B3%E7%8E%A9%E6%A8%82%E7%B6%B21|
 
 ## KOL
 |<p style='font-size:20px'>KOL</p>||
@@ -689,6 +691,7 @@
 |Nutchies HK|https://mewe.com/p/nutchieshk|
 |RAS Handmade|https://mewe.com/p/rashandmade|
 |Groupbuyheya (Taiwan Groupbuy)|https://mewe.com/p/groupbuyheyataiwangroupbuy|
+|meMall|https://mewe.com/p/memall|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
