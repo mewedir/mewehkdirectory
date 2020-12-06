@@ -595,6 +595,8 @@
 |中西區石塘咀區議員葉錦龍|https://mewe.com/p/samyip|
 |中西區 西營盤區議員 黃永志Napo Wong|https://mewe.com/p/napowong|
 |大埔（林村谷）區議員陳振哲（機場大叔）|https://mewe.com/p/richardchan|
+|南區區議員 陳炳洋|https://mewe.com/p/chanpingyeung|
+|大埔廣福 區議員 連桷璋|https://mewe.com/p/%E9%80%A3%E6%A1%B7%E7%92%8B|
 
 ## 漫畫, 插畫
 |<p style='font-size:20px'>漫畫, 插畫</p>||
@@ -729,4 +731,4 @@
 |Penana - 香港人搞的小說網站|https://mewe.com/p/penana故事平台|
 |思想。影視媒體隨筆|https://mewe.com/p/思想影視媒體隨筆/|
 |都市風水命理|https://mewe.com/p/都市風水命理|
-
+|黃絲藝人|https://mewe.com/p/cannyleung-missandthecity|
