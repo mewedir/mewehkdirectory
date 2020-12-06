@@ -168,7 +168,7 @@
 |真·港人和你在泰國|https://mewe.com/join/realhkersinthailand|
 |紐西蘭Yellow Power NZ 聯同 We are Kiwi Hongkonger|https://mewe.com/join/wearekiwihongkonger|
 |紐約香港人|https://mewe.com/join/hkersinny|
-|透視新加坡|https://mewe.com/join/透視新加坡-seethroughsingapore除障破蒙看清新加坡|
+|透視新加坡|https://mewe.com/join/seethroughsingapore|
 |野佬MEWE聯合社|https://mewe.com/join/britishhongkongmeweclubofaustralia|
 |温哥華識飲識食交流區vancouverdineintakeout|https://mewe.com/group/5fb24d7cb722052ab3e98691|
 |港人在獅城|https://mewe.com/join/hkersinsg|
@@ -185,7 +185,6 @@
 |Hong Kongers in the UK 香港人在英國|https://mewe.com/join/hongkongersinuk|
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
-|香港人- 加拿大移民討論區|https://mewe.com/join/hk-to-canada|
 |🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
 
 ## 本土
@@ -267,6 +266,7 @@
 |愛鼠交流群I love hamster|https://mewe.com/join/ilovehamster|
 |貓奴貓屎貓事多|https://mewe.com/join/meowsmore|
 |毛孩與小孩|https://mewe.com/join/kidswithtails|
+|毛孩醫療🧬獸醫👨🏻⚕️分享|https://MeWe.com/join/hkvet|
 
 ## 飲飲食食
 |<p style='font-size:20px'>飲飲食食</p>||
@@ -329,6 +329,8 @@
 |HongKongYoga|https://mewe.com/join/hongkongyoga|
 |Make your own backpacking gear|https://mewe.com/join/myog-makeyourownbackpackinggear|
 |NBA 討論區|https://mewe.com/join/nba_hk1|
+|香港巴塞隆拿球迷區|https://mewe.com/join/hkforcabarca|
+|上水粉嶺大埔沙田新手單車群|https://mewe.com/join/上水粉嶺大埔沙田新手單車群|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -575,6 +577,8 @@
 |帶着包包去台灣|https://mewe.com/join/breadbabyintaiwan|
 |從零開始移民英國|https://mewe.com/join/readytogouk|
 
+|香港人- 加拿大移民討論區|https://mewe.com/join/hk-to-canada|
+
 ## 宗教
 |<p style='font-size:20px'>宗教</p>||
 |:---|---|
@@ -619,7 +623,7 @@
 |:---|---|
 |王艾倫冒險日記|https://mewe.com/p/王艾倫冒險日記1|
 |香港作家王迪詩|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E4%BD%9C%E5%AE%B6%E7%8E%8B%E8%BF%AA%E8%A9%A9|
-|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
+|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
 |游大東影視筆記|https://mewe.com/p/yautaitung|
 |Bobs Your Uncle (BOB叔)|https://mewe.com/p/bobsyouruncle|
 |梁凱寧|https://mewe.com/p/maggieleung梁凱寧|
@@ -695,6 +699,8 @@
 |RAS Handmade|https://mewe.com/p/rashandmade|
 |Groupbuyheya (Taiwan Groupbuy)|https://mewe.com/p/groupbuyheyataiwangroupbuy|
 |meMall|https://mewe.com/p/memall|
+|媽媽幼兒百貨|https://mewe.com/join/媽媽幼兒百貨|
+|Made in Hong Kong 寵物適用環保消毒噴霧|https://mewe.com/join/hyginovahq|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
@@ -702,6 +708,7 @@
 |（黃店）狼婆婆咖啡店 Om Grandma Wolf Coffee|https://mewe.com/p/狼婆婆咖啡店omgrandmawolfcoffee|
 |SeafoodGreat 嬌姐海鮮|https://mewe.com/p/seafoodgreatby%E5%AC%8C%E5%A7%90%E6%B5%B7%E9%AE%AE|
 |巴打鮮果|https://mewe.com/p/brosfruithk|
+|程班長台灣美食(Official Page)|https://mewe.com/p/程班長台灣美食officialpage|
 
 ## 其他
 |<p style='font-size:20px'>其他</p>||
@@ -721,3 +728,5 @@
 |昰樸催眠治療室 Sparkling Point Studi|https://mewe.com/p/sparklingpoint_studio|
 |Penana - 香港人搞的小說網站|https://mewe.com/p/penana故事平台|
 |思想。影視媒體隨筆|https://mewe.com/p/思想影視媒體隨筆/|
+|都市風水命理|https://mewe.com/p/都市風水命理|
+
