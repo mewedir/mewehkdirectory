@@ -42,6 +42,7 @@
 |Terry的媒體懶人堂|https://mewe.com/p/terry的媒體懶人堂|
 |PSHK|https://mewe.com/p/photographicsocietyhk|
 |Parity Media HK 社衡媒體|https://mewe.com/p/paritymediahk|
+|專業清算師|https://mewe.com/p/revengehi|
 
 ## 港島區
 |<p style='font-size:20px'>港島區</p>||
@@ -330,7 +331,7 @@
 |Make your own backpacking gear|https://mewe.com/join/myog-makeyourownbackpackinggear|
 |NBA 討論區|https://mewe.com/join/nba_hk1|
 |香港巴塞隆拿球迷區|https://mewe.com/join/hkforcabarca|
-|上水粉嶺大埔沙田新手單車群|https://mewe.com/join/上水粉嶺大埔沙田新手單車群|
+|上水粉嶺大埔沙田新手單車群|https://mewe.com/group/5fcc69c366714006b1f97b25|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -566,6 +567,7 @@
 |非中國製嘅小朋友用品|https://mewe.com/join/bbgoodsabc_canto|
 |市集資訊及檔主經驗分享區(香港)|https://mewe.com/group/5fb7a9476aab7206998bb643|
 |電訊台|https://mewe.com/join/電訊台|
+|理財投資|https://mewe.com/join/artoftrades|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -687,6 +689,7 @@
 |浪遊旅人|https://mewe.com/p/backpackerjim|
 |瀛遊物語|https://mewe.com/p/瀛遊物語jstorypro1|
 |Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
+|透視新加坡 SeeThrough Singapore|ttps://mewe.com/p/seethroughsingapore|
 
 ## 興趣
 |<p style='font-size:20px'>興趣</p>||
@@ -703,6 +706,8 @@
 |meMall|https://mewe.com/p/memall|
 |媽媽幼兒百貨|https://mewe.com/join/媽媽幼兒百貨|
 |Made in Hong Kong 寵物適用環保消毒噴霧|https://mewe.com/join/hyginovahq|
+|HisTrend.HK|https://mewe.com/p/histrend.hk|
+|香港手作網店|https://mewe.com/p/litlagom_hk|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
@@ -732,3 +737,4 @@
 |思想。影視媒體隨筆|https://mewe.com/p/思想影視媒體隨筆/|
 |都市風水命理|https://mewe.com/p/都市風水命理|
 |黃絲藝人|https://mewe.com/p/cannyleung-missandthecity|
+
