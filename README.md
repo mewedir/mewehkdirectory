@@ -15,8 +15,6 @@
 |[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
 
 # Group 目錄
-
-
 ## 新聞, 時事
 |<p style='font-size:20px'>新聞, 時事</p>||
 |:---|---|
@@ -491,7 +489,7 @@
 |鳩吹星座谷|https://mewe.com/join/imaquarius|
 |靈異02吹水谷|https://mewe.com/join/hk0202chat|
 |NES’ TAROT｜塔羅牌、雷諾曼、占卜卡全方位討論區|https://mewe.com/join/nestarot|
-|Rabbit B塔羅時間|https://mewe.com/join/rabbitbworkshop|
+
 |🎗玄學和你傾🔮✨|https://mewe.com/join/yellowfaith|
 
 ## 感情生活
@@ -534,6 +532,7 @@
 |《窮家有道 - 窮生 X HR熊 》|https://mewe.com/p/mr_mrspoor|
 |香港裝修及室內設計交流|https://mewe.com/join/decos|
 |Noraneko Butai 野良猫部隊|https://mewe.com/join/noranekobutai野良猫部隊|
+|Rabbit B塔羅時間|https://mewe.com/join/rabbitbworkshop|
 
 ## 其他
 |<p style='font-size:20px'>其他</p>||
@@ -580,8 +579,6 @@
 |HK Couple.Murmur|https://mewe.com/join/couplemurmur|
 |全港抄牌提示區|https://mewe.com/join/hkticket|
 |🎗LADY'z Secrets💃🏻💋|https://mewe.com/join/yellowlady|
-|丘品群組|https://mewe.com/join/cupidforum|
-|連登9up group|https://mewe.com/join/lihkg2|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -602,7 +599,6 @@
 |🎗佛偈和你傾🙏🏻|https://mewe.com/join/yellowbuddah|
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
-
 # Page 目錄
 
 
