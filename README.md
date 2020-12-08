@@ -3,7 +3,7 @@
 | [Group 目錄](#group-目錄)  |                       |                       |                                           |                                   |
 | -------------------------- | --------------------- | --------------------- | ----------------------------------------- | --------------------------------- |
 | [新聞, 時事](#新聞-時事)   | [港島區](#港島區)     | [九龍區](#九龍區)     | [新界區](#新界區)                         | [外國勢力](#外國勢力)             |
-| [本土](#本土)              | [寵物](#寵物)         | [飲飲食食](#飲飲食食) | [運動](#運動)                             | [娛樂,電影, 電視](#娛樂電影-電視) |
+| [本土](#本土)              | [寵物](#寵物)         | 飲飲食食](#飲飲食食) | [運動](#運動)                             | [娛樂,電影, 電視](#娛樂電影-電視) |
 | [動漫, 電玩](#動漫-電玩)   | [旅遊](#旅遊)         | [興趣](#興趣)         | [二手買賣, Free](#二手買賣-free)          | [外國資訊](#外國資訊)             |
 | [玄學/神秘學](#玄學神秘學) | [感情生活](#感情生活) | [醫療保健](#醫療保健) | [教育、家庭、育兒資訊](#教育家庭育兒資訊) | [美術、插畫](#美術插畫)           |
 | [其他](#其他)              | [移民](#移民)         | [宗教](#宗教) | | |
@@ -13,6 +13,7 @@
 |[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [KOL](#kol) | [新聞, 時事討論](#新聞-時事討論) |
 |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| [旅遊](#旅遊-1) |
 |[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
+
 # Group 目錄
 
 
@@ -339,6 +340,7 @@
 |香港巴塞隆拿球迷區|https://mewe.com/join/hkforcabarca|
 |上水粉嶺大埔沙田新手單車群|https://mewe.com/group/5fcc69c366714006b1f97b25|
 |王肯尼|https://mewe.com/join/kingkenny_2020|
+|SlamTalk NBA 討論區|https://mewe.com/join/slamtalkhknba討論區|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -455,8 +457,8 @@
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
 |香港水族交流及買賣群組|https://mewe.com/join/hkaquagroup|
 
-## 二手買賣, Free
-|<p style='font-size:20px'>二手買賣, Free</p>||
+## 二手買賣, Free, 團購
+|<p style='font-size:20px'>二手買賣, Free, 團購</p>||
 |:---|---|
 |一二手球衣交易站Jersey Exchange Station|https://mewe.com/join/jersey|
 |二手物品轉讓，用得唔好哂|https://mewe.com/join/secondhandtransfer|
@@ -478,6 +480,7 @@
 ||https://mewe.com/join/同路人二手交易群|
 |我們都是真香港人♡手足情深FREE感恩♡|https://mewe.com/join/yellowbrother4free|
 |全港舖位租售平台|https://mewe.com/join/hkshop|
+|西柚FOODIE和你購(WESTERN FOODIE GO SHOPPING)|https://mewe.com/group/5fbf68a6098c80318a8f255b|
 
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
@@ -731,6 +734,7 @@
 |Made in Hong Kong 寵物適用環保消毒噴霧|https://mewe.com/join/hyginovahq|
 |HisTrend.HK|https://mewe.com/p/histrend.hk|
 |香港手作網店|https://mewe.com/p/litlagom_hk|
+|Jerry's Jetso|https://mewe.com/p/jerrysjetso|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
