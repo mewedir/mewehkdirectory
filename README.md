@@ -13,8 +13,8 @@
 |[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [KOL](#kol) | [新聞, 時事討論](#新聞-時事討論) |
 |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| [旅遊](#旅遊-1) |
 |[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
-
 # Group 目錄
+
 
 ## 新聞, 時事
 |<p style='font-size:20px'>新聞, 時事</p>||
@@ -45,6 +45,7 @@
 |丘品新聞|https://mewe.com/p/cupidproducer_cupidnews|
 |Prism Press|https://mewe.com/p/prismpress|
 |日不落傳媒 Hong Kong Never Sets|https://mewe.com/p/日不落傳媒hongkongneversets|
+|拾玖傳媒 Nineteen Media|https://mewe.com/p/%E6%8B%BE%E7%8E%96%E5%82%B3%E5%AA%92nineteenmedia|
 
 ## 港島區
 |<p style='font-size:20px'>港島區</p>||
@@ -640,7 +641,6 @@
 |Apple User Club|https://mewe.com/p/appleuserclub|
 |winandmac Media|https://mewe.com/p/winandmachk|
 |Post76影音玩樂網|https://mewe.com/p/post76%E5%BD%B1%E9%9F%B3%E7%8E%A9%E6%A8%82%E7%B6%B21|
-|IT 電腦資訊 ezone.hk|https://mewe.com/p/ezonehk|
 |Watchnow Production|https://mewe.com/p/watchnowproduction4|
 
 ## KOL
