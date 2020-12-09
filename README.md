@@ -193,6 +193,7 @@
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
 |🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
+|NSW Hongkongers （悉尼）🇦🇺🇭🇰|https://mewe.com/join/nswhongkongers|
 
 ## 本土
 |<p style='font-size:20px'>本土</p>||
@@ -341,6 +342,7 @@
 |上水粉嶺大埔沙田新手單車群|https://mewe.com/group/5fcc69c366714006b1f97b25|
 |王肯尼|https://mewe.com/join/kingkenny_2020|
 |SlamTalk NBA 討論區|https://mewe.com/join/slamtalkhknba討論區|
+|足字室|https://mewe.com/join/zukzisathk|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -359,6 +361,7 @@
 |台灣Youtuber交流會 - 香港站|https://mewe.com/join/yttw4hker|
 |思想。影視媒體隨筆|https://mewe.com/join/thinking.media.blog|
 |丘品創作|https://mewe.com/join/cupidforum|
+|香港Podcast \| Share香港人聽嘅Podcast節目|https://mewe.com/group/5fc09dbf5fb2797f201796be|
 
 ## 動漫, 電玩
 |<p style='font-size:20px'>動漫, 電玩</p>||
@@ -565,7 +568,6 @@
 |香港設計職人工會 group|https://mewe.com/join/hkdiu|
 |香港資訊轉載組|https://mewe.com/join/hkarchive|
 |香港電筒迷 HK FLASHAHOLIC|https://mewe.com/join/hkflashaholic|
-|香港Podcast \| Share香港人聽嘅Podcast節目|https://mewe.com/group/5fc09dbf5fb2797f201796be|
 |家黃萬事興|https://mewe.com/join/家黃黃事興|
 |區義員 Watlunteer|https://mewe.com/join/watlunteers|
 |網購優惠小百科|https://mewe.com/join/buyshipunbox|
@@ -586,6 +588,7 @@
 |HK Couple.Murmur|https://mewe.com/join/couplemurmur|
 |全港抄牌提示區|https://mewe.com/join/hkticket|
 |🎗LADY'z Secrets💃🏻💋|https://mewe.com/join/yellowlady|
+|社會創新|https://mewe.com/join/socialinnovation|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
