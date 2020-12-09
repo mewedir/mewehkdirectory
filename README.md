@@ -13,7 +13,6 @@
 |[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [KOL](#kol) | [新聞, 時事討論](#新聞-時事討論) |
 |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| [旅遊](#旅遊-1) |
 |[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
-
 # Group 目錄
 
 
@@ -45,6 +44,8 @@
 |民間清算師|https://mewe.com/p/vendettists|
 |丘品新聞|https://mewe.com/p/cupidproducer_cupidnews|
 |Prism Press|https://mewe.com/p/prismpress|
+|日不落傳媒 Hong Kong Never Sets|https://mewe.com/p/日不落傳媒hongkongneversets|
+|拾玖傳媒 Nineteen Media|https://mewe.com/p/%E6%8B%BE%E7%8E%96%E5%82%B3%E5%AA%92nineteenmedia|
 
 ## 港島區
 |<p style='font-size:20px'>港島區</p>||
@@ -191,6 +192,7 @@
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
 |🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
+|NSW Hongkongers （悉尼）🇦🇺🇭🇰|https://mewe.com/join/nswhongkongers|
 
 ## 本土
 |<p style='font-size:20px'>本土</p>||
@@ -338,6 +340,8 @@
 |香港巴塞隆拿球迷區|https://mewe.com/join/hkforcabarca|
 |上水粉嶺大埔沙田新手單車群|https://mewe.com/group/5fcc69c366714006b1f97b25|
 |王肯尼|https://mewe.com/join/kingkenny_2020|
+|SlamTalk NBA 討論區|https://mewe.com/join/slamtalkhknba討論區|
+|足字室|https://mewe.com/join/zukzisathk|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -356,6 +360,7 @@
 |台灣Youtuber交流會 - 香港站|https://mewe.com/join/yttw4hker|
 |思想。影視媒體隨筆|https://mewe.com/join/thinking.media.blog|
 |丘品創作|https://mewe.com/join/cupidforum|
+|香港Podcast \| Share香港人聽嘅Podcast節目|https://mewe.com/group/5fc09dbf5fb2797f201796be|
 
 ## 動漫, 電玩
 |<p style='font-size:20px'>動漫, 電玩</p>||
@@ -386,6 +391,7 @@
 |香港聖鬥士星矢同盟會|https://mewe.com/join/saintseiyahk|
 |LEGO FORUM 樂高討論區|https://mewe.com/join/legoforum|
 |Cyberpunk2077 香港吹水谷|https://mewe.com/join/cyberpunk2077together|
+|香港獨立神魔討論區🇭🇰|https://mewe.com/join/towerofsavior_hk|
 
 ## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
@@ -454,8 +460,8 @@
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
 |香港水族交流及買賣群組|https://mewe.com/join/hkaquagroup|
 
-## 二手買賣, Free
-|<p style='font-size:20px'>二手買賣, Free</p>||
+## 二手買賣, Free, 團購
+|<p style='font-size:20px'>二手買賣, Free, 團購</p>||
 |:---|---|
 |一二手球衣交易站Jersey Exchange Station|https://mewe.com/join/jersey|
 |二手物品轉讓，用得唔好哂|https://mewe.com/join/secondhandtransfer|
@@ -477,6 +483,8 @@
 ||https://mewe.com/join/同路人二手交易群|
 |我們都是真香港人♡手足情深FREE感恩♡|https://mewe.com/join/yellowbrother4free|
 |全港舖位租售平台|https://mewe.com/join/hkshop|
+|西柚FOODIE和你購(WESTERN FOODIE GO SHOPPING)|https://mewe.com/group/5fbf68a6098c80318a8f255b|
+|食通18區，區區有團購|https://mewe.com/join/eatingin18districtsofhk|
 
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
@@ -561,7 +569,6 @@
 |香港設計職人工會 group|https://mewe.com/join/hkdiu|
 |香港資訊轉載組|https://mewe.com/join/hkarchive|
 |香港電筒迷 HK FLASHAHOLIC|https://mewe.com/join/hkflashaholic|
-|香港Podcast \| Share香港人聽嘅Podcast節目|https://mewe.com/group/5fc09dbf5fb2797f201796be|
 |家黃萬事興|https://mewe.com/join/家黃黃事興|
 |區義員 Watlunteer|https://mewe.com/join/watlunteers|
 |網購優惠小百科|https://mewe.com/join/buyshipunbox|
@@ -582,6 +589,7 @@
 |HK Couple.Murmur|https://mewe.com/join/couplemurmur|
 |全港抄牌提示區|https://mewe.com/join/hkticket|
 |🎗LADY'z Secrets💃🏻💋|https://mewe.com/join/yellowlady|
+|社會創新|https://mewe.com/join/socialinnovation|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -640,7 +648,6 @@
 |Apple User Club|https://mewe.com/p/appleuserclub|
 |winandmac Media|https://mewe.com/p/winandmachk|
 |Post76影音玩樂網|https://mewe.com/p/post76%E5%BD%B1%E9%9F%B3%E7%8E%A9%E6%A8%82%E7%B6%B21|
-|IT 電腦資訊 ezone.hk|https://mewe.com/p/ezonehk|
 |Watchnow Production|https://mewe.com/p/watchnowproduction4|
 
 ## KOL
@@ -654,6 +661,7 @@
 |梁凱寧|https://mewe.com/p/maggieleung梁凱寧|
 |香港棉花糖女孩Cherry|https://mewe.com/p/cherry1|
 |成波之路 my ways to get fat|https://mewe.com/p/mywaystogetfat|
+|夜透紫的茄子粉絲貓窩|https://mewe.com/p/writingcat|
 
 ## 新聞, 時事討論
 |<p style='font-size:20px'>新聞, 時事討論</p>||
@@ -731,6 +739,7 @@
 |Made in Hong Kong 寵物適用環保消毒噴霧|https://mewe.com/join/hyginovahq|
 |HisTrend.HK|https://mewe.com/p/histrend.hk|
 |香港手作網店|https://mewe.com/p/litlagom_hk|
+|Jerry's Jetso|https://mewe.com/p/jerrysjetso|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
@@ -740,6 +749,12 @@
 |巴打鮮果|https://mewe.com/p/brosfruithk|
 |程班長台灣美食(Official Page)|https://mewe.com/p/程班長台灣美食officialpage|
 
+## 寵物
+|<p style='font-size:20px'>寵物</p>||
+|:---|---|
+|貓奴貓事多|https://mewe.com/p/meowsmore|
+|英國為食貓 Hungry Cat UK|https://mewe.com/p/hungrycatuk|
+
 ## 其他
 |<p style='font-size:20px'>其他</p>||
 |:---|---|
@@ -748,7 +763,6 @@
 |高登音樂台|https://mewe.com/p/高登音樂台hkgoldenmusic|
 |啱channel|https://mewe.com/p/啱channel|
 |悠與花火|https://mewe.com/p/悠與花火|
-|貓奴貓事多|https://mewe.com/p/meowsmore|
 |ANGEL CIRCLE BY CARLIE塔羅占卜|https://mewe.com/p/angelcirclebycarlie塔羅占卜|
 |LIHKG|https://mewe.com/p/lihkg_forum|
 |Nothing Serious|https://mewe.com/p/nothingserious|
