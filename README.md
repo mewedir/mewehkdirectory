@@ -13,6 +13,7 @@
 |[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [KOL](#kol) | [新聞, 時事討論](#新聞-時事討論) |
 |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| [旅遊](#旅遊-1) |
 |[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
+
 # Group 目錄
 
 
@@ -46,6 +47,11 @@
 |Prism Press|https://mewe.com/p/prismpress|
 |日不落傳媒 Hong Kong Never Sets|https://mewe.com/p/日不落傳媒hongkongneversets|
 |拾玖傳媒 Nineteen Media|https://mewe.com/p/%E6%8B%BE%E7%8E%96%E5%82%B3%E5%AA%92nineteenmedia|
+
+## 離島區
+|<p style='font-size:20px'>離島區</p>||
+|:---|---|
+|東涌街坊吹水會|https://mewe.com/join/tungchungbuddiesclub|
 
 ## 港島區
 |<p style='font-size:20px'>港島區</p>||
@@ -141,6 +147,7 @@
 |廣福宏福|https://mewe.com/join/kwongfukwangfuk|
 |屏欣苑|https://mewe.com/join/pingyancourt|
 |將軍澳人|https://mewe.com/join/tkopeople|
+|大埔區-議會前線|https://mewe.com/join/taipodistrictfrontline|
 
 ## 外國勢力
 |<p style='font-size:20px'>外國勢力</p>||
@@ -274,6 +281,7 @@
 |貓奴貓屎貓事多|https://mewe.com/join/meowsmore|
 |毛孩與小孩|https://mewe.com/join/kidswithtails|
 |毛孩醫療🧬獸醫👨🏻⚕️分享|https://MeWe.com/join/hkvet|
+|一臀和氣 YELLOW PUGS|https://mewe.com/group/5fcc999466714006b192a6e4|
 
 ## 飲飲食食
 |<p style='font-size:20px'>飲飲食食</p>||
@@ -392,6 +400,7 @@
 |LEGO FORUM 樂高討論區|https://mewe.com/join/legoforum|
 |Cyberpunk2077 香港吹水谷|https://mewe.com/join/cyberpunk2077together|
 |香港獨立神魔討論區🇭🇰|https://mewe.com/join/towerofsavior_hk|
+|牧場物語系列～農夫圍爐|https://mewe.com/join/harvestmoon|
 
 ## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
@@ -459,6 +468,7 @@
 |香港電子書討論|https://mewe.com/group/5fc8a368318dcd7d246100c6|
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
 |香港水族交流及買賣群組|https://mewe.com/join/hkaquagroup|
+|聲覺遊列破 SHINKAYO THEATRE|https://mewe.com/join/shinkayotheatre|
 
 ## 二手買賣, Free, 團購
 |<p style='font-size:20px'>二手買賣, Free, 團購</p>||
@@ -706,6 +716,7 @@
 |食·港女🎗|https://mewe.com/p/eathkgirls1|
 |Little B Kitchen 💛 小B廚房|https://mewe.com/p/littlebkitchen|
 |candace mama|https://mewe.com/p/candacemama|
+|Coffee Slave|https://mewe.com/p/coffeeslave1|
 
 ## Gamer
 |<p style='font-size:20px'>Gamer</p>||
@@ -776,3 +787,4 @@
 |黃絲藝人|https://mewe.com/p/cannyleung-missandthecity|
 |NT photography|https://mewe.com/p/ntphotography|
 |Car1hk|https://mewe.com/p/car1hk|
+
