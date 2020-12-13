@@ -251,6 +251,8 @@
 |香港人吹下水|https://mewe.com/join/hktalk|
 |民主同路人每日資訊|https://mewe.com/group/5fc094a9eabc344c979f3164|
 |向中國製造說不 ！Say NO to Made in China|https://mewe.com/join/hkersaynotomakeinchina|
+|🚨 全港18區巴絲打討論區🚨|https://mewe.com/join/hkdiscuss|
+|香港老舖紀錄冊|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E8%80%81%E8%88%96%E8%A8%98%E9%8C%84%E5%86%8A|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
@@ -314,6 +316,7 @@
 |今晚掃「黃」掃邊度？|https://mewe.com/join/tonightsowongmission|
 |VINO E AMIGOS 好酒好友|https://mewe.com/group/5fc77ee5318dcd7d243e5784|
 |香港人和你Drunk|https://mewe.com/join/hongkongerdrinker|
+|純素生活|https://mewe.com/join/純素生活|
 
 ## 運動
 |<p style='font-size:20px'>運動</p>||
@@ -428,6 +431,7 @@
 |環球旅人group|https://mewe.com/join/trafolife|
 |韓國自遊行與自駕遊分享|https://mewe.com/join/traveltokorea|
 |沖繩日本旅遊|https://mewe.com/join/沖繩旅行|
+|香港人踩車旅行|http://MeWe.com/join/hkgerBT|
 
 ## 興趣
 |<p style='font-size:20px'>興趣</p>||
@@ -600,6 +604,7 @@
 |全港抄牌提示區|https://mewe.com/join/hkticket|
 |🎗LADY'z Secrets💃🏻💋|https://mewe.com/join/yellowlady|
 |社會創新|https://mewe.com/join/socialinnovation|
+|微 辣 係 時 候 返 澳 門|https://mewe.com/join/mannertomacau|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -640,7 +645,6 @@
 ## 漫畫, 插畫
 |<p style='font-size:20px'>漫畫, 插畫</p>||
 |:---|---|
-|小熊群膠會 (圖文page)|https://mewe.com/p/stupidnfun|
 |四格好波 IC SOCCER|https://mewe.com/p/%E5%9B%9B%E6%A0%BC%E5%A5%BD%E6%B3%A2icsoccer|
 |癲噹 Din Dong|https://mewe.com/p/dindong|
 |小熊群膠會 (圖文page)|https://mewe.com/p/stupidnfun|
@@ -680,6 +684,7 @@
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 |FORTUNE INSIGHT|https://mewe.com/p/fortuneinsight|
 |邁步工房|https://mewe.com/p/%E9%82%81%E6%AD%A5%E5%B7%A5%E6%88%BF|
+|寰雨膠事錄 國際新聞Gaus.ee台|https://mewe.com/p/gaus.ee|
 
 ## 運動
 |<p style='font-size:20px'>運動</p>||
@@ -698,7 +703,6 @@
 |幫港發聲 Sing Majority|https://mewe.com/p/singmajority|
 |香港民研會|https://mewe.com/p/hkpori|
 |黑盡元朗|https://mewe.com/p/allblackyuenlong7214|
-|Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 |連豬買買買|https://mewe.com/p/lipig.buybuybuy|
 |掃「黃」行動|https://mewe.com/p/sowongmission|
 |燕子生命 十年抗爭支援|https://mewe.com/p/燕子生命十年抗爭支援|
@@ -751,6 +755,8 @@
 |HisTrend.HK|https://mewe.com/p/histrend.hk|
 |香港手作網店|https://mewe.com/p/litlagom_hk|
 |Jerry's Jetso|https://mewe.com/p/jerrysjetso|
+|deerfrd|https://mewe.com/p/deerfrd3|
+|MI MING MART 彌明生活百貨|https://mewe.com/p/mimingmart%E5%BD%8C%E6%98%8E%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
@@ -759,6 +765,7 @@
 |SeafoodGreat 嬌姐海鮮|https://mewe.com/p/seafoodgreatby%E5%AC%8C%E5%A7%90%E6%B5%B7%E9%AE%AE|
 |巴打鮮果|https://mewe.com/p/brosfruithk|
 |程班長台灣美食(Official Page)|https://mewe.com/p/程班長台灣美食officialpage|
+|一素店 One Vegan Shop|https://mewe.com/p/%E4%B8%80%E7%B4%A0%E5%BA%97oneveganshop|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
@@ -787,4 +794,3 @@
 |黃絲藝人|https://mewe.com/p/cannyleung-missandthecity|
 |NT photography|https://mewe.com/p/ntphotography|
 |Car1hk|https://mewe.com/p/car1hk|
-
