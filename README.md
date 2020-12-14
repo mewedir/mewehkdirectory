@@ -149,6 +149,7 @@
 |Tai Po · Fu Heng 大埔 · 富亨|https://mewe.com/join/taipofuheng|
 |Tai Po 大埔|https://mewe.com/join/taipo|
 ||https://mewe.com/join/tuenmuncow|
+|荃灣人|https://mewe.com/join/825tsuenwan|
 
 ## 外國勢力
 |<p style='font-size:20px'>外國勢力</p>||
@@ -450,6 +451,7 @@
 |歐洲自助旅遊谷|https://mewe.com/join/eurotravel|
 |環球旅人group|https://mewe.com/join/trafolife|
 |韓國自遊行與自駕遊分享|https://mewe.com/join/traveltokorea|
+|又飛啦旅人團|https://mewe.com/congratulations/public/flyagainla|
 
 ## 興趣
 |<p style='font-size:20px'>興趣</p>||
@@ -517,6 +519,7 @@
 |啟德free物區💛|https://mewe.com/join/pay.it.forward.in.kai.tak|
 |OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 ||https://mewe.com/join/同路人二手交易群|
+|香港網購/代購交流ONLINE SHOPPING FOR HONGKONGER|https://mewe.com/join/香港網購代購交流onlineshoppingforhongkonger|
 
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
