@@ -452,6 +452,7 @@
 |環球旅人group|https://mewe.com/join/trafolife|
 |韓國自遊行與自駕遊分享|https://mewe.com/join/traveltokorea|
 |又飛啦旅人團|https://mewe.com/congratulations/public/flyagainla|
+|香港人里數/獎賞/旅遊分享區|https://mewe.com/join/rewardexchangehker|
 
 ## 興趣
 |<p style='font-size:20px'>興趣</p>||
@@ -573,6 +574,7 @@
 |香港嘩鬼媽媽交流谷|https://mewe.com/join/hkmama|
 |家家有本難唸的經|Https://mewe.com/join/familybible|
 |港爸港媽大戰鬥|https://mewe.com/join/hkfmbattle|
+|香港爸媽 子女教育交流頻道|https://mewe.com/join/parentinghker|
 
 ## 美術、插畫
 |<p style='font-size:20px'>美術、插畫</p>||
@@ -622,6 +624,7 @@
 |sales同工圍爐區|https://mewe.com/join/香港sales同路人圍爐取爐區|
 |Sing hk song by yourself|https://mewe.com/join/sing_hk_song_by_yourself_|
 |SKINCARE \| MAKEUP \| HAIR \| NAIL|https://mewe.com/join/beauty_hkers|
+|Black news being covered|https://mewe.com/join/blacknewsbeingcovered|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -680,6 +683,8 @@
 |winandmac Media|https://mewe.com/p/winandmachk|
 |Post76影音玩樂網|https://mewe.com/p/post76%E5%BD%B1%E9%9F%B3%E7%8E%A9%E6%A8%82%E7%B6%B21|
 |Watchnow Production|https://mewe.com/p/watchnowproduction4|
+|unwire.hk|https://mewe.com/p/unwire.hk|
+|unwire.pro|https://mewe.com/p/unwire.pro|
 
 ## KOL
 |<p style='font-size:20px'>KOL</p>||
@@ -693,6 +698,7 @@
 |香港棉花糖女孩Cherry|https://mewe.com/p/cherry1|
 |成波之路 my ways to get fat|https://mewe.com/p/mywaystogetfat|
 |夜透紫的茄子粉絲貓窩|https://mewe.com/p/writingcat|
+|Muddy Water 渾水財經Channel|https://mewe.com/p/%E6%B8%BE%E6%B0%B4%E8%B2%A1%E7%B6%93channel|
 
 ## 新聞, 時事討論
 |<p style='font-size:20px'>新聞, 時事討論</p>||
