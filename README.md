@@ -22,8 +22,10 @@
 |<p style='font-size:20px'>新聞, 時事</p>||
 |:---|---|
 |👮🏿👮🏿♀香港黑警宣傳部👮🏿👮🏿♀ Hong Kong Popo News|https://mewe.com/join/HKPopo|
-|日不落傳媒 Hong Kong Never Sets|https://mewe.com/p/日不落傳媒hongkongneversets|
+|獨立媒體 inmediahk.net|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94www.inmediahk.net1|
+|日不落傳媒 Hong Kong Never Sets|https://mewe.com/p/%E6%97%A5%E4%B8%8D%E8%90%BD%E5%82%B3%E5%AA%92hongkongneversets|
 |丘品新聞|https://mewe.com/p/cupidproducer_cupidnews|
+|D100|https://mewe.com/p/d100|
 |本地網媒 - 陣地文化|https://mewe.com/p/%E9%99%A3%E5%9C%B01|
 |民間清算師|https://mewe.com/p/vendettists|
 |休班記者 (請搜尋 ondutyjournalist)|https://mewe.com/p/%E4%BC%91%E7%8F%AD%E8%A8%98%E8%80%85|
@@ -34,20 +36,25 @@
 |香港突發事故報料區及討論區|https://mewe.com/join/HKGuy|
 |香港時事台|https://mewe.com/join/hk_news|
 |香港時事討論群組|https://mewe.com/join/news9upper|
-|香港新聞討論區|https://mewe.com/join/香港新聞討論區|
+|香港新聞討論區|https://mewe.com/group/5fbb48726aab720699e7da05|
 |香港新聞轉載群組|https://mewe.com/join/香港新聞轉載群組|
 |真.香港新聞 💎|https://mewe.com/join/news15|
+|香港財經時報|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E8%B2%A1%E7%B6%93%E6%99%82%E5%A0%B1|
 |專業清算師|https://mewe.com/p/revengehi|
 |監察TVB行動組|https://mewe.com/join/banTVBteam|
 |聚言時報 Polymer|https://mewe.com/p/polymerhk|
 |獨立媒體|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94wwwinmediahknet1|
 |蘋果日報北美版|https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%88|
+|香港蘋果日報|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1|
 |MeWe 100毛|https://mewe.com/p/100most|
 |MeWe 毛記電視|https://mewe.com/p/tvmost|
 |Parity Media HK 社衡媒體|https://mewe.com/p/paritymediahk|
+|謎米香港 memehk.com|https://mewe.com/p/%E8%AC%8E%E7%B1%B3%E9%A6%99%E6%B8%AFmemehk.com|
 |Prism Press|https://mewe.com/p/prismpress|
 |PSHK|https://mewe.com/p/photographicsocietyhk|
-|Terry的媒體懶人堂|https://mewe.com/p/terry的媒體懶人堂|
+|Terry的媒體懶人堂|https://mewe.com/p/terry%E7%9A%84%E5%AA%92%E9%AB%94%E6%87%B6%E4%BA%BA%E5%A0%82|
+
+
 
 ## 離島區
 |<p style='font-size:20px'>離島區</p>||
@@ -231,6 +238,7 @@
 |TAMA TAXI|https://mewe.com/join/tamagroup_hk|
 |香港中上環Lunch情報區|https://mewe.com/join/hkcentralsheungwanlunch|
 |香港外賣及速遞平台綜合交流區|https://mewe.com/join/fooddeliveryforum|
+|香港人日程表|https://mewe.com/p/hkerschedule|
 
 ## 本土討論區
 |<p style='font-size:20px'>本土討論區</p>||
@@ -247,6 +255,9 @@
 |香港人吹下水|https://mewe.com/join/hktalk|
 |真香港人群組!|https://mewe.com/join/realhk|
 |Welcome hongkong group香港群|https://mewe.com/join/hongkong9|
+|公開論壇11|https://mewe.com/join/citizens_forum_|
+|香港人香港事12|https://mewe.com/join/hk_people_|
+|自由傾自由講13|https://mewe.com/join/freespeaking|
 
 ## 本土其他
 |<p style='font-size:20px'>本土其他</p>||
@@ -385,7 +396,8 @@
 |多功能阿婆 楊千嬋|https://mewe.com/group/5fb3c0cea7e4cb20fe6889f6|
 |思想。影視媒體隨筆|https://mewe.com/join/thinking.media.blog|
 |英美劇討論區|https://mewe.com/join/enustv1|
-|香港 Netflix 分享區|https://mewe.com/join/香港netflix分享區|
+|香港 Netflix 分享區|https://mewe.com/group/5fba7491b5399e4e0ccd58b5|
+|Netflix 香港分享區|https://mewe.com/join/hknetelix|
 |香港Podcast \| Share香港人聽嘅Podcast節目|https://mewe.com/group/5fc09dbf5fb2797f201796be|
 |黃金爆谷圈(電影) |https://mewe.com/join/yellowpopcorn|
 |煲劇迷|https://mewe.com/join/hongkongwatcher|
@@ -419,6 +431,7 @@
 |PlayStation真香港人膠流流group|https://mewe.com/join/pshkers9laulau|
 |Sanrio買賣分享谷|https://mewe.com/join/sanriohkgroup|
 |Switch 新作🕹討論🎯買賣谷|https://mewe.com/join/hkswitchgamers|
+|香港 Switch 任天堂 任記 討論區|https://mewe.com/join/hkswitch|
 |TK工房 3D模型高達 首辦製作|https://mewe.com/join/tkworksd|
 |Winnie the Pooh 小熊維尼分享區|https://mewe.com/join/happysharingpoohhk|
 |Xbox Series X/S 玩家俱樂部|https://mewe.com/join/xboxseriesxs玩家俱樂部|
@@ -538,6 +551,7 @@
 |鳩吹星座谷|https://mewe.com/join/imaquarius|
 |靈異02吹水谷|https://mewe.com/join/hk0202chat|
 |NES’ TAROT｜塔羅牌、雷諾曼、占卜卡全方位討論區|https://mewe.com/join/nestarot|
+|星座迷因|https://mewe.com/join/星座迷因|
 
 ## 感情生活
 |<p style='font-size:20px'>感情生活</p>||
@@ -625,6 +639,7 @@
 |Sing hk song by yourself|https://mewe.com/join/sing_hk_song_by_yourself_|
 |SKINCARE \| MAKEUP \| HAIR \| NAIL|https://mewe.com/join/beauty_hkers|
 |Black news being covered|https://mewe.com/join/blacknewsbeingcovered|
+|香港搵工|https://mewe.com/join/hkfindjobs|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -672,6 +687,7 @@
 |窮人誌|https://mewe.com/p/窮人誌1|
 |Dustykid|https://mewe.com/p/dustykid|
 |MtzCherry X Ricebowlhead|https://mewe.com/p/mtzcherryxricebowlhead1|
+|黑人 harkyan|https://mewe.com/p/hello20s3|
 
 ## IT, 資訊科技類
 |<p style='font-size:20px'>IT, 資訊科技類</p>||
@@ -689,6 +705,7 @@
 ## KOL
 |<p style='font-size:20px'>KOL</p>||
 |:---|---|
+|黃世澤|https://mewe.com/p/martinoei%E9%BB%83%E4%B8%96%E6%BE%A4|
 |王艾倫冒險日記|https://mewe.com/p/王艾倫冒險日記1|
 |香港作家王迪詩|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E4%BD%9C%E5%AE%B6%E7%8E%8B%E8%BF%AA%E8%A9%A9|
 |Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
@@ -700,10 +717,12 @@
 |夜透紫的茄子粉絲貓窩|https://mewe.com/p/writingcat|
 |Muddy Water 渾水財經Channel|https://mewe.com/p/%E6%B8%BE%E6%B0%B4%E8%B2%A1%E7%B6%93channel|
 
+
 ## 新聞, 時事討論
 |<p style='font-size:20px'>新聞, 時事討論</p>||
 |:---|---|
 |香港新聞文宣轉載|https://mewe.com/p/香港新聞文宣轉載1|
+
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 |FORTUNE INSIGHT|https://mewe.com/p/fortuneinsight|
 |邁步工房|https://mewe.com/p/%E9%82%81%E6%AD%A5%E5%B7%A5%E6%88%BF|
