@@ -15,7 +15,6 @@
 |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| [旅遊](#旅遊-1) |
 |[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
 
-
 # Group 目錄
 
 
@@ -540,6 +539,7 @@
 |啟德free物區💛|https://mewe.com/join/pay.it.forward.in.kai.tak|
 |OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 ||https://mewe.com/join/同路人二手交易群|
+|魚兒。野生動物保育日常|https://mewe.com/p/%E9%AD%9A%E5%85%92%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2%E6%97%A5%E5%B8%B8|
 
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
@@ -745,6 +745,7 @@
 |Fitz 運動平台|https://mewe.com/p/fitz%E9%81%8B%E5%8B%95%E5%B9%B3%E5%8F%B0|
 |liverpudlianty@mewe|https://mewe.com/p/liverpudliantymewe1|
 |球迷世界|https://mewe.com/p/球迷世界|
+|FanPiece 籃球地帶|https://mewe.com/p/fanpiece%E7%B1%83%E7%90%83%E5%9C%B0%E5%B8%B6|
 
 ## 本土,社運
 |<p style='font-size:20px'>本土,社運</p>||
@@ -817,6 +818,7 @@
 |程班長台灣美食(Official Page)|https://mewe.com/p/程班長台灣美食officialpage|
 |一素店 One Vegan Shop|https://mewe.com/p/%E4%B8%80%E7%B4%A0%E5%BA%97oneveganshop|
 |黃店 Cosmos Restaurant & Bar|https://mewe.com/p/cosmosrestaurantbar|
+|素食黃店|https://mewe.com/p/vwvegancafe|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
