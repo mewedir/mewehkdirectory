@@ -284,6 +284,7 @@
 |HONG KONG Nationals 香港國民|https://mewe.com/join/hongkongnationals|
 |MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
 |TechDogClub 科技狗俱樂部 (Podcast)|https://mewe.com/join/techdogclub|
+|香港 Linux 用家協會 (HKLUG)|https://mewe.com/join/hklug|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
