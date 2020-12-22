@@ -14,6 +14,7 @@
 |[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [KOL](#kol) | [新聞, 時事討論](#新聞-時事討論) |
 |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| [旅遊](#旅遊-1) |
 |[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
+
 # Group 目錄
 
 
@@ -274,16 +275,22 @@
 |香港人喺邊都要團結|https://mewe.com/join/hongkongunited|
 |香港外傭僱主討論區|https://mewe.com/join/hkmaidemployers|
 |香港自然生態討論|https://mewe.com/join/hongkongwildlife|
-|香港資訊科技界工會|https://mewe.com/join/hkitwu|
 |香港精神💪🏻不能只有我看到|https://mewe.com/join/香港精神不能只有我看到|
-|香港IT扮工室|https://mewe.com/join/hk_it_dogwork|
 |罷買中國貨|https://mewe.com/join/notchinamade|
 |CASA COSMO|https://mewe.com/i/casacosmos|
 |HK💪D.TRUMP 13|https://mewe.com/join/hksupporttrump13|
 |HONG KONG Nationals 香港國民|https://mewe.com/join/hongkongnationals|
 |MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
 |TechDogClub 科技狗俱樂部 (Podcast)|https://mewe.com/join/techdogclub|
+
+## 資訊科技
+|<p style='font-size:20px'>資訊科技</p>||
+|:---|---|
 |香港 Linux 用家協會 (HKLUG)|https://mewe.com/join/hklug|
+|香港IT扮工室|https://mewe.com/join/hk_it_dogwork|
+|香港資訊科技界工會|https://mewe.com/join/hkitwu|
+|Apple 蘋果產品用家Group|https://mewe.com/join/applegroup|
+|香港 DIY 電腦谷|https://mewe.com/join/computerdiy|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
@@ -484,7 +491,6 @@
 |抓拍無限空間|https://mewe.com/join/抓拍無限空間|
 |沙田車友Group|https://mewe.com/join/shatindrivers|
 |皂咩・meh de savon|https://mewe.com/join/皂咩mehdesavon|
-|香港 DIY 電腦谷|https://mewe.com/join/computerdiy|
 |香港 RICOH GR GRD GRIST 菲林 數碼 街拍群組|https://mewe.com/join/HKGRist|
 |香港人名錶交流交易區|https://mewe.com/join/hkersluxurywatches|
 |香港人在攝影|https://mewe.com/join/hongkongers_taking_photo|
@@ -540,7 +546,6 @@
 |啟德free物區💛|https://mewe.com/join/pay.it.forward.in.kai.tak|
 |OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 ||https://mewe.com/join/同路人二手交易群|
-|魚兒。野生動物保育日常|https://mewe.com/p/%E9%AD%9A%E5%85%92%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2%E6%97%A5%E5%B8%B8|
 
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
@@ -640,7 +645,6 @@
 |寰雨膠事錄 fan group|https://mewe.com/join/gausee.group|
 |點樣可以環保啲？|https://mewe.com/join/onthewaytoecofriendly|
 |a roll of film|https://mewe.com/join/arolloffilm|
-|Apple 蘋果產品用家Group|https://mewe.com/join/applegroup|
 |Black news being covered|https://mewe.com/join/blacknewsbeingcovered|
 |HK Couple.Murmur|https://mewe.com/join/couplemurmur|
 |Mochiology 無恥是最寂寞|https://mewe.com/join/mochiology無恥是最寂寞|
@@ -853,4 +857,5 @@
 |黃絲藝人|https://mewe.com/p/cannyleung-missandthecity|
 |NT photography|https://mewe.com/p/ntphotography|
 |Car1hk|https://mewe.com/p/car1hk|
+|魚兒。野生動物保育日常|https://mewe.com/p/%E9%AD%9A%E5%85%92%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2%E6%97%A5%E5%B8%B8|
 |烈大夫_香港人中醫|https://mewe.com/p/%E7%83%88%E5%A4%A7%E5%A4%AB|
