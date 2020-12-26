@@ -53,8 +53,8 @@
 |MeWe 毛記電視|https://mewe.com/p/tvmost|
 |Parity Media HK 社衡媒體|https://mewe.com/p/paritymediahk|
 |Prism Press|https://mewe.com/p/prismpress|
-
-
+|PSHK|https://mewe.com/p/photographicsocietyhk|
+|Terry的媒體懶人堂|https://mewe.com/p/terry%E7%9A%84%E5%AA%92%E9%AB%94%E6%87%B6%E4%BA%BA%E5%A0%82|
 
 ## 離島區
 |<p style='font-size:20px'>離島區</p>||
@@ -355,7 +355,8 @@
 |素食青年|https://mewe.com/join/veggieyouth|
 |黃香港素食群|https://mewe.com/join/vegetariansinhongkong|
 |VINO E AMIGOS 好酒好友|https://mewe.com/group/5fc77ee5318dcd7d243e5784|
-
+|Whisky 金黃威士忌交流區|https://mewe.com/join/whiskyhkg|
+|香港鷄髀關注組|https://mewe.com/join/hongkongchinkenspleenconcerngroup|
 
 ## 運動
 |<p style='font-size:20px'>運動</p>||
@@ -412,7 +413,7 @@
 |電影劇集中伏分享區|https://mewe.com/join/on9movies|
 |Netflix 香港分享區|https://mewe.com/join/hknetelix|
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
-
+|viutv討論區|https://mewe.com/join/siusiuviutv|
 
 ## 動漫, 電玩
 |<p style='font-size:20px'>動漫, 電玩</p>||
@@ -450,6 +451,7 @@
 |FGO交流群|https://mewe.com/join/fgo交流群|
 |Pokemon Trainer Club- HKer小隊|https://mewe.com/join/hkerpokemon|
 |動漫廢物電台 ACRubbishRadio|https://mewe.com/join/動漫廢物電台acrubbishradio|
+|排球少年同好會|https://mewe.com/join/haikyu1|
 
 ## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
