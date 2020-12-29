@@ -678,7 +678,6 @@
 |🎗佛偈和你傾🙏🏻|https://mewe.com/join/yellowbuddah|
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
-|靈修谷|https://mewe.com/join/meditate|
 
 # Page 目錄
 
@@ -835,6 +834,7 @@
 |黃店 Cosmos Restaurant & Bar|https://mewe.com/p/cosmosrestaurantbar|
 |素食黃店|https://mewe.com/p/vwvegancafe|
 |素食媽咪 VeggieMami-Annie|https://mewe.com/p/%E7%B4%A0%E9%A3%9F%E5%AA%BD%E5%92%AAveggiemamiannie%E7%B4%A0%E9%A3%9F|
+|Aztec Sport|https://mewe.com/p/aztecsport|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
