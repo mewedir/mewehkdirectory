@@ -549,7 +549,7 @@
 |啟德free物區💛|https://mewe.com/join/pay.it.forward.in.kai.tak|
 |OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 ||https://mewe.com/join/同路人二手交易群|
-
+|Oh Yes 香港環保免費徵送|www.mewe.com/join/ohyesitsfreeoyifhongkong|
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
 |:---|---|
