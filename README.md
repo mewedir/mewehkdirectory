@@ -406,7 +406,7 @@
 |多功能阿婆 楊千嬋|https://mewe.com/group/5fb3c0cea7e4cb20fe6889f6|
 |思想。影視媒體隨筆|https://mewe.com/join/thinking.media.blog|
 |英美劇討論區|https://mewe.com/join/enustv1|
-|香港 Netflix 分享區|https://mewe.com/group/5fba7491b5399e4e0ccd58b5|
+|香港 Netflix 分享區|https://mewe.com/join/hknetflix|
 |香港Podcast \| Share香港人聽嘅Podcast節目|https://mewe.com/group/5fc09dbf5fb2797f201796be|
 |黃金爆谷圈(電影) |https://mewe.com/join/yellowpopcorn|
 |煲劇迷|https://mewe.com/join/hongkongwatcher|
@@ -550,6 +550,7 @@
 |OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 ||https://mewe.com/join/同路人二手交易群|
 |Oh Yes 香港環保免費徵送|www.mewe.com/join/ohyesitsfreeoyifhongkong|
+
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
 |:---|---|
@@ -678,6 +679,7 @@
 |🎗佛偈和你傾🙏🏻|https://mewe.com/join/yellowbuddah|
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
+|靈修谷|https://mewe.com/join/meditate|
 
 # Page 目錄
 
