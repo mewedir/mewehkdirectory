@@ -452,6 +452,7 @@
 |Pokemon Trainer Club- HKer小隊|https://mewe.com/join/hkerpokemon|
 |動漫廢物電台 ACRubbishRadio|https://mewe.com/join/動漫廢物電台acrubbishradio|
 |排球少年同好會|https://mewe.com/join/haikyu1|
+|香港人齊打機|https://mewe.com/join/gamingtogether|
 
 ## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
@@ -680,7 +681,6 @@
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
 |靈修谷|https://mewe.com/join/meditate|
-
 # Page 目錄
 
 
