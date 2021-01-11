@@ -105,6 +105,7 @@
 |樂富之友|https://mewe.com/join/lokfualliance|
 |藍田|https://mewe.com/join/lamtin|
 |觀塘～臥虎～藏龍|https://mewe.com/join/kwuntong|
+|黃埔人·紅磡人·土瓜灣人|MeWe.com/join/wht|
 ||https://mewe.com/join/慈雲山資訊交流|
 
 ## 新界區
@@ -215,6 +216,8 @@
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |NSW Hongkongers （悉尼）🇦🇺🇭🇰|https://mewe.com/join/nswhongkongers|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
+
+
 
 ## 香港曆史, 資料類
 |<p style='font-size:20px'>香港曆史, 資料類</p>||
@@ -855,6 +858,7 @@
 |素食媽咪 VeggieMami-Annie|https://mewe.com/p/%E7%B4%A0%E9%A3%9F%E5%AA%BD%E5%92%AAveggiemamiannie%E7%B4%A0%E9%A3%9F|
 |Aztec Sport|https://mewe.com/p/aztecsport|
 |Big Kiss Fashion|https://mewe.com/p/bigkissfashion|
+|Deesse.MM(HongKong)|https://mewe.com/p/deessemm|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
