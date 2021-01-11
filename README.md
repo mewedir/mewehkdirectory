@@ -85,6 +85,7 @@
 |鰂魚涌北角島民|https://mewe.com/join/quarrybaynorthpoint|
 |灣仔街坊福利會|https://mewe.com/join/wanchai|
 |CWB lunch 情報區|https://mewe.com/join/lunchincwb|
+|The Fortress Hill Club and FTC Alliance 炮台滙及炮、天、銅同盟|https://mewe.com/join/thefortresshillclubftcalliance|
 
 ## 九龍區
 |<p style='font-size:20px'>九龍區</p>||
@@ -216,7 +217,8 @@
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |NSW Hongkongers （悉尼）🇦🇺🇭🇰|https://mewe.com/join/nswhongkongers|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
-
+|多倫多香港人|https://mewe.com/join/hkto|
+|🇦🇺 澳洲雪梨大西北香港人|https://mewe.com/join/sydneynorwesthkers|
 
 
 ## 香港曆史, 資料類
@@ -402,6 +404,7 @@
 |Manchester United 曼聯奧脫谷 \| 黑白良知版|https://mewe.com/join/manchesterunited_freehk|
 |NBA 討論區|https://mewe.com/join/nba_hk1|
 |SlamTalk NBA 討論區|https://mewe.com/join/slamtalkhknba討論區|
+|丹尼爾體育台|https://mewe.com/join/f1正體中文台|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -462,10 +465,12 @@
 |Winnie the Pooh 小熊維尼分享區|https://mewe.com/join/happysharingpoohhk|
 |Xbox Series X/S 玩家俱樂部|https://mewe.com/join/xboxseriesxs玩家俱樂部|
 |xbox香港9up群|http://mewe.com/join/xboxhk9up|
+|日本特撮玩具討論區|https://mewe.com/join/tokusatsuheroarchive|
 
 ## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
 |:---|---|
+|印太自助旅遊谷|https://mewe.com/join/indo-pacific|
 |又飛啦旅人團|https://mewe.com/congratulations/public/flyagainla|
 |三屋日遊谷|https://mewe.com/join/3homejapan|
 |台灣吃喝玩樂蒲指南|https://mewe.com/join/ilovetaiwan|
@@ -532,6 +537,8 @@
 |gel甲不求人|https://mewe.com/join/gelnaildiy|
 |HKJSA 香港手帳繪寫文具中心同學會|https://mewe.com/join/hkjsa2017|
 |New age 讀書會|https://mewe.com/join/newage讀書會|
+|星空攝影谷 MeWe|https://mewe.com/join/hkastrophotography|
+|香港💃娃🕺手作-手殘膠流同好會|https://mewe.com/join/craftlala|
 
 ## 二手買賣, Free, 團購
 |<p style='font-size:20px'>二手買賣, Free, 團購</p>||
@@ -582,6 +589,7 @@
 ## 感情生活, 兩性關係
 |<p style='font-size:20px'>感情生活, 兩性關係</p>||
 |:---|---|
+
 
 |美女研究所|https://mewe.com/join/prettygirl|
 |香港女同HKLES|https://mewe.com/join/hkles|
@@ -671,6 +679,7 @@
 |Sing hk song by yourself|https://mewe.com/join/sing_hk_song_by_yourself_|
 |SKINCARE \| MAKEUP \| HAIR \| NAIL|https://mewe.com/join/beauty_hkers|
 
+
 ## 移民
 |<p style='font-size:20px'>移民</p>||
 |:---|---|
@@ -684,6 +693,7 @@
 |從零開始移民英國|https://mewe.com/join/readytogouk|
 |移民澳洲報料區 by MARA agent|https://mewe.com/join/aimigrationgroup|
 |移澳生活攻略|https://mewe.com/join/auslivinguide|
+
 ## 宗教
 |<p style='font-size:20px'>宗教</p>||
 |:---|---|
@@ -755,6 +765,7 @@
 |Tony Electronic 東尼電機|https://mewe.com/p/tonyelectronic|
 |神驅|https://mewe.com/p/localtv|
 |90後彩妝師漂流記|https://mewe.com/p/90後彩妝師漂流記|
+|PAZU薯伯伯|https://mewe.com/p/pazu|
 
 ## 新聞, 時事討論
 |<p style='font-size:20px'>新聞, 時事討論</p>||
@@ -820,18 +831,20 @@
 |Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
 |透視新加坡 SeeThrough Singapore|ttps://mewe.com/p/seethroughsingapore|
 |澳洲Bacon狗之日常|https://mewe.com/p/bacon|
+|又飛啦旅人團|https://mewe.com/p/又飛啦flyagainla|
 
 ## 興趣
-
+|<p style='font-size:20px'>興趣</p>||
 |:---|---|
 |攝時間 \| 香港Podcast \| 香港播客 \|廣東話Podcast \|香港人|https://mewe.com/p/sipsigan|
 |Art of Ngan 雁堂|https://mewe.com/p/rebeccahon|
 |Research Wedding 婚紗雜誌|https://mewe.com/p/researchwedding|
 |藝術自療 Art Heals|https://mewe.com/p/%E8%97%9D%E8%A1%93%E8%87%AA%E7%99%82artheals|
 |90後彩妝師漂流記 post-90s makeup artist|https://mewe.com/p/90%E5%BE%8C%E5%BD%A9%E5%A6%9D%E5%B8%AB%E6%BC%82%E6%B5%81%E8%A8%98|
+|Lessons From Books \| 閱讀|https://mewe.com/p/lessonsfrombooks閱讀|
 
 ## 網店
-
+|<p style='font-size:20px'>網店</p>||
 |:---|---|
 |Nutchies HK|https://mewe.com/p/nutchieshk|
 |RAS Handmade|https://mewe.com/p/rashandmade|
@@ -843,10 +856,11 @@
 |香港手作網店|https://mewe.com/p/litlagom_hk|
 |Jerry's Jetso|https://mewe.com/p/jerrysjetso|
 |deerfrd|https://mewe.com/p/deerfrd3|
+|Big Deal Culture 網上書店|https://mewe.com/p/bigdealculture|
 |MI MING MART 彌明生活百貨|https://mewe.com/p/mimingmart%E5%BD%8C%E6%98%8E%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8|
 
 ## 黃店
-
+|<p style='font-size:20px'>黃店</p>||
 |:---|---|
 |（黃店）狼婆婆咖啡店 Om Grandma Wolf Coffee|https://mewe.com/p/狼婆婆咖啡店omgrandmawolfcoffee|
 |SeafoodGreat 嬌姐海鮮|https://mewe.com/p/seafoodgreatby%E5%AC%8C%E5%A7%90%E6%B5%B7%E9%AE%AE|
@@ -859,6 +873,9 @@
 |Aztec Sport|https://mewe.com/p/aztecsport|
 |Big Kiss Fashion|https://mewe.com/p/bigkissfashion|
 |Deesse.MM(HongKong)|https://mewe.com/p/deessemm|
+|樂師傅維修服務公司|https://mewe.com/p/masterlokrepair|
+|肥仔銘茶餐廳|https://mewe.com/p/肥仔銘茶餐廳|
+|斑鳩成人用品專門店|https://mewe.com/group/5fc462f8098c80318a3e189a/members|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
@@ -888,4 +905,5 @@
 |NT photography|https://mewe.com/p/ntphotography|
 |Car1hk|https://mewe.com/p/car1hk|
 |魚兒。野生動物保育日常|https://mewe.com/p/%E9%AD%9A%E5%85%92%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2%E6%97%A5%E5%B8%B8|
+|日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
 |烈大夫_香港人中醫|https://mewe.com/p/%E7%83%88%E5%A4%A7%E5%A4%AB|
