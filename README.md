@@ -760,6 +760,7 @@
 |好宅之人|https://mewe.com/p/veryotaku|
 |avengers_hkfansclub|https://mewe.com/p/avengers_hkfansclub|
 |DDED|https://mewe.com/p/dded|
+|DH Calligraphy & Illustrations|https://mewe.com/p/dhci|
 |爵爵&貓叔 JieJie&UncleCat|https://mewe.com/p/%E7%88%B5%E7%88%B5%E8%B2%93%E5%8F%94|
 
 ## IT, 資訊科技類
@@ -961,6 +962,8 @@
 |Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
 |隨意門上門汽車美容|http://mewe.com/p/隨意門上門汽車美容|
 |長春藤中醫館|https://mewe.com/p/長春藤中醫館|
+|時光雞|https://mewe.com/p/%E6%99%82%E5%85%89%E9%9B%9Esigwonggai|
+|申子居酒屋|https://mewe.com/p/%E7%94%B3%E5%AD%90%E5%B1%85%E9%85%92%E5%B1%8Bshinko|
 |Aegis 保護傘|https://mewe.com/p/aegis%E4%BF%9D%E8%AD%B7%E5%82%98|
 
 ## 寵物
