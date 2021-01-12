@@ -594,6 +594,8 @@
 ## 感情生活, 兩性關係
 |<p style='font-size:20px'>感情生活, 兩性關係</p>||
 |:---|---|
+|同行Member (男男) 👨👨👦👦 (not for fun)|https://mewe.com/join/同行member|
+|男同性戀|https://mewe.com/join/男同性戀|
 |美女研究所|https://mewe.com/join/prettygirl|
 |香港女同HKLES|https://mewe.com/join/hkles|
 |情侶大小事(匿名投稿)|https://mewe.com/join/lovestory|
@@ -601,7 +603,6 @@
 |HEHE 💖 💜 交友活動協會|https://mewe.com/join/hehe_gatheringhongkong|
 |MeWeLove愛情谷🥰|https://mewe.com/join/mewelove|
 |She.com 女生分享區|https://mewe.com/join/shecom|
-
 ## 醫療保健
 |<p style='font-size:20px'>醫療保健</p>||
 |:---|---|
