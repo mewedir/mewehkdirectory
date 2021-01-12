@@ -861,7 +861,6 @@
 |Will Cho|https://mewe.com/p/willcho/|
 |Finn Lau 劉祖廸・攬炒巴|https://mewe.com/i/finnlau%E6%94%AC%E7%82%92%E5%B7%B4%E5%8A%89%E7%A5%96%E5%BB%B8|
 |PEGGY先生の日本語教室|https://mewe.com/p/peggysenseijapaneselanguageinstitute|
-
 |jess遊攝女生|https://mewe.com/p/jess遊攝女生|
 
 ## 新聞, 時事討論
