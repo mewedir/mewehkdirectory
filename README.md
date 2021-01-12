@@ -14,7 +14,6 @@
 |[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [演藝界](#演藝界) | [KOL](#kol) |
 |[新聞, 時事討論](#新聞-時事討論) |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| 
 |[旅遊](#旅遊-1) | [興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
-
 # Group 目錄
 
 
@@ -57,11 +56,13 @@
 |PSHK|https://mewe.com/p/photographicsocietyhk|
 |Terry的媒體懶人堂|https://mewe.com/p/terry%E7%9A%84%E5%AA%92%E9%AB%94%E6%87%B6%E4%BA%BA%E5%A0%82|
 |FUNG Lau Mag 風流|https://mewe.com/p-front/風流雜誌funglaumagazine|
+|Eagle News|https://mewe.com/p/eaglenews|
 
 ## 離島區
 |<p style='font-size:20px'>離島區</p>||
 |:---|---|
 |東涌街坊吹水會|https://mewe.com/join/tungchungbuddiesclub|
+|東涌吹水谷|https://mewe.com/join/tungchung|
 
 ## 港島區
 |<p style='font-size:20px'>港島區</p>||
@@ -90,6 +91,7 @@
 |The Fortress Hill Club and FTC Alliance 炮台滙及炮、天、銅同盟|https://mewe.com/join/thefortresshillclubftcalliance|
 |太古社區關注組 Taikoo Concern Group|https://mewe.com/join/太古社區關注組討論區|
 |真香港。太古人|http://MeWe.com/join/realhktaikooer|
+|鴨島鄉民💛|https://mewe.com/join/apleiman|
 
 ## 九龍區
 |<p style='font-size:20px'>九龍區</p>||
@@ -113,6 +115,7 @@
 |黃埔人·紅磡人·土瓜灣人|MeWe.com/join/wht|
 |慈雲山資訊交流|https://mewe.com/join/慈雲山資訊交流|
 |長沙灣|https://mewe.com/join/cheungshawaners|
+|坪民八姓 (坪石邨,清水灣道8號)|https://mewe.com/join/pmbs|
 
 ## 新界區
 |<p style='font-size:20px'>新界區</p>||
@@ -226,7 +229,9 @@
 |🇦🇺 澳洲雪梨大西北香港人|https://mewe.com/join/sydneynorwesthkers|
 |紐西蘭南島香港人|https://mewe.com/join/southislandhkger|
 |多倫多黃色經濟兵團|https://mewe.com/group/5ffbfc908df1b9009ba0e1c5|
-
+|我們的紐西蘭奇異生活 New Start in NZ|https://mewe.com/join/我們的紐西蘭奇異生活newstartinnz|
+|🎗澳洲資訊 🎗(由各行各業專業人士義務解答）|https://mewe.com/join/auhknewssharing|
+|hong港人insydney|https://mewe.com/join/hong港人insydney|
 
 ## 香港曆史, 資料類
 |<p style='font-size:20px'>香港曆史, 資料類</p>||
@@ -261,6 +266,7 @@
 |TAMA TAXI|https://mewe.com/join/tamagroup_hk|
 |真香港人 生活經濟圈|https://mewe.com/join/realhk|
 |南區環保資訊站|https://mewe.com/join/southerngreeninfo|
+|香港黃色裝修平台|https://mewe.com/join/yellowconstructionindustry|
 
 ## 本土討論區
 |<p style='font-size:20px'>本土討論區</p>||
@@ -280,6 +286,7 @@
 |香港人香港事12|https://mewe.com/join/hk_people_|
 |真香港人群組!|https://mewe.com/join/realhk|
 |Welcome hongkong group香港群|https://mewe.com/join/hongkong9|
+|高清本土台|https://mewe.com/join/localtvgroup|
 
 ## 本土其他
 |<p style='font-size:20px'>本土其他</p>||
@@ -418,6 +425,7 @@
 |SlamTalk NBA 討論區|https://mewe.com/join/slamtalkhknba討論區|
 |丹尼爾體育台|https://mewe.com/join/f1正體中文台|
 |Manghaess FC - 香港業餘足球隊|https://mewe.com/join/manghaessfc|
+|阿仙奴好友討論區|https://mewe.com/join/hkarsenal|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -442,6 +450,7 @@
 |Naga Yasu Gallery|https://mewe.com/join/nagayasugallery|
 |香港台 HongKonger Station|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E5%8F%B0hongkongerstation|
 |香港台 HongKonger Station2|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E5%8F%B0hongkongerstation2|
+|狂氏電影綜合症候群(MeWe跳糟版)|https://mewe.com/join/狂氏電影綜合症候群MeWe跳糟版|
 
 ## 動漫, 電玩
 |<p style='font-size:20px'>動漫, 電玩</p>||
@@ -555,7 +564,12 @@
 |HKJSA 香港手帳繪寫文具中心同學會|https://mewe.com/join/hkjsa2017|
 |New age 讀書會|https://mewe.com/join/newage讀書會|
 |星空攝影谷 MeWe|https://mewe.com/join/hkastrophotography|
+|Suzuki AN400 Club|https://mewe.com/join/an400|
+|香港人私家車資訊谷|https://mewe.com/join/hongkongercargroup|
 |香港💃娃🕺手作-手殘膠流同好會|https://mewe.com/join/craftlala|
+|繼續寵愛張國榮 fans club|https://mewe.com/join/windoflesliehk|
+|香港藝文·流行文化交流|https://mewe.com/join/hkac|
+|香港人樂器討論區|https://mewe.com/join/香港人樂器討論區|
 
 ## 二手買賣, Free, 團購
 |<p style='font-size:20px'>二手買賣, Free, 團購</p>||
@@ -587,6 +601,9 @@
 |曼聯珍藏分享及自由買賣|https://mewe.com/join/曼聯珍藏分享及自由買賣|
 |香港露營戶外用品一二手買賣區|https://mewe.com/join/香港露營戶外用品一二手買賣區|
 |香港人中古二手4K 2k藍光Blu ray 影碟及器材自由交換買賣群組|https://mewe.com/join/香港人中古二手4k2k藍光bluray影碟及器材自由交換買賣群組|
+|香港人斷捨離物品群組💛免費FREE/平價割捨💛I’m a HongKonger👫|https://mewe.com/join/香港人斷捨離物品群組免費free平價割捨imahongkonger|
+|執屋 減廢 二手 免費👍🏻|http://mewe.com/join/freerecycle|
+|灣仔銅里買買買|https://mewe.com/join/wanchai.cwb.buybuybuy|
 
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
@@ -646,6 +663,8 @@
 |家家有本難唸的經|Https://mewe.com/join/familybible|
 |港爸港媽大戰鬥|https://mewe.com/join/hkfmbattle|
 |生仔要考牌系列|https://mewe.com/join/生仔要考牌系列parentlicenses|
+|升中一討論區|Https://mewe.com/join/goingformone_hk|
+|觀塘幼小家長會|https://mewe.com/join/4648|
 
 ## 美術、插畫
 |<p style='font-size:20px'>美術、插畫</p>||
@@ -699,7 +718,8 @@
 |sales同工圍爐區|https://mewe.com/join/香港sales同路人圍爐取爐區|
 |Sing hk song by yourself|https://mewe.com/join/sing_hk_song_by_yourself_|
 |SKINCARE \| MAKEUP \| HAIR \| NAIL|https://mewe.com/join/beauty_hkers|
-
+|🎗澳洲貸款中介 Mortgage broker🎗 - Rachel Yeung 楊純子|https://mewe.com/join/rachelyeung|
+|香港signal 群指南|https://mewe.com/join/hksignalgroup|
 
 ## 移民
 |<p style='font-size:20px'>移民</p>||
@@ -715,6 +735,7 @@
 |移民澳洲報料區 by MARA agent|https://mewe.com/join/aimigrationgroup|
 |移澳生活攻略|https://mewe.com/join/auslivinguide|
 |香港人澳洲塔斯生活指南Tasmania survivor-Hongkongers Crossing|https://mewe.com/join/香港人澳洲塔斯生活指南tasmaniasurvivor-hongkongerscrossing|
+|90後香港夫妻移英煮食記錄|https://mewe.com/join/90scouple_newjourney|
 |香港人在澳洲聯絡平台 AUSTRALIA HONGKONGER PLATFORM|https://mewe.com/join/香港人在澳洲聯絡平台|
 
 ## 宗教
@@ -759,6 +780,8 @@
 |好宅之人|https://mewe.com/p/veryotaku|
 |avengers_hkfansclub|https://mewe.com/p/avengers_hkfansclub|
 |DDED|https://mewe.com/p/dded|
+|DH Calligraphy & Illustrations|https://mewe.com/p/dhci|
+|爵爵&貓叔 JieJie&UncleCat|https://mewe.com/p/%E7%88%B5%E7%88%B5%E8%B2%93%E5%8F%94|
 
 ## IT, 資訊科技類
 |<p style='font-size:20px'>IT, 資訊科技類</p>||
@@ -776,6 +799,7 @@
 ## 演藝界
 |<p style='font-size:20px'>演藝界</p>||
 |:---|---|
+|Canny Leung - Miss and the city梁芷珊|https://mewe.com/p/cannyleung-missandthecity|
 |Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
 |梁凱寧|https://mewe.com/p/maggieleung梁凱寧|
 |盧巧音|https://mewe.com/p/candylo|
@@ -835,7 +859,10 @@
 |YY Wong 歪歪王|https://mewe.com/p/歪歪王|
 |Reneebobo li 李蔓瑩|https://mewe.com/p/reneebobo|
 |Will Cho|https://mewe.com/p/willcho/|
+|Finn Lau 劉祖廸・攬炒巴|https://mewe.com/i/finnlau%E6%94%AC%E7%82%92%E5%B7%B4%E5%8A%89%E7%A5%96%E5%BB%B8|
+|PEGGY先生の日本語教室|https://mewe.com/p/peggysenseijapaneselanguageinstitute|
 
+|jess遊攝女生|https://mewe.com/p/jess遊攝女生|
 
 ## 新聞, 時事討論
 |<p style='font-size:20px'>新聞, 時事討論</p>||
@@ -887,12 +914,15 @@
 |candace mama|https://mewe.com/p/candacemama|
 |Coffee Slave|https://mewe.com/p/coffeeslave1|
 |OpenRice Hong Kong|https://mewe.com/p-front/openricehongkong|
+|飲食男女|https://mewe.com/p/eatandtravel|
+|Holaholi 好想放假|https://mewe.com/p/holaholi|
 
 ## Gamer
 |<p style='font-size:20px'>Gamer</p>||
 |:---|---|
 |希治閣 - 遊戲情報科|https://mewe.com/p/scaryplay1|
 |Cornrice粟米米|https://mewe.com/p/cornrice粟米米|
+|MH西九龍長官團|https://mewe.com/p/mh西九龍長官團|
 
 ## 旅遊
 |<p style='font-size:20px'>旅遊</p>||
@@ -901,9 +931,10 @@
 |浪遊旅人|https://mewe.com/p/backpackerjim|
 |瀛遊物語|https://mewe.com/p/瀛遊物語jstorypro1|
 |Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
-|透視新加坡 SeeThrough Singapore|ttps://mewe.com/p/seethroughsingapore|
+|透視新加坡 SeeThrough Singapore|ｈttps://mewe.com/p/seethroughsingapore|
 |澳洲Bacon狗之日常|https://mewe.com/p/bacon|
 |又飛啦旅人團|https://mewe.com/p/又飛啦flyagainla|
+|日本美景秘景分享區|https://www.mewe.com/p/hyacinthk|
 
 ## 興趣
 |<p style='font-size:20px'>興趣</p>||
@@ -914,6 +945,13 @@
 |藝術自療 Art Heals|https://mewe.com/p/%E8%97%9D%E8%A1%93%E8%87%AA%E7%99%82artheals|
 |90後彩妝師漂流記 post-90s makeup artist|https://mewe.com/p/90%E5%BE%8C%E5%BD%A9%E5%A6%9D%E5%B8%AB%E6%BC%82%E6%B5%81%E8%A8%98|
 |Lessons From Books \| 閱讀|https://mewe.com/p/lessonsfrombooks閱讀|
+|Sakemoto|https://mewe.com/p/sakemotohk|
+|醉意生活 Dolce Vita|https://mewe.com/p/%E6%9C%80%E6%84%8F%E7%94%9F%E6%B4%BB|
+|香港人樂器店/樂器教學|http://mewe.com/p/gigamusicstore|
+|港語學 Cantonese|https://mewe.com/p/%E6%B8%AF%E8%AA%9E%E5%AD%B8|
+|美工霉 (Page)|https://mewe.com/p/美工霉mgmhongkong|
+|美工霉 (Group)|https://mewe.com/group/5ffdcf6534221e6e129823cd|
+|mcbyesther|https://mewe.com/p/mcbyesther|
 
 ## 網店
 |<p style='font-size:20px'>網店</p>||
@@ -958,6 +996,8 @@
 |Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
 |隨意門上門汽車美容|http://mewe.com/p/隨意門上門汽車美容|
 |長春藤中醫館|https://mewe.com/p/長春藤中醫館|
+|時光雞|https://mewe.com/p/%E6%99%82%E5%85%89%E9%9B%9Esigwonggai|
+|申子居酒屋|https://mewe.com/p/%E7%94%B3%E5%AD%90%E5%B1%85%E9%85%92%E5%B1%8Bshinko|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
@@ -983,11 +1023,12 @@
 |Penana - 香港人搞的小說網站|https://mewe.com/p/penana故事平台|
 |思想。影視媒體隨筆|https://mewe.com/p/思想影視媒體隨筆/|
 |都市風水命理|https://mewe.com/p/都市風水命理|
-|黃絲藝人|https://mewe.com/p/cannyleung-missandthecity|
 |NT photography|https://mewe.com/p/ntphotography|
 |Car1hk|https://mewe.com/p/car1hk|
 |魚兒。野生動物保育日常|https://mewe.com/p/%E9%AD%9A%E5%85%92%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2%E6%97%A5%E5%B8%B8|
 |日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
 |抗癌。媽媽|https://mewe.com/p/%E6%8A%97%E7%99%8C%E5%AA%BD%E5%AA%BD|
 |靈性LYS|https://mewe.com/p/靈性lys-loveyourself|
+|親子生活去台灣 (Page)|https://mewe.com/p/親子生活去台灣|
+|親子生活去台灣 (Group)|https://mewe.com/join/親子生活在台灣|
 |烈大夫_香港人中醫|https://mewe.com/p/%E7%83%88%E5%A4%A7%E5%A4%AB|
