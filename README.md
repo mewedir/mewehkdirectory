@@ -4,16 +4,16 @@
 | -------------------------- | --------------------- | --------------------- | ----------------------------------------- | --------------------------------- |
 | [新聞, 時事](#新聞-時事) | [離島區](#離島區) | [港島區](#港島區) |  [九龍區](#九龍區) | [新界區](#新界區) |
 | [外國勢力](#外國勢力) | [香港曆史, 資料類](#香港曆史-資料類) | [本土互助系列](#本土互助系列) | [本土討論區](#本土討論區) | [本土其他](#本土其他) |
-| [寵物](#寵物) | [飲飲食食](#飲飲食食) | [運動](#運動) | [娛樂,電影, 電視](#娛樂電影-電視) | [動漫, 電玩](#動漫-電玩) |
-| [旅遊](#旅遊) | [興趣](#興趣) | [二手買賣, Free, 團購](#二手買賣-free-團購) | [外國資訊](#外國資訊) | [玄學/神秘學](#玄學神秘學) |
-| [感情生活](#感情生活) | [醫療保健](#醫療保健) | [教育、家庭、育兒資訊](#教育家庭育兒資訊) | [美術、插畫](#美術插畫) | [其他](#其他) | 
-| [移民](#移民) | [宗教](#宗教) || | |
+| [資訊科技](#資訊科技) | [寵物](#寵物) | [飲飲食食](#飲飲食食) | [運動](#運動) | [娛樂,電影, 電視](#娛樂電影-電視) | 
+| [動漫, 電玩](#動漫-電玩) | [旅遊](#旅遊) | [興趣](#興趣) | [二手買賣, Free, 團購](#二手買賣-free-團購) | [外國資訊](#外國資訊) | 
+| [玄學/神秘學](#玄學神秘學) | [感感情生活, 兩性關係](#感情生活) | [醫療保健](#醫療保健) | [教育、家庭、育兒資訊](#教育家庭育兒資訊) | [美術、插畫](#美術插畫) |
+| [其他](#其他) | [移民](#移民) | [宗教](#宗教) | | |
 
 | [Page 目錄](#page-目錄) | | | | |
 |---|---|---|---|---|
-|[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [KOL](#kol) | [新聞, 時事討論](#新聞-時事討論) |
-|[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| [旅遊](#旅遊-1) |
-|[興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
+|[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [演藝界](#演藝界) | [KOL](#kol) |
+|[新聞, 時事討論](#新聞-時事討論) |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| 
+|[旅遊](#旅遊-1) | [興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
 
 # Group 目錄
 
@@ -48,6 +48,7 @@
 |獨立媒體 inmediahk.net|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94www.inmediahk.net1|
 |謎米香港 memehk.com|https://mewe.com/p/%E8%AC%8E%E7%B1%B3%E9%A6%99%E6%B8%AFmemehk.com|
 |蘋果日報北美版|https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%88|
+|香港蘋果日報 Apple Daily HK|https://mewe.com/p/appledailyhk|
 |D100|https://mewe.com/p/d100|
 |MeWe 100毛|https://mewe.com/p/100most|
 |MeWe 毛記電視|https://mewe.com/p/tvmost|
@@ -88,6 +89,7 @@
 |CWB lunch 情報區|https://mewe.com/join/lunchincwb|
 |The Fortress Hill Club and FTC Alliance 炮台滙及炮、天、銅同盟|https://mewe.com/join/thefortresshillclubftcalliance|
 |太古社區關注組 Taikoo Concern Group|https://mewe.com/join/太古社區關注組討論區|
+|真香港。太古人|http://MeWe.com/join/realhktaikooer|
 
 ## 九龍區
 |<p style='font-size:20px'>九龍區</p>||
@@ -109,7 +111,8 @@
 |藍田|https://mewe.com/join/lamtin|
 |觀塘～臥虎～藏龍|https://mewe.com/join/kwuntong|
 |黃埔人·紅磡人·土瓜灣人|MeWe.com/join/wht|
-||https://mewe.com/join/慈雲山資訊交流|
+|慈雲山資訊交流|https://mewe.com/join/慈雲山資訊交流|
+|長沙灣|https://mewe.com/join/cheungshawaners|
 
 ## 新界區
 |<p style='font-size:20px'>新界區</p>||
@@ -222,6 +225,7 @@
 |多倫多香港人|https://mewe.com/join/hkto|
 |🇦🇺 澳洲雪梨大西北香港人|https://mewe.com/join/sydneynorwesthkers|
 |紐西蘭南島香港人|https://mewe.com/join/southislandhkger|
+|多倫多黃色經濟兵團|https://mewe.com/group/5ffbfc908df1b9009ba0e1c5|
 
 
 ## 香港曆史, 資料類
@@ -255,6 +259,8 @@
 |網購優惠小百科|https://mewe.com/join/buyshipunbox|
 |香港signal group 集合|https://mewe.com/join/hksignalgroup|
 |TAMA TAXI|https://mewe.com/join/tamagroup_hk|
+|真香港人 生活經濟圈|https://mewe.com/join/realhk|
+|南區環保資訊站|https://mewe.com/join/southerngreeninfo|
 
 ## 本土討論區
 |<p style='font-size:20px'>本土討論區</p>||
@@ -297,6 +303,7 @@
 |HONG KONG Nationals 香港國民|https://mewe.com/join/hongkongnationals|
 |MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
 |TechDogClub 科技狗俱樂部 (Podcast)|https://mewe.com/join/techdogclub|
+|香港人私家車資訊谷|https://mewe.com/join/hongkongercargroup|
 
 ## 資訊科技
 |<p style='font-size:20px'>資訊科技</p>||
@@ -337,6 +344,7 @@
 |愛心義賣谷|https://mewe.com/join/charitysaleforsaveanimals|
 |愛鼠交流群I love hamster|https://mewe.com/join/ilovehamster|
 |貓奴貓屎貓事多|https://mewe.com/join/meowsmore|
+|香港查理斯王小獵犬會|https://mewe.com/join/cavalierclubhk|
 
 ## 飲飲食食
 |<p style='font-size:20px'>飲飲食食</p>||
@@ -409,6 +417,7 @@
 |NBA 討論區|https://mewe.com/join/nba_hk1|
 |SlamTalk NBA 討論區|https://mewe.com/join/slamtalkhknba討論區|
 |丹尼爾體育台|https://mewe.com/join/f1正體中文台|
+|Manghaess FC - 香港業餘足球隊|https://mewe.com/join/manghaessfc|
 
 ## 娛樂,電影, 電視
 |<p style='font-size:20px'>娛樂,電影, 電視</p>||
@@ -430,6 +439,9 @@
 |Netflix 香港分享區|https://mewe.com/join/netflix.hk|
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 |viutv討論區|https://mewe.com/join/siusiuviutv|
+|Naga Yasu Gallery|https://mewe.com/join/nagayasugallery|
+|香港台 HongKonger Station|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E5%8F%B0hongkongerstation|
+|香港台 HongKonger Station2|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E5%8F%B0hongkongerstation2|
 
 ## 動漫, 電玩
 |<p style='font-size:20px'>動漫, 電玩</p>||
@@ -501,6 +513,7 @@
 |歐洲自助旅遊谷|https://mewe.com/join/eurotravel|
 |環球旅人group|https://mewe.com/join/trafolife|
 |韓國自遊行與自駕遊分享|https://mewe.com/join/traveltokorea|
+|香港人遊世界|https://mewe.com/group/5ffd30eadbc7a61c53f085cb|
 
 ## 興趣
 |<p style='font-size:20px'>興趣</p>||
@@ -572,6 +585,8 @@
 |OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 |同路人二手交易群|https://mewe.com/join/同路人二手交易群|
 |曼聯珍藏分享及自由買賣|https://mewe.com/join/曼聯珍藏分享及自由買賣|
+|香港露營戶外用品一二手買賣區|https://mewe.com/join/香港露營戶外用品一二手買賣區|
+|香港人中古二手4K 2k藍光Blu ray 影碟及器材自由交換買賣群組|https://mewe.com/join/香港人中古二手4k2k藍光bluray影碟及器材自由交換買賣群組|
 
 ## 外國資訊
 |<p style='font-size:20px'>外國資訊</p>||
@@ -603,6 +618,7 @@
 |HEHE 💖 💜 交友活動協會|https://mewe.com/join/hehe_gatheringhongkong|
 |MeWeLove愛情谷🥰|https://mewe.com/join/mewelove|
 |She.com 女生分享區|https://mewe.com/join/shecom|
+
 ## 醫療保健
 |<p style='font-size:20px'>醫療保健</p>||
 |:---|---|
@@ -698,6 +714,8 @@
 |從零開始移民英國|https://mewe.com/join/readytogouk|
 |移民澳洲報料區 by MARA agent|https://mewe.com/join/aimigrationgroup|
 |移澳生活攻略|https://mewe.com/join/auslivinguide|
+|香港人澳洲塔斯生活指南Tasmania survivor-Hongkongers Crossing|https://mewe.com/join/香港人澳洲塔斯生活指南tasmaniasurvivor-hongkongerscrossing|
+|香港人在澳洲聯絡平台 AUSTRALIA HONGKONGER PLATFORM|https://mewe.com/join/香港人在澳洲聯絡平台|
 
 ## 宗教
 |<p style='font-size:20px'>宗教</p>||
@@ -795,6 +813,7 @@
 |杰寧|https://mewe.com/join/kitning.kelena|
 |陳嘉寶 Anjaylia Chan|https://mewe.com/p/anjayliachan|
 
+
 ## KOL
 |<p style='font-size:20px'>KOL</p>||
 |:---|---|
@@ -817,6 +836,7 @@
 |Reneebobo li 李蔓瑩|https://mewe.com/p/reneebobo|
 |Will Cho|https://mewe.com/p/willcho/|
 
+
 ## 新聞, 時事討論
 |<p style='font-size:20px'>新聞, 時事討論</p>||
 |:---|---|
@@ -827,6 +847,7 @@
 |邁步工房|https://mewe.com/p/%E9%82%81%E6%AD%A5%E5%B7%A5%E6%88%BF|
 |寰雨膠事錄 國際新聞Gaus.ee台|https://mewe.com/p/gaus.ee|
 |圖說天下 ·|https://mewe.com/p/eaglenews|
+
 
 ## 運動
 |<p style='font-size:20px'>運動</p>||
@@ -901,7 +922,8 @@
 |RAS Handmade|https://mewe.com/p/rashandmade|
 |Groupbuyheya (Taiwan Groupbuy)|https://mewe.com/p/groupbuyheyataiwangroupbuy|
 |meMall|https://mewe.com/p/memall|
-|媽媽幼兒百貨|https://mewe.com/join/媽媽幼兒百貨|
+|媽媽幼兒百貨 (PAGE)|https://mewe.com/p/%E5%AA%BD%E5%AA%BD%E5%B9%BC%E5%85%92%E7%99%BE%E8%B2%A8|
+|媽媽幼兒百貨 (GROUP)|https://mewe.com/join-front/mamibbshop|
 |Made in Hong Kong 寵物適用環保消毒噴霧|https://mewe.com/join/hyginovahq|
 |HisTrend.HK|https://mewe.com/p/histrend.hk|
 |香港手作網店|https://mewe.com/p/litlagom_hk|
@@ -911,6 +933,10 @@
 |MI MING MART 彌明生活百貨|https://mewe.com/p/mimingmart%E5%BD%8C%E6%98%8E%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8|
 |Fiber Bird 美加澳進口百貨|https://mewe.com/p/fiberbirdhk|
 |草帽本舖|https://mewe.com/p/strawhatstore|
+|月下文具房 NOCTURNAL|https://mewe.com/p/nocturnal|
+|LOVELOVEFROG 青蛙愛漫遊|https://mewe.com/p/lovelovefrog|
+|かえるのピクルス＊PICKLES THE FROG Fans Club|https://mewe.com/join/picklesthefrogfansclub|
+|Waitography|https://mewe.com/p/waitography|
 
 ## 黃店
 |<p style='font-size:20px'>黃店</p>||
@@ -930,6 +956,8 @@
 |肥仔銘茶餐廳|https://mewe.com/p/肥仔銘茶餐廳|
 |斑鳩成人用品專門店|https://mewe.com/group/5fc462f8098c80318a3e189a/members|
 |Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
+|隨意門上門汽車美容|http://mewe.com/p/隨意門上門汽車美容|
+|長春藤中醫館|https://mewe.com/p/長春藤中醫館|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
@@ -961,4 +989,5 @@
 |魚兒。野生動物保育日常|https://mewe.com/p/%E9%AD%9A%E5%85%92%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2%E6%97%A5%E5%B8%B8|
 |日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
 |抗癌。媽媽|https://mewe.com/p/%E6%8A%97%E7%99%8C%E5%AA%BD%E5%AA%BD|
+|靈性LYS|https://mewe.com/p/靈性lys-loveyourself|
 |烈大夫_香港人中醫|https://mewe.com/p/%E7%83%88%E5%A4%A7%E5%A4%AB|
