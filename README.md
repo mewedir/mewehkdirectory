@@ -193,6 +193,7 @@
 |香港人在紐西蘭生活點滴|https://mewe.com/join/香港人在紐西蘭生活點滴|
 |香港人在新加坡 HONG KONG TOWN - SINGAPORE (HKER IN SG)|https://mewe.com/join/hongkongerinsingapore|
 |香港人在德國|https://mewe.com/join/dehkers|
+|在德國的港人|https://mewe.com/join/hongkongeringermany|
 |香港人在檳城|https://mewe.com/join/hkerinpenang|
 |海外港人💛OVERSEAS HONGKONGER|https://mewe.com/join/overseashongkonger|
 |真。香港人生活在荷蘭|http://mewe.com/join/nlhongkongers|
@@ -759,6 +760,7 @@
 |好宅之人|https://mewe.com/p/veryotaku|
 |avengers_hkfansclub|https://mewe.com/p/avengers_hkfansclub|
 |DDED|https://mewe.com/p/dded|
+|爵爵&貓叔 JieJie&UncleCat|https://mewe.com/p/%E7%88%B5%E7%88%B5%E8%B2%93%E5%8F%94|
 
 ## IT, 資訊科技類
 |<p style='font-size:20px'>IT, 資訊科技類</p>||
@@ -847,7 +849,8 @@
 |邁步工房|https://mewe.com/p/%E9%82%81%E6%AD%A5%E5%B7%A5%E6%88%BF|
 |寰雨膠事錄 國際新聞Gaus.ee台|https://mewe.com/p/gaus.ee|
 |圖說天下 ·|https://mewe.com/p/eaglenews|
-
+|百彈齋主|https://mewe.com/p/%E7%99%BE%E5%BD%88%E9%BD%8B%E4%B8%BB1|
+|盧斯達|https://mewe.com/p/%E7%9B%A7%E6%96%AF%E9%81%94|
 
 ## 運動
 |<p style='font-size:20px'>運動</p>||
@@ -958,6 +961,7 @@
 |Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
 |隨意門上門汽車美容|http://mewe.com/p/隨意門上門汽車美容|
 |長春藤中醫館|https://mewe.com/p/長春藤中醫館|
+|Aegis 保護傘|https://mewe.com/p/aegis%E4%BF%9D%E8%AD%B7%E5%82%98|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
