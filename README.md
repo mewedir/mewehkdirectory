@@ -39,7 +39,7 @@
 |香港財經時報|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E8%B2%A1%E7%B6%93%E6%99%82%E5%A0%B1|
 |香港新聞討論區|https://mewe.com/group/5fbb48726aab720699e7da05|
 |香港新聞轉載群組|https://mewe.com/join/香港新聞轉載群組|
-|香港蘋果日報|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1|
+|香港蘋果日報|https://mewe.com/p/appledailyhk|
 |真.香港新聞 💎|https://mewe.com/join/news15|
 |啱channel|https://mewe.com/p/%E5%95%B1channel|
 |專業清算師|https://mewe.com/p/revengehi|
@@ -49,7 +49,6 @@
 |獨立媒體 inmediahk.net|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94www.inmediahk.net1|
 |謎米香港 memehk.com|https://mewe.com/p/%E8%AC%8E%E7%B1%B3%E9%A6%99%E6%B8%AFmemehk.com|
 |蘋果日報北美版|https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%88|
-|香港蘋果日報 Apple Daily HK|https://mewe.com/p/appledailyhk|
 |D100|https://mewe.com/p/d100|
 |MeWe 100毛|https://mewe.com/p/100most|
 |MeWe 毛記電視|https://mewe.com/p/tvmost|
@@ -67,6 +66,7 @@
 |:---|---|
 |東涌街坊吹水會|https://mewe.com/join/tungchungbuddiesclub|
 |東涌吹水谷|https://mewe.com/join/tungchung|
+|愉景灣之友 DBers|https://mewe.com/join/dbers/|
 
 ## 港島區
 |<p style='font-size:20px'>港島區</p>||
@@ -119,6 +119,11 @@
 |黃埔人·紅磡人·土瓜灣人|MeWe.com/join/wht|
 |慈雲山資訊交流|https://mewe.com/join/慈雲山資訊交流|
 |翠屏北邨業主關注組|https://mewe.com/join/翠屏北邨業主關注組|
+|慈雲山|http://mewe.com/join/tszwanshan|
+|鑽石山之友|http://mewe.com/join/diamondhill|
+|新蒲崗|http://mewe.com/join/sanpokong|
+|黃大仙|https://mewe.com/join/wongtaisin|
+|彩虹|https://mewe.com/join/choihungdistrict|
 |長沙灣|https://mewe.com/join/cheungshawaners|
 |紅土黃 街坊 group 🙏🏻 （紅磡土瓜灣黃埔）|https://mewe.com/join/redtoyellow|
 |坪民八姓 (坪石邨,清水灣道8號)|https://mewe.com/join/pmbs|
@@ -242,7 +247,7 @@
 |🎗澳洲資訊 🎗(由各行各業專業人士義務解答）|https://mewe.com/join/auhknewssharing|
 |hong港人insydney|https://mewe.com/join/hong港人insydney|
 |在德國的港人|https://mewe.com/join/hongkongeringermany|
-|溫哥瀨嘢中伏圍威喂|https://mewe.com/join/vancityweiweiwei|
+|溫哥華瀨嘢中伏圍威喂|https://mewe.com/join/vancityweiweiwei|
 |美加絲打自由講|https://mewe.com/join/美國絲打自由講|
 |香港人在澳洲聯絡平台 HK AUSSIE|https://mewe.com/join/hkaussie|
 |美國港人在Vegas|https://mewe.com/join/hongkongerinlasvegas|
@@ -376,6 +381,7 @@
 |香港牧羊集合營💛|https://mewe.com/join/hksg|
 |連寵拯救隊|https://mewe.com/join/petwithyouhk|
 |香港貓咪領養|https://mewe.com/join/香港貓咪領養|
+|💛毛孩日常好去處💛|https://mewe.com/join/hkdog|
 
 ## 飲飲食食
 |<p style='font-size:20px'>飲飲食食</p>||
@@ -804,8 +810,6 @@
 |🎗佛偈和你傾🙏🏻|https://mewe.com/join/yellowbuddah|
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
-
-
 # Page 目錄
 
 
