@@ -608,6 +608,8 @@
 |香港墨水筆會 HK FOUNTAIN PEN CLUB|https://mewe.com/join/hongkongfountainpenclub|
 |香港藝文·流行文化交流|https://mewe.com/join/hkac|
 |香港攝影技巧與分享|https://mewe.com/group/5ffd0c9c9971b029281d40b3|
+|香港風景討論GROUP|https://mewe.com/group/5fbe72e77f1d500f69591b07|
+|香港 模型GK手辦 製作技巧及情報分享室 GUNDAM 高達 鋼彈 ガンダム モデル|https://mewe.com/group/5fb83968fc37d45f5005dedc|
 |真香港 手作人、縫紉谷🧵🖼|https://mewe.com/join/hkersartscraftsewing|
 |真香港人。鐵騎26谷 |https://mewe.com/join/yellowbike|
 |速寫分享組|https://mewe.com/join/速寫分享組|
