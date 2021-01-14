@@ -24,6 +24,13 @@
 Q : 如何改變語言?
 
 <details>
+<Summary> Web </Summary>
+
+![image](https://i.imgur.com/LzzkiC0.png)
+
+</details>
+
+<details>
 <Summary> iOS </Summary>
 在 iOS 的 Setting 入面, 找 MeWe, 裡面可以選擇語言
 
