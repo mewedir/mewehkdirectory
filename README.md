@@ -877,6 +877,7 @@
 |DH Calligraphy & Illustrations|https://mewe.com/p/dhci|
 |Dustykid|https://mewe.com/p/dustykid|
 |MtzCherry X Ricebowlhead|https://mewe.com/p/mtzcherryxricebowlhead1|
+|Plastic Thing|https://mewe.com/p/plasticthing|
 
 ## IT, 資訊科技類
 |<p style='font-size:20px'>IT, 資訊科技類</p>||
@@ -914,6 +915,7 @@
 |雷同二友 - 謝芊彤 謝芊蕾 The Absent Brother TAB|https://mewe.com/p/雷同二友-謝芊彤謝芊蕾theabsentbrothertab|
 |寧花月 Ning Fa Yuet|https://mewe.com/p/寧花月ningfayuet1|
 |趙學而|https://mewe.com/p/趙學而bondychiu|
+|趙善恆 hangjai@ToNick|https://mewe.com/p/hangjai|
 |盧巧音|https://mewe.com/p/candylo|
 |alfred hui 許廷鏗|https://mewe.com/i/alfredhui%E8%A8%B1%E5%BB%B7%E9%8F%97|
 |alfred hui 許廷鏗 (佢開既GROUP)|https://mewe.com/group/5ffe8a58b5600812b100e7ee|
