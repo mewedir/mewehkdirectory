@@ -6,7 +6,7 @@
 
 - [前言](#前言)
 - [教學](#教學)
-- [基本版面](#基本版面)
+  - [基本版面](#基本版面)
   - [MeWe 同 Facebook 的分別](#mewe-同-facebook-的分別)
 - [常見問題](#常見問題)
   - [如何分享自己的 MeWe 連結](#如何分享自己的-mewe-連結)
@@ -25,7 +25,7 @@
 
 ## 教學
 
-## 基本版面 
+### 基本版面 
 
 <details>
 <summary>Web 版</summary>
@@ -98,6 +98,6 @@
 
 ![image](https://i.imgur.com/J6YPeXu.png)
 
-> 留意 : 不是在 MeWe Apps 入面的設定, 而定 iOS 的設定
+> 留意 : 不是在 MeWe Apps 入面的設定, 而是在 iOS 的設定
 
 </details>
