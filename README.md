@@ -1147,6 +1147,7 @@
 |SeafoodGreat 嬌姐海鮮|https://mewe.com/p/seafoodgreatby%E5%AC%8C%E5%A7%90%E6%B5%B7%E9%AE%AE|
 |TEVO香港總代理［一站式汽車服務-洗車 打蠟 鍍膜 維修 噴油 貼膜］|https://mewe.com/p/tevo汽車鍍膜維修噴油貼膜|
 |Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
+|豉油佬 SoyaLo|https://mewe.com/p/%E8%B1%89%E6%B2%B9%E4%BD%AC|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
