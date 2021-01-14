@@ -110,6 +110,9 @@
 
 ![image](https://i.imgur.com/LzzkiC0.png)
 
+
+> 暫時只有 Web 版有繁體中文
+
 </details>
 
 <details>
@@ -119,5 +122,6 @@
 ![image](https://i.imgur.com/J6YPeXu.png)
 
 > 留意 : 不是在 MeWe Apps 入面的設定, 而是在 iOS 的設定
+
 
 </details>
