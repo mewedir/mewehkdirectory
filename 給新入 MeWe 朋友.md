@@ -6,6 +6,7 @@
 
 - [前言](#前言)
 - [教學](#教學)
+  - [重要 : 開始用 MeWe 前要做的第一件事](#重要-開始用-mewe-前要做的第一件事)
   - [基本版面](#基本版面)
   - [MeWe 同 Facebook 的分別](#mewe-同-facebook-的分別)
 - [常見問題](#常見問題)
@@ -24,6 +25,25 @@
 近來好多人轉左黎 MeWe, 所以慢慢寫番個教學同 FAQ 比大家方便過渡. 
 
 ## 教學
+### 重要 : 開始用 MeWe 前要做的第一件事
+
+由於私隱的問題, 所以建議大家安裝好 MeWe 後做以下設定:
+
+<details>
+<summary>Web </summary>
+
+![](https://i.imgur.com/NDbWD1Y.png)
+
+</details>
+
+<details>
+<summary>iOS</summary>
+
+![](https://i.imgur.com/kUPULnh.png)
+</details>
+
+
+主要目的, 是防止你的聯絡人名單被其他聯絡人所見到. 因為如果錯誤地加入其他人做朋友, 那人就可以任意查閱你的聯絡人名單.
 
 ### 基本版面 
 
