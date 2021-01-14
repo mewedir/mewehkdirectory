@@ -25,9 +25,9 @@ Q : 如何改變語言?
 
 <details>
 <Summary> iOS </Summary>
-    在 iOS 的 Setting 入面, 找 MeWe, 裡面可以選擇語言
+在 iOS 的 Setting 入面, 找 MeWe, 裡面可以選擇語言
 
-    ![image](https://i.imgur.com/J6YPeXu.png)
+![image](https://i.imgur.com/J6YPeXu.png)
 
 > 留意 : 不是在 MeWe Apps 入面的設定, 而定 iOS 的設定
 
