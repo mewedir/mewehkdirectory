@@ -1,19 +1,62 @@
 本頁更新 : https://mewe.com/join/mewehknewcomer
 
-| [Group 目錄](#group-目錄)  |                       |                       |                                           |                                   |
-| -------------------------- | --------------------- | --------------------- | ----------------------------------------- | --------------------------------- |
-| [新聞, 時事](#新聞-時事) | [離島區](#離島區) | [港島區](#港島區) |  [九龍區](#九龍區) | [新界區](#新界區) |
-| [外國勢力](#外國勢力) | [香港曆史, 資料類](#香港曆史-資料類) | [本土互助系列](#本土互助系列) | [本土討論區](#本土討論區) | [本土其他](#本土其他) |
-| [資訊科技](#資訊科技) | [寵物](#寵物) | [飲飲食食](#飲飲食食) | [運動](#運動) | [娛樂,電影, 電視](#娛樂電影-電視) | 
-| [動漫, 電玩](#動漫-電玩) | [旅遊](#旅遊) | [興趣](#興趣) | [二手買賣, Free, 團購](#二手買賣-free-團購) | [外國資訊](#外國資訊) | 
-| [玄學/神秘學](#玄學神秘學) | [感情生活, 兩性關係](#感情生活-兩性關係) | [醫療保健](#醫療保健) | [教育、家庭、育兒資訊](#教育家庭育兒資訊) | [美術、插畫](#美術插畫) |
-| [其他](#其他) | [移民](#移民) | [宗教](#宗教) | | |
 
-| [Page 目錄](#page-目錄) | | | | |
-|---|---|---|---|---|
-|[區議員](#區議員) | [漫畫, 插畫](#漫畫-插畫) | [IT, 資訊科技類](#it-資訊科技類) | [演藝界](#演藝界) | [KOL](#kol) |
-|[新聞, 時事討論](#新聞-時事討論) |[運動](#運動-1) | [本土,社運](#本土社運) |  [飲食](#飲食) | [Gamer](#gamer)| 
-|[旅遊](#旅遊-1) | [興趣](#興趣-1) | [網店](#網店) |  [黃店](#黃店) | [其他](#其他-1) | |
+<details><summary> 目錄 </summary>
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Group 目錄](#group-目錄)
+  - [新聞, 時事](#新聞-時事)
+  - [離島區](#離島區)
+  - [港島區](#港島區)
+  - [九龍區](#九龍區)
+  - [新界區](#新界區)
+  - [外國勢力](#外國勢力)
+  - [香港學界](#香港學界)
+  - [香港歷史, 資料類](#香港歷史-資料類)
+  - [本土互助系列](#本土互助系列)
+  - [本土討論區](#本土討論區)
+  - [本土其他](#本土其他)
+  - [資訊科技](#資訊科技)
+  - [寵物](#寵物)
+  - [飲飲食食](#飲飲食食)
+  - [運動](#運動)
+  - [娛樂,電影, 電視](#娛樂電影-電視)
+  - [動漫, 電玩](#動漫-電玩)
+  - [旅遊](#旅遊)
+  - [興趣](#興趣)
+  - [二手買賣, Free, 團購](#二手買賣-free-團購)
+  - [外國資訊](#外國資訊)
+  - [玄學/神秘學](#玄學神秘學)
+  - [感情生活, 兩性關係](#感情生活-兩性關係)
+  - [醫療保健](#醫療保健)
+  - [教育、家庭、育兒資訊](#教育-家庭-育兒資訊)
+  - [美術、插畫](#美術-插畫)
+  - [其他](#其他)
+  - [移民](#移民)
+  - [宗教](#宗教)
+- [Page 目錄](#page-目錄)
+  - [區議員](#區議員)
+  - [漫畫, 插畫](#漫畫-插畫)
+  - [IT, 資訊科技類](#it-資訊科技類)
+  - [演藝界](#演藝界)
+  - [KOL](#kol)
+  - [新聞, 時事討論](#新聞-時事討論)
+  - [運動](#運動-1)
+  - [本土,社運](#本土社運)
+  - [飲食](#飲食)
+  - [Gamer](#gamer)
+  - [旅遊](#旅遊-1)
+  - [興趣](#興趣-1)
+  - [網店](#網店)
+  - [黃店](#黃店)
+  - [寵物](#寵物-1)
+  - [其他](#其他-1)
+
+<!-- /code_chunk_output -->
+
+</details>
 
 
 # Group 目錄
@@ -273,8 +316,32 @@
 |澳洲悉尼劣食記 What Shit to Eat in Sydney|https://mewe.com/join/whatshittoeatinsydney|
 |香港人在紐西蘭生活點滴|https://mewe.com/join/hkersconnectedinnz|
 
-## 香港曆史, 資料類
-|<p style='font-size:20px'>香港曆史, 資料類</p>||
+## 香港學界
+|<p style='font-size:20px'>香港學界</p>||
+|:---|---|
+|港大 |http://mewe.com/join/hku|
+|科大 |http://mewe.com/join/hkust|
+|中大 |http://mewe.com/join/cuhk|
+|城大 |http://mewe.com/join/cityu|
+|理大 |http://mewe.com/join/polyu|
+|浸大 |http://mewe.com/join/hkbu|
+|教大 |http://mewe.com/join/eduhk|
+|公大 |http://mewe.com/join/ouhk|
+|嶺大 |http://mewe.com/join/lu|
+|恒大 |http://mewe.com/join/hsuhk|
+|樹仁 |http://mewe.com/join/syu|
+|HKUSPACE |http://mewe.com/join/hkuspace|
+|HKCC |http://mewe.com/join/hkcc|
+|HKCIE |http://mewe.com/join/cie|
+|東華學院 |http://mewe.com/join/twc|
+|珠海學院 |http://mewe.com/join/chuhai|
+|明愛 |http://mewe.com/join/caritas|
+|香港專業教育學院IVE |http://mewe.com/join/vtc|
+|香港大專生資訊谷 |http://mewe.com/join/university|
+|香港中學生資訊谷 |http://mewe.com/join/schools|
+
+## 香港歷史, 資料類
+|<p style='font-size:20px'>香港歷史, 資料類</p>||
 |:---|---|
 |80/90人和事|https://mewe.com/join/8090memorys|
 |我們的PK時代|https://mewe.com/join/pkfunny|
@@ -595,7 +662,7 @@
 |我鄉下係泰國🇹🇭-旅遊谷|https://mewe.com/join/ilovethailand|
 |沖繩日本旅遊|https://mewe.com/join/沖繩旅行|
 |東南亞自助旅遊谷|https://mewe.com/join/eastsouthasia-travel|
-|返鄉下la(日本旅游group)|https://mewe.com/join/gotojapanlahongkonger|
+|香港人返鄉下LA（日本旅遊GROUP)|https://mewe.com/join/gotojapanlahongkonger|
 |香港 Staycation|https://mewe.com/join/hkstaycation|
 |香港人 \| 日本風俗情報 \| 泡泡浴 \| 粉紅沙龍 \| 外送茶|https://mewe.com/join/sexinjp|
 |香港人，吃喝玩樂在日本|https://mewe.com/join/japan_for_hongkongers|
@@ -675,6 +742,8 @@
 |nitory深夜音樂分享平台|https://mewe.com/join/nitory|
 |Suzuki AN400 Club|https://mewe.com/join/an400|
 |MeWe 香港人鑽石首飾關注組💎 MeWe Diamond Jewelry Group 💎 (Group)|https://mewe.com/join/mewediamondjewelrygroup|
+|Bevoka 香薰/手工皂/護膚品/蠟燭/花藥交流園地|https://mewe.com/join/bevokasharing|
+|AQUARIUM LANDSCAPE - 水族造景交流|https://mewe.com/group/600142267b6d90568798df83|
 
 ## 二手買賣, Free, 團購
 |<p style='font-size:20px'>二手買賣, Free, 團購</p>||
@@ -690,7 +759,6 @@
 |我們都是真香港人♡手足情深FREE感恩♡|https://mewe.com/join/yellowbrother4free|
 |私人補習配對|https://mewe.com/join/tutor|
 |和你慳黃店優惠開心SHARE|https://mewe.com/join/hkdiscount|
-|青公Bike Station|https://mewe.com/p/castlepeakbikestation1|
 |青衣黃free 物|https://mewe.com/join/tsingyigiventake|
 |南區惜物谷|https://mewe.com/join/hksouthexchange|
 |美港二手中英童書坊|Https://MeWe.com/join/childrenbook|
@@ -1208,7 +1276,6 @@
 |Azure's Bear Shop|https://mewe.com/p/azuresbearshop|
 |BabyMall|https://mewe.com/p/babymall|
 |Bevoka 香薰．天然護膚|https://mewe.com/p/bevoka|
-|Bevoka 香薰/手工皂/護膚品/蠟燭/花藥交流園地|https://mewe.com/join/bevokasharing|
 |Big Deal Culture 網上書店|https://mewe.com/p/bigdealculture|
 |deerfrd|https://mewe.com/p/deerfrd|
 |FD Online Store|https://mewe.com/p/fdonlinestore|
@@ -1282,6 +1349,7 @@
 |糖兄弟甜品屋 MY BROS SUITE|https://mewe.com/join/mybrossuite|
 |公公手工皂 Gong Gong Soap|https://mewe.com/p/gonggongsoap|
 |Wedding Mood 香港喜帖|https://mewe.com/p/weddingmoodinvitation|
+|青公Bike Station|https://mewe.com/p/castlepeakbikestation1|
 
 ## 寵物
 |<p style='font-size:20px'>寵物</p>||
