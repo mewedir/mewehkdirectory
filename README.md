@@ -41,10 +41,20 @@
     - [藍球, NBA](#藍球-nba)
     - [Yoga, Gym](#yoga-gym)
     - [其他](#其他)
-  - [娛樂,電影, 電視](#娛樂電影-電視)
+  - [娛樂, 電影, 電視](#娛樂-電影-電視)
   - [動漫, 電玩](#動漫-電玩)
   - [旅遊](#旅遊)
   - [興趣](#興趣)
+    - [攝影](#攝影)
+    - [閱讀, 文化](#閱讀-文化)
+    - [音樂](#音樂)
+    - [手作](#手作)
+    - [汽車](#汽車)
+    - [種植](#種植)
+    - [文具](#文具)
+    - [水族](#水族)
+    - [美容](#美容)
+    - [其他](#其他-1)
   - [二手買賣, Free, 團購](#二手買賣-free-團購)
   - [外國資訊](#外國資訊)
   - [玄學/神秘學](#玄學神秘學)
@@ -52,7 +62,8 @@
   - [醫療保健](#醫療保健)
   - [教育、家庭、育兒資訊](#教育-家庭-育兒資訊)
   - [美術、插畫](#美術-插畫)
-  - [其他](#其他-1)
+  - [其他](#其他-2)
+  - [軍事](#軍事)
   - [移民](#移民)
   - [宗教](#宗教)
 - [Page 目錄](#page-目錄)
@@ -71,9 +82,10 @@
   - [網店](#網店)
   - [黃店](#黃店)
   - [寵物](#寵物-1)
-  - [其他](#其他-2)
+  - [其他](#其他-3)
 
 <!-- /code_chunk_output -->
+
 
 # Group 目錄
 
@@ -485,6 +497,7 @@
 |Apple 蘋果產品用家Group|https://mewe.com/join/applegroup|
 |電腦應用問題💻❓互助區🙋|https://mewe.com/join/ExcelClassroom|
 |TechDogClub 科技狗俱樂部 (Podcast)|https://mewe.com/join/techdogclub|
+|科技吹水台|https://mewe.com/join/科技吹水台|
 ## 寵物
 |Name|Link|
 |:---|---|
@@ -632,7 +645,7 @@
 |香港射箭運動員|https://mewe.com/join/香港射箭運動員|
 |HKer網球場共享群|https://mewe.com/join/hkertennisshare|
 |VOLLEYGON|https://mewe.com/p/volleygon|
-## 娛樂,電影, 電視
+## 娛樂, 電影, 電視
 |Name|Link|
 |:---|---|
 |文人多說話|https://mewe.com/join/talkalot|
@@ -745,62 +758,96 @@
 ## 興趣
 |Name|Link|
 |:---|---|
-|18樓讀書室|https://mewe.com/p/18freadingroom|
-|手帳文具CLUB|https://mewe.com/join/journalclub|
+### 攝影
+|Name|Link|
+|:---|---|
+|膠攝現場|https://mewe.com/join/plasticphoto|
 |光影流跡極致攝影|https://mewe.com/join/simplyphoto|
-|好詩好書好句分享|https://mewe.com/join/nicebookstoshare|
-|好撚鐘意手作分享區|https://mewe.com/join/welovehandmade|
-|有機種植group|https://mewe.com/join/hongkongrooftoporganicfarming|
-|抓拍無限空間|https://mewe.com/join/抓拍無限空間|
-|沙田車友Group|https://mewe.com/join/shatindrivers|
-|皂咩・meh de savon|https://mewe.com/join/皂咩mehdesavon|
 |星空攝影谷 MeWe|https://mewe.com/join/hkastrophotography|
-|香港 RICOH GR GRD GRIST 菲林 數碼 街拍群組|https://mewe.com/join/HKGRist|
-|香港💃娃🕺手作-手殘膠流同好會|https://mewe.com/join/craftlala|
-|香港人名錶交流交易區|https://mewe.com/join/hkersluxurywatches|
 |香港人在攝影|https://mewe.com/join/hongkongers_taking_photo|
-|香港人私家車資訊谷|https://mewe.com/join/hongkongercargroup|
-|香港人桌遊群組|https://mewe.com/join/hkerboardgame|
 |香港人像攝影|https://mewe.com/join/香港人像攝影|
-|香港人種花谷|https://mewe.com/group/5fbcd7362b06cd7648129bea|
-|香港人樂器討論區|https://mewe.com/join/香港人樂器討論區|
-|香港人學日文 (日語學習心得交流)|https://mewe.com/join/learnjapanese|
 |香港人親子攝影|https://mewe.com/join/hkfamilyphotos|
 |香港女生攝影會|https://mewe.com/join/hkphotographygirl|
-|香港手捲煙TOBACCO|https://mewe.com/join/hktobacco|
+|香港街拍|https://mewe.com/join/hksnapshot|
+|香港街頭攝影及紀實攝影 群組|https://mewe.com/join/streetanddocumentaryphotographyhk|
+|攝影場地|https://mewe.com/join/yinglouhk|
+|HK Film Camera \| 香港菲林相機 Public Group|https://mewe.com/join/hkfilmcamera|
+|香港街頭攝影及紀實攝影 群組|https://mewe.com/join/streetanddocumentaryphotographyhk|
+|香港 RICOH GR GRD GRIST 菲林 數碼 街拍群組|https://mewe.com/join/HKGRist|
+|香港攝影技巧與分享|https://mewe.com/group/5ffd0c9c9971b029281d40b3|
+|HK Film Camera \| 香港菲林相機 Public Group|https://mewe.com/join/hkfilmcamera|
+|抓拍無限空間|https://mewe.com/join/抓拍無限空間|
+### 閱讀, 文化
+|Name|Link|
+|:---|---|
+|18樓讀書室|https://mewe.com/p/18freadingroom|
+|好詩好書好句分享|https://mewe.com/join/nicebookstoshare|
+|講嘢前 讀書先|https://mewe.com/join/readbeforeyouspeak論嘢前讀書先|
+|New age 讀書會|https://mewe.com/join/newage讀書會|
 |香港文藝社|https://mewe.com/join/hkliteraryartssoc|
-|香港水族交流及買賣群組|https://mewe.com/join/hkaquagroup|
+|香港藝文·流行文化交流|https://mewe.com/join/hkac|
+### 音樂
+|Name|Link|
+|:---|---|
+|香港人樂器討論區|https://mewe.com/join/香港人樂器討論區|
+|香港結他世界|https://mewe.com/join/香港結他世界|
+|聲覺遊列破 SHINKAYO THEATRE|https://mewe.com/join/shinkayotheatre|
 |香港耳機及音響交流區|https://mewe.com/join/香港耳機及音響交流區|
+|nitory深夜音樂分享平台|https://mewe.com/join/nitory|
+|Mariah's Dahhhling  (Forum for Mariahs Fans and 90s R&B music)|https://mewe.com/join/mariahsdahhhling|
+|繼續寵愛張國榮 fans club|https://mewe.com/join/windoflesliehk|
+### 手作
+|Name|Link|
+|:---|---|
+|好撚鐘意手作分享區|https://mewe.com/join/welovehandmade|
+|皂咩・meh de savon|https://mewe.com/join/皂咩mehdesavon|
+|真香港 手作人、縫紉谷🧵🖼|https://mewe.com/join/hkersartscraftsewing|
+|黃金手作谷|https://mewe.com/join/goldenhandmade|
+|Bevoka 香薰/手工皂/護膚品/蠟燭/花藥交流園地|https://mewe.com/join/bevokasharing|
+|香港💃娃🕺手作-手殘膠流同好會|https://mewe.com/join/craftlala|
+### 汽車
+|Name|Link|
+|:---|---|
+|沙田車友Group|https://mewe.com/join/shatindrivers|
+|香港人私家車資訊谷|https://mewe.com/join/hongkongercargroup|
+|Suzuki AN400 Club|https://mewe.com/join/an400|
+|真香港人。鐵騎26谷 |https://mewe.com/join/yellowbike|
+### 種植
+|Name|Link|
+|:---|---|
+|有機種植group|https://mewe.com/join/hongkongrooftoporganicfarming|
+|香港人種花谷|https://mewe.com/group/5fbcd7362b06cd7648129bea|
 |香港空氣草交流區 ☘️ TILLANDSIA @ HKG 🌱🎍🍀|https://mewe.com/join/香港空氣草交流區tillandsiahkg|
+### 文具
+|Name|Link|
+|:---|---|
+|手帳文具CLUB|https://mewe.com/join/journalclub|
+|Bookmarks collection 書簽|https://mewe.com/join/bookmarkscollection|
+|香港墨水筆會 HK FOUNTAIN PEN CLUB|https://mewe.com/join/hongkongfountainpenclub|
+|HKJSA 香港手帳繪寫文具中心同學會|https://mewe.com/join/hkjsa2017|
+### 水族
+|Name|Link|
+|:---|---|
+|香港水族交流及買賣群組|https://mewe.com/join/hkaquagroup|
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
 |Mewe香港鬥魚交流群組|https://mewe.com/join/betta.hk|
 |Mewe香港短鯛交流群組|https://mewe.com/join/cichlid.hk|
-|香港結他世界|https://mewe.com/join/香港結他世界|
-|香港街拍|https://mewe.com/join/hksnapshot|
-|香港街頭攝影及紀實攝影 群組|https://mewe.com/join/streetanddocumentaryphotographyhk|
-|香港電子書討論|https://mewe.com/group/5fc8a368318dcd7d246100c6|
-|香港墨水筆會 HK FOUNTAIN PEN CLUB|https://mewe.com/join/hongkongfountainpenclub|
-|香港藝文·流行文化交流|https://mewe.com/join/hkac|
-|香港攝影技巧與分享|https://mewe.com/group/5ffd0c9c9971b029281d40b3|
-|真香港 手作人、縫紉谷🧵🖼|https://mewe.com/join/hkersartscraftsewing|
-|真香港人。鐵騎26谷 |https://mewe.com/join/yellowbike|
-|速寫分享組|https://mewe.com/join/速寫分享組|
-|黃金手作谷|https://mewe.com/join/goldenhandmade|
-|聲覺遊列破 SHINKAYO THEATRE|https://mewe.com/join/shinkayotheatre|
-|講嘢前 讀書先|https://mewe.com/join/readbeforeyouspeak論嘢前讀書先|
-|繼續寵愛張國榮 fans club|https://mewe.com/join/windoflesliehk|
-|攝影場地|https://mewe.com/join/yinglouhk|
-|Bookmarks collection 書簽|https://mewe.com/join/bookmarkscollection|
-|gel甲不求人|https://mewe.com/join/gelnaildiy|
-|HK Film Camera \| 香港菲林相機 Public Group|https://mewe.com/join/hkfilmcamera|
-|HKJSA 香港手帳繪寫文具中心同學會|https://mewe.com/join/hkjsa2017|
-|Mariah's Dahhhling  (Forum for Mariahs Fans and 90s R&B music)|https://mewe.com/join/mariahsdahhhling|
-|New age 讀書會|https://mewe.com/join/newage讀書會|
-|nitory深夜音樂分享平台|https://mewe.com/join/nitory|
-|Suzuki AN400 Club|https://mewe.com/join/an400|
-|MeWe 香港人鑽石首飾關注組💎 MeWe Diamond Jewelry Group 💎 (Group)|https://mewe.com/join/mewediamondjewelrygroup|
-|Bevoka 香薰/手工皂/護膚品/蠟燭/花藥交流園地|https://mewe.com/join/bevokasharing|
 |AQUARIUM LANDSCAPE - 水族造景交流|https://mewe.com/group/600142267b6d90568798df83|
+### 美容
+|Name|Link|
+|:---|---|
+|香港美容護膚扮靚優惠群|https://mewe.com/join/hkbeauty|
+|gel甲不求人|https://mewe.com/join/gelnaildiy|
+|MeWe 香港人鑽石首飾關注組💎 MeWe Diamond Jewelry Group 💎 (Group)|https://mewe.com/join/mewediamondjewelrygroup|
+### 其他
+|Name|Link|
+|:---|---|
+|香港人名錶交流交易區|https://mewe.com/join/hkersluxurywatches|
+|香港人桌遊群組|https://mewe.com/join/hkerboardgame|
+|香港人學日文 (日語學習心得交流)|https://mewe.com/join/learnjapanese|
+|香港手捲煙TOBACCO|https://mewe.com/join/hktobacco|
+|香港電子書討論|https://mewe.com/group/5fc8a368318dcd7d246100c6|
+|速寫分享組|https://mewe.com/join/速寫分享組|
 ## 二手買賣, Free, 團購
 |Name|Link|
 |:---|---|
@@ -928,7 +975,7 @@
 |歷史科討論區|https://mewe.com/join/his|
 |觀塘幼小家長會|https://mewe.com/join/4648|
 |升中一討論區|https://mewe.com/join/goingformone_hk|
-|沙田幼小家長會（88/89/91校網）|https://mewe.com/join/888991|
+|沙田幼小家長會（88/89/91校網）|https://mewe.com/join/888991|[]
 |中西區幼小家長會（11校網）|https://mewe.com/join/11schoolnet|
 |元朗區幼小家長會(72/73/74校網)|https://mewe.com/join/727374|
 ## 美術、插畫
@@ -956,7 +1003,6 @@
 |社會創新|https://mewe.com/join/socialinnovation|
 |非中國製嘅小朋友用品|https://mewe.com/join/bbgoodsabc_canto|
 |侵侵 + 彭斯 + 蓬佩奧 粉絲會|https://mewe.com/join/tppclub|
-|科技吹水台|https://mewe.com/join/科技吹水台|
 |美國黃店網店廣告|https://mewe.com/join/美國黃店網店廣告|
 |香港人笑下啦|https://mewe.com/join/hksmile|
 |香港交友區💛👫💛同路人互加朋友|https://mewe.com/join/BeFriend|
@@ -976,7 +1022,6 @@
 |微 辣 係 時 候 返 澳 門|https://mewe.com/join/mannertomacau|
 |電訊台|https://mewe.com/join/電訊台|
 |與樹窿傾訴的日與夜|https://mewe.com/join/talkingwithtreeholedayandnight|
-|膠攝現場|https://mewe.com/join/plasticphoto|
 |寰雨膠事錄 fan group|https://mewe.com/join/gausee.group|
 |點樣可以環保啲？|https://mewe.com/join/onthewaytoecofriendly|
 |a roll of film|https://mewe.com/join/arolloffilm|
@@ -987,10 +1032,12 @@
 |sales同工圍爐區|https://mewe.com/join/香港sales同路人圍爐取爐區|
 |Sing hk song by yourself|https://mewe.com/join/sing_hk_song_by_yourself_|
 |SKINCARE \| MAKEUP \| HAIR \| NAIL|https://mewe.com/join/beauty_hkers|
+|香港清潔消毒除甲醛資訊台|https://mewe.com/join/hkcleaninghchoremoval|
+## 軍事
+|Name|Link|
+|:---|---|
 |和你講。軍事|https://mewe.com/group/5fcf23f668f9f20c00020cbb|
 |軍武器研|https://mewe.com/group/5fd847882b3e657ab444b45b|
-|香港清潔消毒除甲醛資訊台|https://mewe.com/join/hkcleaninghchoremoval|
-|香港美容護膚扮靚優惠群|https://mewe.com/join/hkbeauty|
 ## 移民
 |Name|Link|
 |:---|---|
@@ -1017,6 +1064,7 @@
 |🎗佛偈和你傾🙏🏻|https://mewe.com/join/yellowbuddah|
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
+
 # Page 目錄
 
 ## 區議員
