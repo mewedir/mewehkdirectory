@@ -2,6 +2,8 @@
 
 
 <details><summary> 目錄 </summary>
+
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
@@ -13,6 +15,20 @@
   - [九龍區](#九龍區)
   - [新界區](#新界區)
   - [外國勢力](#外國勢力)
+    - [美國](#美國)
+    - [加拿大](#加拿大)
+    - [澳洲](#澳洲)
+    - [紐西蘭](#紐西蘭)
+    - [台灣](#台灣)
+    - [歐洲](#歐洲)
+    - [英國](#英國)
+    - [日本](#日本)
+    - [新加玻](#新加玻)
+    - [馬來西亞](#馬來西亞)
+    - [印度](#印度)
+    - [泰國](#泰國)
+    - [西班牙](#西班牙)
+    - [誇國](#誇國)
   - [香港學界](#香港學界)
   - [香港歷史, 資料類](#香港歷史-資料類)
   - [本土互助系列](#本土互助系列)
@@ -57,9 +73,11 @@
 <!-- /code_chunk_output -->
 
 </details>
+
 # Group 目錄
 
 ## 新聞, 時事
+
 |||
 |:---|---|
 |👮🏿👮🏿♀香港黑警宣傳部👮🏿👮🏿♀ Hong Kong Popo News|https://mewe.com/join/HKPopo|
@@ -104,6 +122,7 @@
 |Terry的媒體懶人堂|https://mewe.com/p/terry%E7%9A%84%E5%AA%92%E9%AB%94%E6%87%B6%E4%BA%BA%E5%A0%82|
 |Initium Media 端傳媒|https://mewe.com/p/theinitiummedia端傳媒|
 ## 離島區
+
 |||
 |:---|---|
 |東涌吹水谷|https://mewe.com/join/tungchung|
@@ -232,7 +251,9 @@
 ## 外國勢力
 |||
 |:---|---|
+
 ### 美國
+
 |||
 |:---|---|
 |北美香港人DIYer 谷|https://mewe.com/join/北美香港人diyer|
