@@ -60,8 +60,8 @@
   - [玄學/神秘學](#玄學神秘學)
   - [感情生活, 兩性關係](#感情生活-兩性關係)
   - [醫療保健](#醫療保健)
-  - [教育、家庭、育兒資訊](#教育-家庭-育兒資訊)
-  - [美術、插畫](#美術-插畫)
+  - [教育、家庭、育兒資訊](#教育家庭育兒資訊)
+  - [美術、插畫](#美術插畫)
   - [其他](#其他-2)
   - [軍事](#軍事)
   - [移民](#移民)
@@ -85,7 +85,6 @@
   - [其他](#其他-3)
 
 <!-- /code_chunk_output -->
-
 
 # Group 目錄
 
@@ -202,6 +201,7 @@
 |觀塘～臥虎～藏龍|https://mewe.com/join/kwuntong|
 |鑽石山之友|http://mewe.com/join/diamondhill|
 |德福街坊 Telford Gardens|https://mewe.com/join/telfordgardens|
+|大。龍。鶴 (老龍坑/鶴園/大環)|https://mewe.com/join/tailunghok|
 ## 新界區
 |Name|Link|
 |:---|---|
@@ -247,6 +247,7 @@
 |馬鞍山|https://mewe.com/join/mos|
 |將軍澳 \| 鋒火台|https://mewe.com/join/tkobeacontower|
 |將軍澳人|https://mewe.com/join/tkopeople|
+|將軍澳|https://mewe.com/group/5fce2c998a79980701419ffc|
 |葵涌|https://mewe.com/join/kwaichung|
 |盡在天盛苑|https://mewe.com/join/tinshingcourt|
 |廣福宏福|https://mewe.com/join/kwongfukwangfuk|
@@ -265,6 +266,7 @@
 ### 美國
 |Name|Link|
 |:---|---|
+|香港遇上西雅圖|http://mewe.com/join/hongersinseattle|
 |北美香港人DIYer 谷|https://mewe.com/join/北美香港人diyer|
 |日港夜又講us美國真香港人(USAHKers)|https://mewe.com/join/usahkers|
 |波士頓港女 Missyelly|https://mewe.com/join/hkongbosgirl|
@@ -280,6 +282,8 @@
 ### 加拿大
 |Name|Link|
 |:---|---|
+|Torontonian HongKongers Action Group (THKAG) (Group)|https://mewe.com/group/5fba479f6aab720699e52fe4|
+|Torontonian HongKongers Action Group (THKAG) (Page)|https://mewe.com/p/torontonianhongkongersactiongroupthkag|
 |加拿大香港人|https://mewe.com/join/CanadaHongKonger|
 |加拿大港人野佬同盟（黃）|https://mewe.com/join/canadianhkeryellowalliance|
 |加拿大Montreal group|https://mewe.com/join/hkers|
@@ -440,6 +444,7 @@
 |TAMA TAXI|https://mewe.com/join/tamagroup_hk|
 |和你的WoilTaxi|https://mewe.com/join/wolitaxi|
 |無品鄰居噪音 "L"|https://mewe.com/join/noisenuisance|
+|全港著數情報分享|https://mewe.com/group/5fcdd82c66714006b138a739|
 |北區·斷捨離/互助/Free/交流/格價 group👩🏻👶🏻💕|https://mewe.com/join/freenorthdistrict|
 ## 本土討論區
 |Name|Link|
@@ -543,6 +548,10 @@
 |Mewe香港鬥魚交流群組|https://mewe.com/join/betta.hk|
 |Mewe香港短鯛交流群組|https://mewe.com/join/cichlid.hk|
 |香港救救毛孩（走失、領養，etc.)|https://mewe.com/join/savehelplesspetshk|
+|將軍澳動物之友|https://mewe.com/group/5fcdffa18a79980701a75686|
+|將軍澳貓友|https://mewe.com/group/5fce00ac68f9f20c00ca11a0|
+|貓奴集合處|https://mewe.com/group/5fce01745193512aa8426045|
+|香港唐狗 開心 Hapb Life|https://mewe.com/join/hapblife|
 ## 飲飲食食
 |Name|Link|
 |:---|---|
@@ -578,6 +587,11 @@
 |Whisky 金黃威士忌交流區|https://mewe.com/join/whiskyhkg|
 |香港人公仔麪天堂|https://mewe.com/join/hongkongernoodles|
 |VINO E AMIGOS 好酒好友|https://mewe.com/group/5fc77ee5318dcd7d243e5784|
+|溫哥華香港人日常煮意|https://mewe.com/join/溫哥華香港人日常煮意cocopiskitchen|
+|愛食愛玩愛享受（食玩嘆）|https://mewe.com/join/ilovefood777|
+|BRUNO（搬爐）煮食關注組|https://mewe.com/join/brunocooking|
+|AIRFRYER (氣炸鍋）煮食關注組|https://mewe.com/join/airfryercooking|
+|香港人PetFriendly餐廳|http://mewe.com/join/hongkongerspetfriendly|
 ### 素食
 |Name|Link|
 |:---|---|
@@ -975,7 +989,7 @@
 |歷史科討論區|https://mewe.com/join/his|
 |觀塘幼小家長會|https://mewe.com/join/4648|
 |升中一討論區|https://mewe.com/join/goingformone_hk|
-|沙田幼小家長會（88/89/91校網）|https://mewe.com/join/888991|[]
+|沙田幼小家長會（88/89/91校網）|https://mewe.com/join/888991|
 |中西區幼小家長會（11校網）|https://mewe.com/join/11schoolnet|
 |元朗區幼小家長會(72/73/74校網)|https://mewe.com/join/727374|
 ## 美術、插畫
@@ -1033,6 +1047,7 @@
 |Sing hk song by yourself|https://mewe.com/join/sing_hk_song_by_yourself_|
 |SKINCARE \| MAKEUP \| HAIR \| NAIL|https://mewe.com/join/beauty_hkers|
 |香港清潔消毒除甲醛資訊台|https://mewe.com/join/hkcleaninghchoremoval|
+|劏雞莊清算錄|https://mewe.com/join/fuckboss|
 ## 軍事
 |Name|Link|
 |:---|---|
@@ -1234,6 +1249,7 @@
 |FORTUNE INSIGHT|https://mewe.com/p/fortuneinsight|
 |Market Digest|https://mewe.com/p/marketdigest|
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
+|公務員Secrets|https://mewe.com/p/cssecret|
 ## 運動
 |Name|Link|
 |:---|---|
@@ -1273,6 +1289,7 @@
 ## 飲食
 |Name|Link|
 |:---|---|
+|愛食愛玩愛享受|https://mewe.com/p/愛食愛玩愛享受|
 |肚餓都只食良|https://mewe.com/p/onlyeatgood|
 |食·港女🎗|https://mewe.com/p/eathkgirls1|
 |食神 FoodGod - 西班牙直送優質食材|https://mewe.com/p/%E9%A3%9F%E7%A5%9Efoodgod-%E8%A5%BF%E7%8F%AD%E7%89%99%E7%9B%B4%E9%80%81%E5%84%AA%E8%B3%AA%E9%A3%9F%E6%9D%901|
@@ -1343,6 +1360,9 @@
 ## 網店
 |Name|Link|
 |:---|---|
+|Green Space Aromatherapy|https://mewe.com/p/greenspacearomatherapy|
+|Wine Meteor|https://mewe.com/p/winemeteor1|
+|Fleur d’amour 花艾 押花植物藝術|https://mewe.com/p/fleurdamour花艾押花植物藝術|
 |月下文具房 NOCTURNAL|https://mewe.com/p/nocturnal|
 |叮叮老香港辦館 Hong Kong Tram|https://mewe.com/p/%E5%8F%AE%E5%8F%AE%E8%80%81%E9%A6%99%E6%B8%AF%E8%BE%A6%E9%A4%A8hongkongtramstore|
 |林村買賣,外送,食物群組(只限林村居民)|https://mewe.com/join/林村買賣外送食品群組只限林村居民|
@@ -1391,11 +1411,17 @@
 |Benevolent Shop|https://mewe.com/join/benevolentshop|
 |+ 小人物部屋 + Nendoroids 黏土人 日本代購|https://mewe.com/join/homeoflittledoll|
 |Lung Wing Trading Co.|https://mewe.com/join/lungwingtradingco|
+|東京搭乗中 Tokyo Boarding|https://mewe.com/p/東京搭乗中tokyoboarding|
 ## 黃店
 |Name|Link|
 |:---|---|
+|Bodyzone Massage Hong Kong|https://mewe.com/p/bodyzonemassagehongkong|
+|I Love U Dogz|https://mewe.com/p/iloveudogz|
+|山下cafe immortal|https://mewe.com/p/cafeimmortal51|
+|黃式保險 yellowinsurance|https://mewe.com/p/%E9%BB%83%E5%BC%8F%E4%BF%9D%E9%9A%AAyellowinsurance|
+|Herencia Bespoke Tailors|https://mewe.com/p/herenciabespoketailors|
 |（黃店）狼婆婆咖啡店 Om Grandma Wolf Coffee|https://mewe.com/p/狼婆婆咖啡店omgrandmawolfcoffee|
-|一素店 One Vegan Shop|https://mewe.com/p/%E4%B8%80%E7%B4%A0%E5%BA%97oneveganshop|
+|一素店 One Vegan Shop|https://mewe.com/p/oneveganshop|
 |千之味刺身壽司專門店|https://mewe.com/p/%E5%8D%83%E4%B9%8B%E5%91%B3%E5%88%BA%E8%BA%AB%E5%A3%BD%E5%8F%B8%E5%B0%88%E9%96%80%E5%BA%97|
 |千里達模型玩具公司|https://mewe.com/p/twinnermodel|
 |巴打鮮果|https://mewe.com/p/brosfruithk|
@@ -1432,6 +1458,7 @@
 |公公手工皂 Gong Gong Soap|https://mewe.com/p/gonggongsoap|
 |Wedding Mood 香港喜帖|https://mewe.com/p/weddingmoodinvitation|
 |青公Bike Station|https://mewe.com/p/castlepeakbikestation1|
+|Varywarm 暖笠笠|https://mewe.com/p/varywarm|
 ## 寵物
 |Name|Link|
 |:---|---|
@@ -1441,6 +1468,8 @@
 ## 其他
 |Name|Link|
 |:---|---|
+|clipversity - 民間知識交換平台|https://mewe.com/p/clipversity|
+|港鐵新動力 Railway Power|https://mewe.com/p/%E6%B8%AF%E9%90%B5%E6%96%B0%E5%8B%95%E5%8A%9Brailwaypower|
 |日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
 |正嘢|https://mewe.com/p/jengyea|
 |好青年荼毒室 - 哲學部|https://mewe.com/p/corrupttheyouth|
