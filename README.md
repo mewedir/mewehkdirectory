@@ -1110,6 +1110,7 @@
 |一個人|https://mewe.com/p/oneaguy|
 |一喜。畫作 Art For Joy|https://mewe.com/p/%E4%B8%80%E5%96%9C%E7%95%AB%E4%BD%9Cartforjoy|
 |小熊群膠會 (圖文page)|https://mewe.com/p/stupidnfun|
+|口水仔|https://mewe.com/p/yodare|
 |四格好波 IC SOCCER|https://mewe.com/p/%E5%9B%9B%E6%A0%BC%E5%A5%BD%E6%B3%A2icsoccer|
 |好宅之人|https://mewe.com/p/veryotaku|
 |怪叔叔Cuson Lo|https://mewe.com/i/cusonlo|
@@ -1177,7 +1178,7 @@
 |Dgxmusic|https://mewe.com/p/dgxmusic|
 |Edwin Wan 尹溥程|https://mewe.com/p/edwinwan|
 |Ember|https://mewe.com/p/ember_hk_band1|
-|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
+|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
 |Hailey C - 唯一可以鬧人八婆嘅group|https://mewe.com/join/haileyc|
 |Hinx軒力|https://mewe.com/p/hinx軒力|
 |iii|https://mewe.com/p/iiiirisliu|
