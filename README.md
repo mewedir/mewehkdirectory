@@ -73,11 +73,11 @@
   - [玄學/神秘學](#玄學神秘學)
   - [感情生活, 兩性關係](#感情生活-兩性關係)
   - [醫療保健](#醫療保健)
-  - [教育、家庭、育兒資訊](#教育-家庭-育兒資訊)
+  - [教育、家庭、育兒資訊](#教育家庭育兒資訊)
     - [幼兒, 育兒, 家庭](#幼兒-育兒-家庭)
     - [家長會](#家長會)
     - [小學, 中學](#小學-中學)
-  - [美術、插畫](#美術-插畫)
+  - [美術、插畫](#美術插畫)
   - [對抗霸權](#對抗霸權)
   - [其他](#其他-3)
   - [軍事](#軍事)
@@ -325,6 +325,7 @@
 |加拿大香港人|https://mewe.com/join/CanadaHongKonger|
 |加拿大港人野佬同盟（黃）|https://mewe.com/join/canadianhkeryellowalliance|
 |加拿大Montreal group|https://mewe.com/join/hkers|
+|加拿大野佬黃頁|https://mewe.com/join/canadianyellowpages2|
 |多倫多香港人|https://mewe.com/join/hkto|
 |多倫多黃色經濟兵團|https://mewe.com/group/5ffbfc908df1b9009ba0e1c5|
 |住加男人|https://mewe.com/join/canmenmewegroup|
@@ -504,6 +505,7 @@
 |賠錢都要走人 Take My Money and Let Me Go|https://mewe.com/group/60026e29f57b6043da48fed8|
 |UP 得就 UP|http://mewe.com/join/hkfreechatclub|
 |香港加好友HONG KONG FRIENDS|https://mewe.com/join/hkfriend|
+|任你噏廣場|https://mewe.com/join/blowwater1|
 ## 本土其他
 |Name|Link|
 |:---|---|
@@ -791,6 +793,8 @@
 |ツイステッドワンダーランド手遊資訊交流群|https://mewe.com/join/ツイステッドワンダーランド手遊交流群|
 |遊戲資訊交流群 大量免費遊戲資訊提供|https://mewe.com/group/5fc29e1c7f1d500f69c6f7e3|
 |Pokémon Go HK|https://mewe.com/join/pokémongohk|
+|A列車系列～社長圍爐|https://mewe.com/join/atrainseries|
+|Chain Chronicle 非官方交流Group|https://mewe.com/join/chainchronicle|
 ### 玩偶, 模型, 公仔, 玩具
 |Name|Link|
 |:---|---|
@@ -809,6 +813,7 @@
 ## 旅遊
 |Name|Link|
 |:---|---|
+|日本酒店資訊駅|https://mewe.com/join/japan_hotel|
 |又飛啦旅人團|https://mewe.com/join/flyagainla|
 |三屋日遊谷|https://mewe.com/join/3homejapan|
 |台灣吃喝玩樂蒲指南|https://mewe.com/join/ilovetaiwan|
@@ -1150,6 +1155,7 @@
 |香港清潔消毒除甲醛資訊台|https://mewe.com/join/hkcleaninghchoremoval|
 |劏雞莊清算錄|https://mewe.com/join/fuckboss|
 |香港結婚 婚禮物資用品 HK Happy Wedding|https://mewe.com/join/hkhappywedding|
+|納米缸圍爐|https://mewe.com/join/納米缸圍爐|
 ## 軍事
 |Name|Link|
 |:---|---|
@@ -1490,6 +1496,7 @@
 ### 手作, 工藝
 |Name|Link|
 |:---|---|
+|公公手工皂 Gong Gong Soap|https://mewe.com/p/gonggongsoap|
 |+ 小人物部屋 + Nendoroids 黏土人 日本代購|https://mewe.com/join/homeoflittledoll|
 |香港手作網店|https://mewe.com/p/litlagom_hk|
 |草帽本舖|https://mewe.com/p/strawhatstore|
@@ -1558,6 +1565,7 @@
 ### 食店
 |Name|Link|
 |:---|---|
+|閨•家|https://mewe.com/p/閨家|
 |一素店 One Vegan Shop|https://mewe.com/p/oneveganshop|
 |（黃店）狼婆婆咖啡店 Om Grandma Wolf Coffee|https://mewe.com/p/狼婆婆咖啡店omgrandmawolfcoffee|
 |千之味刺身壽司專門店|https://mewe.com/p/%E5%8D%83%E4%B9%8B%E5%91%B3%E5%88%BA%E8%BA%AB%E5%A3%BD%E5%8F%B8%E5%B0%88%E9%96%80%E5%BA%97|
@@ -1592,7 +1600,6 @@
 |:---|---|
 |良心裝修顧問有限公司|https://mewe.com/p/良心裝修顧問有限公司|
 |香港除甲醛服務|https://mewe.com/p/hchoremovalhk|
-|閨•家|https://mewe.com/p/閨家|
 |樂師傅維修服務公司|https://mewe.com/p/masterlokrepair|
 |Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
 ### 汽車
@@ -1617,7 +1624,7 @@
 ### 未分類
 |Name|Link|
 |:---|---|
-|公公手工皂 Gong Gong Soap|https://mewe.com/p/gonggongsoap|
+|深水埗電子特賣城|https://mewe.com/p/深水埗電子特賣城|
 |長春藤中醫館|https://mewe.com/p/長春藤中醫館|
 |青公Bike Station|https://mewe.com/p/castlepeakbikestation1|
 |豉油佬 SoyaLo|https://mewe.com/p/%E8%B1%89%E6%B2%B9%E4%BD%AC|
