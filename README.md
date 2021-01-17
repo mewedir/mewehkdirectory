@@ -1107,7 +1107,7 @@
 ## 漫畫, 插畫
 |Name|Link|
 |:---|---|
-|呵呵與藍呵Heiyinhoho|https://mewe.com/p/heiyinhoho%E5%91%B5%E5%91%B5%E8%88%87%E8%97%8D%E5%91%B5|
+|呵呵與藍呵Heiyinhoho|https://mewe.com/p/heiyinhoho|
 |一個人|https://mewe.com/p/oneaguy|
 |一喜。畫作 Art For Joy|https://mewe.com/p/%E4%B8%80%E5%96%9C%E7%95%AB%E4%BD%9Cartforjoy|
 |小熊群膠會 (圖文page)|https://mewe.com/p/stupidnfun|
