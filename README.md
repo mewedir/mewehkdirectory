@@ -26,9 +26,15 @@
     - [西班牙](#西班牙)
     - [誇國](#誇國)
   - [移民](#移民)
+    - [英國](#英國-1)
+    - [澳洲](#澳洲-1)
+    - [台灣](#台灣-1)
+    - [加拿大](#加拿大-1)
+    - [其他](#其他)
   - [香港學界](#香港學界)
   - [香港歷史, 資料類](#香港歷史-資料類)
   - [本土互助系列](#本土互助系列)
+    - [搵工](#搵工)
   - [本土討論區](#本土討論區)
   - [本土其他](#本土其他)
   - [資訊科技](#資訊科技)
@@ -37,7 +43,7 @@
     - [喵星人](#喵星人)
     - [倉鼠/刺蝟/花枝鼠/松鼠/天竺鼠/兔/龍貓/龜](#倉鼠刺蝟花枝鼠松鼠天竺鼠兔龍貓龜)
     - [魚/水族](#魚水族)
-    - [其他](#其他)
+    - [其他](#其他-1)
   - [飲飲食食](#飲飲食食)
     - [素食](#素食)
   - [運動](#運動)
@@ -46,7 +52,8 @@
     - [行山, 遠足, 跑步](#行山-遠足-跑步)
     - [藍球, NBA](#藍球-nba)
     - [Yoga, Gym](#yoga-gym)
-    - [其他](#其他-1)
+    - [潛水](#潛水)
+    - [其他](#其他-2)
   - [娛樂, 電影, 電視](#娛樂-電影-電視)
   - [動漫, 電玩](#動漫-電玩)
     - [動漫](#動漫)
@@ -63,7 +70,7 @@
     - [種植](#種植)
     - [文具](#文具)
     - [美容, 首飾](#美容-首飾)
-    - [其他](#其他-2)
+    - [其他](#其他-3)
   - [二手買賣, Free, 團購](#二手買賣-free-團購)
     - [二手買賣, 自由貫賣](#二手買賣-自由貫賣)
     - [惜物群組](#惜物群組)
@@ -80,19 +87,20 @@
     - [小學, 中學](#小學-中學)
   - [美術、插畫](#美術插畫)
   - [對抗霸權](#對抗霸權)
-  - [其他](#其他-3)
+  - [其他](#其他-4)
   - [軍事](#軍事)
   - [宗教](#宗教)
 - [Page 目錄](#page-目錄)
   - [區議員](#區議員)
   - [漫畫, 插畫](#漫畫-插畫)
   - [IT, 資訊科技類](#it-資訊科技類)
+  - [國外勢力](#國外勢力)
   - [演藝界](#演藝界)
   - [KOL](#kol)
   - [新聞, 時事討論](#新聞-時事討論)
   - [運動](#運動-1)
     - [足球](#足球-1)
-    - [其他](#其他-4)
+    - [其他](#其他-5)
   - [本土,社運](#本土社運)
   - [飲食](#飲食)
   - [Gamer](#gamer)
@@ -114,7 +122,7 @@
     - [寵物](#寵物-1)
     - [未分類](#未分類-1)
   - [寵物](#寵物-2)
-  - [其他](#其他-5)
+  - [其他](#其他-6)
 
 <!-- /code_chunk_output -->
 
@@ -166,6 +174,7 @@
 |眾新聞|https://mewe.com/p/hkcnews|
 |am730|https://mewe.com/p/am730|
 |Yahoo新聞|https://mewe.com/p/yahoo新聞|
+|NOW news|https://mewe.com/p/nownews-新聞|
 ## 離島區
 |Name|Link|
 |:---|---|
@@ -337,6 +346,7 @@
 |溫哥華香港人兒童台 PEPPER'S WORLD|https://mewe.com/join/peppersworld|
 |溫哥華瀨嘢中伏圍威喂|https://mewe.com/join/vancityweiweiwei|
 |Friend of Hong Kong Calgary|https://mewe.com/join/fohk.yyc|
+|Friends of Hong Kong- Edmonton|https://mewe.com/join/friendsofhongkongedmonton|
 ### 澳洲
 |Name|Link|
 |:---|---|
@@ -358,8 +368,8 @@
 |澳洲悉尼劣食記 What Shit to Eat in Sydney|https://mewe.com/join/whatshittoeatinsydney|
 |What to eat in Sydney 澳洲飲飲食食交流區|https://mewe.com/join/whattoeatinsydney|
 |布里斯本香港人店舖服務指南|Https://mewe.com/join/brisbanelifestylenshopingguide|
-
-
+|港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
+|AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
 ### 紐西蘭
 |Name|Link|
 |:---|---|
@@ -429,26 +439,36 @@
 ## 移民
 |Name|Link|
 |:---|---|
-
+### 英國
+|Name|Link|
+|:---|---|
 |90後香港夫妻移英煮食記錄|https://mewe.com/join/90scouple_newjourney|
 |走佬移民去UK (英國) 之 BNO GO!|https://mewe.com/join/走佬移民去uk英國之bnogo|
 |英國工作招聘|https://mewe.com/join/ukjobs|
 |香港人移民英國 (窮L小組)|https://mewe.com/join/香港人移民英國|
 |從零開始移民英國|https://mewe.com/join/readytogouk|
-
+### 澳洲  
+|Name|Link|
+|:---|---|
 |🎗澳洲貸款中介 Mortgage broker🎗 - Rachel Yeung 楊純子|https://mewe.com/join/rachelyeung|
 |香港人澳洲塔斯生活指南Tasmania survivor-Hongkongers Crossing|https://mewe.com/join/香港人澳洲塔斯生活指南tasmaniasurvivor-hongkongerscrossing|
 |移民澳洲報料區 by MARA agent|https://mewe.com/join/aimigrationgroup|
 |移澳生活攻略|https://mewe.com/join/auslivinguide|
 |移民澳洲 |https://mewe.com/join/immi.au|
 |澳洲移民DIY(港人新485簽證)|https://mewe.com/group/5fffef869320470031aba900|
-
-
+|細粒姑娘 膽粗粗移民去澳洲|https://mewe.com/join/littlepsynurseaus|
+### 台灣
+|Name|Link|
+|:---|---|
 |走佬移民去台灣|https://mewe.com/join/走佬移民去台灣|
 |帶着包包去台灣|https://mewe.com/join/breadbabyintaiwan|
-
+### 加拿大
+|Name|Link|
+|:---|---|
 |香港人- 加拿大移民討論區|https://mewe.com/join/hk-to-canada|
-
+### 其他
+|Name|Link|
+|:---|---|
 |香港人移民小貼士|https://mewe.com/join/香港人移民小貼士|
 |移民搵工升學生活group|https://Mewe.com/join/hongkongersabroad|
 ## 香港學界
@@ -508,9 +528,13 @@
 |真香港人消費資訊分享|https://mewe.com/join/yellowhongkongerbyemic|
 |黃色經濟圈 v2|https://bit.ly/yellowmewe|
 |黃藍地圖|https://mewe.com/join/yellowbluemap|
+|無品鄰居噪音 "L"|https://mewe.com/join/noisenuisance|
+### 搵工
+|Name|Link|
+|:---|---|
 |香港搵工|https://mewe.com/join/hkfindjobs|
 |香港人揾工casualdb|https://mewe.com/join/cdb|
-|無品鄰居噪音 "L"|https://mewe.com/join/noisenuisance|
+|奴工處|https://mewe.com/p/奴工處|
 |香港搵工求職|https://mewe.com/join/hkjob|
 ## 本土討論區
 |Name|Link|
@@ -571,6 +595,7 @@
 |TechDogClub 科技狗俱樂部 (Podcast)|https://mewe.com/join/techdogclub|
 |科技吹水台|https://mewe.com/group/5ffdb7f53984d21f06755824|
 |香港智能控制討論區|https://mewe.com/join/香港智能控制討論區|
+|Apple 果粉 group|https://mewe.com/join/applefansclub|
 ## 寵物
 |Name|Link|
 |:---|---|
@@ -629,6 +654,7 @@
 |香港水族交流及買賣群組|https://mewe.com/join/hkaquagroup|
 |AQUARIUM LANDSCAPE - 水族造景交流|https://mewe.com/group/600142267b6d90568798df83|
 |香港觀賞蝦&觀賞魚黃金群|https://mewe.com/join/hkaquariumgoldengroup|
+|納米缸圍爐|https://mewe.com/join/納米缸圍爐|
 ### 其他
 |Name|Link|
 |:---|---|
@@ -682,6 +708,10 @@
 |香港人PetFriendly餐廳|http://mewe.com/join/hongkongerspetfriendly|
 |香港瘋玩瘋食專區🥳|https://mewe.com/join/carayeung|
 |黃金烘焙圈|https://mewe.com/join/hongkongerbaking|
+|港產片主題咖啡店 笠祇珈琲|mewe.com/join/cafekasagi|
+|香港珍珠奶茶關注組|https://mewe.com/join/香港珍珠奶茶關注組|
+|香港人杯麵及即食麵關注組|https://mewe.com/join/hongkongpeopleinstantnoodle|
+|惜食人foodwiser|https://mewe.com/group/60054ba0b4068d6e4da3b8bd|
 ### 素食
 |Name|Link|
 |:---|---|
@@ -740,11 +770,16 @@
 |香港人和你gym💛|https://mewe.com/join/hkersgym|
 |🎗YOGA和你傾🧘🏻|https://mewe.com/join/yellowyoga|
 |HongKongYoga|https://mewe.com/join/hongkongyoga|
+### 潛水
+|Name|Link|
+|:---|---|
+|公義同潛 香港人潛水group|https://mewe.com/join/divingwithjustice|
+|香港美人魚族群|https://mewe.com/join/hkmermaids|
+|自由潛水Freediving(香港）|https://mewe.com/join/hongkongfreediving|
 ### 其他
 |Name|Link|
 |:---|---|
 |丹尼爾體育台|https://mewe.com/join/f1正體中文台|
-|公義同潛 香港人潛水group|https://mewe.com/join/divingwithjustice|
 |王肯尼|https://mewe.com/join/kingkenny_2020|
 |香港人羽毛球|https://mewe.com/join/hkerbadminton|
 |香港射箭運動員|https://mewe.com/join/香港射箭運動員|
@@ -841,6 +876,8 @@
 |Winnie the Pooh 小熊維尼分享區|https://mewe.com/join/happysharingpoohhk|
 |攞嚟命買玩具世界|https://mewe.com/group/5ffd22710062ea4446cfa2bb|
 |BJD罷買中國貨|https://mewe.com/join/nmicbjd|
+|紙漫糖紙模型交流群組|https://mewe.com/join/紙漫糖紙模型交流群組|
+|香港 模型GK手辦 製作技巧及情報分享室 GUNDAM 高達 鋼彈 ガンダム モデル|https://mewe.com/group/5fb83968fc37d45f5005dedc|
 ## 旅遊
 |Name|Link|
 |:---|---|
@@ -919,6 +956,7 @@
 |Mariah's Dahhhling  (Forum for Mariahs Fans and 90s R&B music)|https://mewe.com/join/mariahsdahhhling|
 |繼續寵愛張國榮 fans club|https://mewe.com/join/windoflesliehk|
 |Iempro耳機音樂交流|https://mewe.com/join/iempro|
+|專業餘推介 A-GRADE POP MUSIC|https://mewe.com/join/a.pop.music|
 ### 手作
 |Name|Link|
 |:---|---|
@@ -966,7 +1004,6 @@
 |香港手捲煙TOBACCO|https://mewe.com/join/hktobacco|
 |香港電子書討論|https://mewe.com/group/5fc8a368318dcd7d246100c6|
 |速寫分享組|https://mewe.com/join/速寫分享組|
-|香港 模型GK手辦 製作技巧及情報分享室 GUNDAM 高達 鋼彈 ガンダム モデル|https://mewe.com/group/5fb83968fc37d45f5005dedc|
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
 ## 二手買賣, Free, 團購
 |Name|Link|
@@ -1013,6 +1050,7 @@
 |OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 |啟德free物區💛|https://mewe.com/join/pay.it.forward.in.kai.tak|
 |北區·斷捨離/互助/Free/交流/格價 group👩🏻👶🏻💕|https://mewe.com/join/freenorthdistrict|
+|環保免費二手傢俬物品分享站|https://mewe.com/join/secondlifehk|
 ### 配對
 |Name|Link|
 |:---|---|
@@ -1036,6 +1074,7 @@
 |網購優惠小百科|https://mewe.com/join/buyshipunbox|
 |IPhone 手機 / 轉台平Plan 優惠資訊 Group|https://mewe.com/join/iphonehandsetplanoffer|
 |全港著數情報分享|https://mewe.com/group/5fcdd82c66714006b138a739|
+|著數優惠/荀貨報料吹水群|https://mewe.com/join/hkjetsosharing|
 ## 外國資訊
 |Name|Link|
 |:---|---|
@@ -1189,7 +1228,6 @@
 |香港清潔消毒除甲醛資訊台|https://mewe.com/join/hkcleaninghchoremoval|
 |劏雞莊清算錄|https://mewe.com/join/fuckboss|
 |香港結婚 婚禮物資用品 HK Happy Wedding|https://mewe.com/join/hkhappywedding|
-|納米缸圍爐|https://mewe.com/join/納米缸圍爐|
 ## 軍事
 |Name|Link|
 |:---|---|
@@ -1268,6 +1306,14 @@
 |Watchnow Production|https://mewe.com/p/watchnowproduction4|
 |winandmac Media|https://mewe.com/p/winandmachk|
 |地下天文台台長|https://mewe.com/p/undergrounddirector|
+|Qooah|https://mewe.com/p/qooah|
+## 國外勢力
+|Name|Link|
+|:---|---|
+|香港人在英國|https://mewe.com/p/edmundhongkongerinuk|
+|日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
+|親子生活去台灣 (Group)|https://mewe.com/join/親子生活在台灣|
+|親子生活去台灣 (Page)|https://mewe.com/p/親子生活去台灣|
 ## 演藝界
 |Name|Link|
 |:---|---|
@@ -1477,6 +1523,7 @@
 |瀛遊物語|https://mewe.com/p/瀛遊物語jstorypro1|
 |MeWe 香港酒店、旅遊優惠情報 (Runhotel.hk)|https://mewe.com/p/%E8%87%AA%E5%8A%A9%E9%A4%90staycatioin%E5%84%AA%E6%83%A0%E6%83%85%E5%A0%B11|
 |Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
+|Gojapan|https://mewe.com/p/gojapan3|
 ## 興趣
 |Name|Link|
 |:---|---|
@@ -1511,6 +1558,7 @@
 |Research Wedding 婚紗雜誌|https://mewe.com/p/researchwedding|
 |Sakemoto|https://mewe.com/p/sakemotohk|
 |數碼相簿|https://mewe.com/p/bytedance|
+|香港音樂文學雜誌|https://mewe.com/p/musicandstory|
 ## 網店
 |Name|Link|
 |:---|---|
@@ -1534,6 +1582,7 @@
 |林村買賣,外送,食物群組(只限林村居民)|https://mewe.com/join/林村買賣外送食品群組只限林村居民|
 |特急食料店 Limiter Express Groceries HK|https://mewe.com/p/特急食料店limiterexpressgrocerieshk|
 |雜嘜太|https://mewe.com/p/雜嘜太mrschapmuk|
+|英國為食貓 Hungry Cat UK|https://mewe.com/p/hungrycatuk|
 ### 百貨
 |Name|Link|
 |:---|---|
@@ -1681,13 +1730,11 @@
 |Name|Link|
 |:---|---|
 |小貓奴冬甩冬薑|https://mewe.com/p/%E5%B0%8F%E8%B2%93%E5%A5%B4%E5%86%AC%E7%94%A9%E5%86%AC%E8%96%91|
-|英國為食貓 Hungry Cat UK|https://mewe.com/p/hungrycatuk|
 |貓奴貓事多|https://mewe.com/p/meowsmore|
 ## 其他
 |Name|Link|
 |:---|---|
 |十萬個激嬲女友的理由|https://mewe.com/p/girlfriendwestface|
-|日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
 |正嘢|https://mewe.com/p/jengyea|
 |好青年荼毒室 - 哲學部|https://mewe.com/p/corrupttheyouth|
 |余海峯David . 物理喵phycat|https://mewe.com/p/phycat|
@@ -1709,8 +1756,6 @@
 |與孩滑翔-香港Blw, 蒙特梭利及其他|https://mewe.com/p-front/與孩滑翔-香港blw蒙特梭利及其他|
 |潮文社|https://mewe.com/p/潮文社|
 |澳洲漫畫日和|https://mewe.com/p/澳洲漫畫日和|
-|親子生活去台灣 (Group)|https://mewe.com/join/親子生活在台灣|
-|親子生活去台灣 (Page)|https://mewe.com/p/親子生活去台灣|
 |醫。思維|https://mewe.com/p/medicalinspire|
 |靈性LYS|https://mewe.com/p/靈性lys-loveyourself|
 |ANGEL CIRCLE BY CARLIE塔羅占卜|https://mewe.com/p/angelcirclebycarlie塔羅占卜|
