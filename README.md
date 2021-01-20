@@ -471,6 +471,7 @@
 |:---|---|
 |香港人移民小貼士|https://mewe.com/join/香港人移民小貼士|
 |移民搵工升學生活group|https://Mewe.com/join/hongkongersabroad|
+|香港人在歐洲GRAD SCHOOL/POST GRAD/RA學術及生活交流區|https://mewe.com/group/600499e22cc3982c951ccee0|
 ## 香港學界
 |Name|Link|
 |:---|---|
@@ -529,6 +530,8 @@
 |黃色經濟圈 v2|https://bit.ly/yellowmewe|
 |黃藍地圖|https://mewe.com/join/yellowbluemap|
 |無品鄰居噪音 "L"|https://mewe.com/join/noisenuisance|
+|好撚鐘意手作分享區|https://mewe.com/join/welovehandmade|
+|工客迷因MEMES TRABAJADORES|https://mewe.com/join/工客迷因memestrabajadoreson9on9on9|
 ### 搵工
 |Name|Link|
 |:---|---|
@@ -580,6 +583,7 @@
 |CASA COSMO|https://mewe.com/i/casacosmos|
 |HK💪D.TRUMP 13|https://mewe.com/join/hksupporttrump13|
 |HONG KONG Nationals 香港國民|https://mewe.com/join/hongkongnationals|
+|香港搞笑meme討論交流區|https://mewe.com/join/hongkongmeme|
 ## 資訊科技
 |Name|Link|
 |:---|---|
@@ -712,6 +716,7 @@
 |香港珍珠奶茶關注組|https://mewe.com/join/香港珍珠奶茶關注組|
 |香港人杯麵及即食麵關注組|https://mewe.com/join/hongkongpeopleinstantnoodle|
 |惜食人foodwiser|https://mewe.com/group/60054ba0b4068d6e4da3b8bd|
+|香港碟頭飯關注組|https://mewe.com/join/hkplatter|
 ### 素食
 |Name|Link|
 |:---|---|
@@ -776,6 +781,7 @@
 |公義同潛 香港人潛水group|https://mewe.com/join/divingwithjustice|
 |香港美人魚族群|https://mewe.com/join/hkmermaids|
 |自由潛水Freediving(香港）|https://mewe.com/join/hongkongfreediving|
+
 ### 其他
 |Name|Link|
 |:---|---|
@@ -945,6 +951,7 @@
 |New age 讀書會|https://mewe.com/join/newage讀書會|
 |香港文藝社|https://mewe.com/join/hkliteraryartssoc|
 |香港藝文·流行文化交流|https://mewe.com/join/hkac|
+|Nagomi 粉彩小站|https://mewe.com/join/nagomiart|
 ### 音樂
 |Name|Link|
 |:---|---|
@@ -960,7 +967,6 @@
 ### 手作
 |Name|Link|
 |:---|---|
-|好撚鐘意手作分享區|https://mewe.com/join/welovehandmade|
 |皂咩・meh de savon|https://mewe.com/group/5fc7d011318dcd7d248a12e7|
 |真香港 手作人、縫紉谷🧵🖼|https://mewe.com/join/hkersartscraftsewing|
 |黃金手作谷|https://mewe.com/join/goldenhandmade|
@@ -1126,6 +1132,7 @@
 |HK INFJ/INFP (香港群組)|https://mewe.com/join/hkinfpitfj|
 |Pace Aroma 香薰治療\|手作|https://mewe.com/join/pacearoma|
 |The Key of Soul 心靈鑰匙|https://mewe.com/p/thekeyofsoul|
+
 ## 教育、家庭、育兒資訊
 |Name|Link|
 |:---|---|
@@ -1314,6 +1321,7 @@
 |日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
 |親子生活去台灣 (Group)|https://mewe.com/join/親子生活在台灣|
 |親子生活去台灣 (Page)|https://mewe.com/p/親子生活去台灣|
+|港女德國扮工|https://mewe.com/p/港女德國扮工1|
 ## 演藝界
 |Name|Link|
 |:---|---|
@@ -1480,6 +1488,8 @@
 |KuroTV - 周圍走，帶你影盡打卡呃like景點|https://mewe.com/join/kurotv|
 |Suzuko Hirano 平野鈴子|https://mewe.com/p/suzukohirano%E5%B9%B3%E9%87%8E%E9%88%B4%E5%AD%90|
 |Yellowland HK 走訪深黃大地|https://mewe.com/p/走訪深黃大地yellowlandhk|
+|辦公室日報 OfficeDaily|https://mewe.com/p/辦公室日報officedaily|
+|和你慳 yellowoneihaan|https://mewe.com/p/yellowoneihaan|
 ## 飲食
 |Name|Link|
 |:---|---|
@@ -1559,6 +1569,11 @@
 |Sakemoto|https://mewe.com/p/sakemotohk|
 |數碼相簿|https://mewe.com/p/bytedance|
 |香港音樂文學雜誌|https://mewe.com/p/musicandstory|
+|十字繡卡材料包|https://mewe.com/p/stitchbystitchhk|
+|Dreamchaser Wool Felt 擬真動物羊毛氈|https://mewe.com/p/dreamchaserwoolfelt擬真動物羊毛氈|
+|DCM 韻弦樂器|https://mewe.com/p/dcm|
+|Nail Jolly|https://mewe.com/p/nailjolly|
+|Magic Mom|https://mewe.com/p/magicmom|
 ## 網店
 |Name|Link|
 |:---|---|
@@ -1635,6 +1650,7 @@
 |かえるのピクルス＊PICKLES THE FROG Fans Club|https://mewe.com/join/picklesthefrogfansclub|
 |異度空間工作室|https://mewe.com/p/2degreestudio|
 |Halo雙寶代購屋|https://mewe.com/p/halo2bao|
+|Lalamami Mall|https://mewe.com/p/lalamamimall%E9%9B%B6%E5%94%AE%E8%B0%B7|
 ## 黃店
 |Name|Link|
 |:---|---|
@@ -1679,6 +1695,7 @@
 |樂師傅維修服務公司|https://mewe.com/p/masterlokrepair|
 |Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
 |kInG裝修工程公司|https://mewe.com/p/kinged|
+|良心裝修佬|https://mewe.com/p/良心裝修佬|
 ### 汽車
 |Name|Link|
 |:---|---|
@@ -1773,4 +1790,5 @@
 |The Common Ground|https://mewe.com/p/thecommonground|
 |Timable|www.mewe.com/join/timablegroup|
 |Unlimited Build Works|https://mewe.com/p/unlimitedbuildworks|
+|香港青年協會賽馬會西貢戶外訓練營|https://mewe.com/p/hkfygotc|
 |Weebuy|https://mewe.com/p/weebuy|
