@@ -155,7 +155,6 @@
 |專業清算師|https://mewe.com/p/revengehi|
 |聚言時報 Polymer|https://mewe.com/p/polymerhk|
 |獨立媒體|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94wwwinmediahknet1|
-|獨立媒體 inmediahk.net|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94www.inmediahk.net1|
 |謎米香港 memehk.com|https://mewe.com/p/%E8%AC%8E%E7%B1%B3%E9%A6%99%E6%B8%AFmemehk.com|
 |蘋果日報北美版|https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%88|
 |Breakazine 突破書誌|https://mewe.com/p/breakazine|
@@ -513,6 +512,7 @@
 |香港記錄|https://mewe.com/join/香港記錄|
 |香港自然生態群組|https://mewe.com/group/5fb7f6f4bc270b4ea5ae079c|
 |香港自然生態論壇 HKwildlife.net|https://mewe.com/group/5fb91165bc270b4ea57650d9|
+|在嘉頓山上。放空|https://mewe.com/join/seeuongardenhill|
 ## 本土互助系列
 |Name|Link|
 |:---|---|
@@ -952,6 +952,8 @@
 |香港文藝社|https://mewe.com/join/hkliteraryartssoc|
 |香港藝文·流行文化交流|https://mewe.com/join/hkac|
 |Nagomi 粉彩小站|https://mewe.com/join/nagomiart|
+|小說與散文討論群|https://mewe.com/group/6001bb8b636e347d25877d41|
+|漢服及漢文化圈 HANFU AND EAST ASIAN CULTURE|https://mewe.com/group/60026c966d91be5e292899fb|
 ### 音樂
 |Name|Link|
 |:---|---|
@@ -1051,9 +1053,7 @@
 |青衣黃free 物|https://mewe.com/join/tsingyigiventake|
 |我們都是真香港人♡手足情深FREE感恩♡|https://mewe.com/join/yellowbrother4free|
 |香港人斷捨離物品群組💛免費FREE/平價割捨💛I’m a HongKonger👫|https://mewe.com/join/香港人斷捨離物品群組免費free平價割捨imahongkonger|
-|食通18區，區區有團購|https://mewe.com/join/eatingin18districtsofhk|
 |免費物品轉讓|https://mewe.com/join/freecycling|
-|OYIF (oh yes it's free)|https://mewe.com/join/ohyesitsfreeoyifhongkong|
 |啟德free物區💛|https://mewe.com/join/pay.it.forward.in.kai.tak|
 |北區·斷捨離/互助/Free/交流/格價 group👩🏻👶🏻💕|https://mewe.com/join/freenorthdistrict|
 |環保免費二手傢俬物品分享站|https://mewe.com/join/secondlifehk|
@@ -1081,6 +1081,7 @@
 |IPhone 手機 / 轉台平Plan 優惠資訊 Group|https://mewe.com/join/iphonehandsetplanoffer|
 |全港著數情報分享|https://mewe.com/group/5fcdd82c66714006b138a739|
 |著數優惠/荀貨報料吹水群|https://mewe.com/join/hkjetsosharing|
+|食通18區，區區有團購|https://mewe.com/join/eatingin18districtsofhk|
 ## 外國資訊
 |Name|Link|
 |:---|---|
@@ -1235,6 +1236,7 @@
 |香港清潔消毒除甲醛資訊台|https://mewe.com/join/hkcleaninghchoremoval|
 |劏雞莊清算錄|https://mewe.com/join/fuckboss|
 |香港結婚 婚禮物資用品 HK Happy Wedding|https://mewe.com/join/hkhappywedding|
+|安德烈粉絲群 DR ANDREW TAM'S SUPPORTER GROUP|https://mewe.com/group/6003ef1383e6ee2adbe51da8|
 ## 軍事
 |Name|Link|
 |:---|---|
@@ -1426,6 +1428,8 @@
 |WHIZOO|https://mewe.com/p/whizoo|
 |Will Cho|https://mewe.com/p/willcho|
 |YY Wong 歪歪王|https://mewe.com/p/歪歪王|
+|life is simple 陪著你走到楓葉國|https://mewe.com/p/lifeissimplemamaintoronto|
+|哲學家安德烈 Dr Andrew Tam the Philosopher|https://mewe.com/p/哲學家安德烈drandrewtamthephilosopher|
 ## 新聞, 時事討論
 |Name|Link|
 |:---|---|
@@ -1534,6 +1538,7 @@
 |MeWe 香港酒店、旅遊優惠情報 (Runhotel.hk)|https://mewe.com/p/%E8%87%AA%E5%8A%A9%E9%A4%90staycatioin%E5%84%AA%E6%83%A0%E6%83%85%E5%A0%B11|
 |Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
 |Gojapan|https://mewe.com/p/gojapan3|
+|Travel Japan Like A Local|https://mewe.com/p/traveljapanlikealocal|
 ## 興趣
 |Name|Link|
 |:---|---|
@@ -1589,6 +1594,8 @@
 |香港手作網店|https://mewe.com/p/litlagom_hk|
 |草帽本舖|https://mewe.com/p/strawhatstore|
 |Azure's Bear Shop|https://mewe.com/p/azuresbearshop|
+|印象交易所 Wemember HK|https://mewe.com/p/wememberhk|
+|Fantany Shop|https://mewe.com/p/fantasyshop|
 ### 食物, 辦館, 雜貨
 |Name|Link|
 |:---|---|
@@ -1743,6 +1750,7 @@
 |Varywarm 暖笠笠|https://mewe.com/p/varywarm|
 |Student Nurse|https://mewe.com/p/studentnurse|
 |Mindful Living 靜觀生活體驗及培訓中心|https://mewe.com/p/mindfulliving|
+|action fitness hk|http://mewe.com/p/actionfitnesshk|
 ## 寵物
 |Name|Link|
 |:---|---|
