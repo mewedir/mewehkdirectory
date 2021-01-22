@@ -125,7 +125,6 @@
   - [其他](#其他-6)
 
 <!-- /code_chunk_output -->
-
 # Group 目錄
 
 ## 新聞, 時事
@@ -155,10 +154,8 @@
 |專業清算師|https://mewe.com/p/revengehi|
 |聚言時報 Polymer|https://mewe.com/p/polymerhk|
 |獨立媒體|https://mewe.com/p/%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94wwwinmediahknet1|
-|謎米香港 memehk.com|https://mewe.com/p/%E8%AC%8E%E7%B1%B3%E9%A6%99%E6%B8%AFmemehk.com|
 |蘋果日報北美版|https://mewe.com/p/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E5%8C%97%E7%BE%8E%E7%89%88|
 |Breakazine 突破書誌|https://mewe.com/p/breakazine|
-|D100|https://mewe.com/p/d100|
 |Eagle News|https://mewe.com/p/eaglenews|
 |FUNG Lau Mag 風流|https://mewe.com/p-front/風流雜誌funglaumagazine|
 |MeWe 100毛|https://mewe.com/p/100most|
@@ -584,6 +581,7 @@
 |HK💪D.TRUMP 13|https://mewe.com/join/hksupporttrump13|
 |HONG KONG Nationals 香港國民|https://mewe.com/join/hongkongnationals|
 |香港搞笑meme討論交流區|https://mewe.com/join/hongkongmeme|
+|ExChange 香港技能交換|https://mewe.com/group/600a6e92bb73327536628157|
 ## 資訊科技
 |Name|Link|
 |:---|---|
@@ -717,6 +715,7 @@
 |香港人杯麵及即食麵關注組|https://mewe.com/join/hongkongpeopleinstantnoodle|
 |惜食人foodwiser|https://mewe.com/group/60054ba0b4068d6e4da3b8bd|
 |香港碟頭飯關注組|https://mewe.com/join/hkplatter|
+|香港人打邊爐聯盟|https://mewe.com/join/hongkongerhotpotfansclub|
 ### 素食
 |Name|Link|
 |:---|---|
@@ -781,7 +780,7 @@
 |公義同潛 香港人潛水group|https://mewe.com/join/divingwithjustice|
 |香港美人魚族群|https://mewe.com/join/hkmermaids|
 |自由潛水Freediving(香港）|https://mewe.com/join/hongkongfreediving|
-
+|freediving Alliacce(自由潛水聯盟）|https://mewe.com/join/freedivingalliance|
 ### 其他
 |Name|Link|
 |:---|---|
@@ -1133,7 +1132,8 @@
 |HK INFJ/INFP (香港群組)|https://mewe.com/join/hkinfpitfj|
 |Pace Aroma 香薰治療\|手作|https://mewe.com/join/pacearoma|
 |The Key of Soul 心靈鑰匙|https://mewe.com/p/thekeyofsoul|
-
+|Usui Reiki 靈氣|https://mewe.com/join/reikihk|
+|Magic Mom 紮肚。按摩|https://mewe.com/join/magicmom|
 ## 教育、家庭、育兒資訊
 |Name|Link|
 |:---|---|
@@ -1273,6 +1273,7 @@
 |鄺俊宇 Roy Kwong|https://mewe.com/p/%E9%84%BA%E4%BF%8A%E5%AE%87roykwong|
 |Max Wu 胡耀昌 新富|https://mewe.com/p/maxwu%E8%83%A1%E8%80%80%E6%98%8C|
 |Paul ChowChow 周炫瑋區議員|https://mewe.com/i/paulchowchow|
+|廣康 廖栢康-康仔|https://mewe.com/p/廣康廖栢康-康仔|
 ## 漫畫, 插畫
 |Name|Link|
 |:---|---|
@@ -1430,6 +1431,8 @@
 |YY Wong 歪歪王|https://mewe.com/p/歪歪王|
 |life is simple 陪著你走到楓葉國|https://mewe.com/p/lifeissimplemamaintoronto|
 |哲學家安德烈 Dr Andrew Tam the Philosopher|https://mewe.com/p/哲學家安德烈drandrewtamthephilosopher|
+|英國為食貓 Hungry Cat UK|https://mewe.com/p/hungrycatuk|
+|Mrs.tsang in holland / 嫁到荷蘭的邊端|https://mewe.com/p/mrstsanginholland|
 ## 新聞, 時事討論
 |Name|Link|
 |:---|---|
@@ -1494,6 +1497,7 @@
 |Yellowland HK 走訪深黃大地|https://mewe.com/p/走訪深黃大地yellowlandhk|
 |辦公室日報 OfficeDaily|https://mewe.com/p/辦公室日報officedaily|
 |和你慳 yellowoneihaan|https://mewe.com/p/yellowoneihaan|
+|良心消費 Ethical Consumption|https://mewe.com/p/ethicalconsumption|
 ## 飲食
 |Name|Link|
 |:---|---|
@@ -1578,7 +1582,6 @@
 |Dreamchaser Wool Felt 擬真動物羊毛氈|https://mewe.com/p/dreamchaserwoolfelt擬真動物羊毛氈|
 |DCM 韻弦樂器|https://mewe.com/p/dcm|
 |Nail Jolly|https://mewe.com/p/nailjolly|
-|Magic Mom|https://mewe.com/p/magicmom|
 ## 網店
 |Name|Link|
 |:---|---|
@@ -1604,7 +1607,7 @@
 |林村買賣,外送,食物群組(只限林村居民)|https://mewe.com/join/林村買賣外送食品群組只限林村居民|
 |特急食料店 Limiter Express Groceries HK|https://mewe.com/p/特急食料店limiterexpressgrocerieshk|
 |雜嘜太|https://mewe.com/p/雜嘜太mrschapmuk|
-|英國為食貓 Hungry Cat UK|https://mewe.com/p/hungrycatuk|
+|the king’s kitchen|https://mewe.com/p/thekingskitchen|
 ### 百貨
 |Name|Link|
 |:---|---|
@@ -1730,7 +1733,7 @@
 |青公Bike Station|https://mewe.com/p/castlepeakbikestation1|
 |豉油佬 SoyaLo|https://mewe.com/p/%E8%B1%89%E6%B2%B9%E4%BD%AC|
 |斑鳩成人用品專門店|https://mewe.com/group/5fc462f8098c80318a3e189a/members|
-|黃式保險 yellowinsurance|https://mewe.com/p/%E9%BB%83%E5%BC%8F%E4%BF%9D%E9%9A%AAyellowinsurance|
+|黃式保險 yellowinsurance|https://mewe.com/p/yellowinsurance|
 |團購部屋 MIT 台灣代購|https://mewe.com/p/groupbuyheyataiwangroupbuy|
 |AbouThai 阿布泰國生活百貨|https://mewe.com/p/abouthai|
 |Aegis 保護傘|https://mewe.com/p/aegis%E4%BF%9D%E8%AD%B7%E5%82%98|
