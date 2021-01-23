@@ -125,6 +125,8 @@
   - [其他](#其他-6)
 
 <!-- /code_chunk_output -->
+
+
 # Group 目錄
 
 ## 新聞, 時事
@@ -432,6 +434,8 @@
 |港美美澳加 grad school/post grad/RA學術及生活交流區|https://mewe.com/join/hkerdoresearchhere|
 |Donald Trump's 全球香港及台灣後援會|https://mewe.com/join/trumpsglobalhkandtwsupporters|
 |MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
+|🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
+|🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
 ## 移民
 |Name|Link|
 |:---|---|
@@ -974,6 +978,7 @@
 |Bevoka 香薰/手工皂/護膚品/蠟燭/花藥交流園地|https://mewe.com/join/bevokasharing|
 |香港💃娃🕺手作-手殘膠流同好會|https://mewe.com/join/craftlala|
 |羊毛氈交流|https://mewe.com/join/needlefeltinglovers|
+|好撚鐘意手作分享區|https://mewe.com/join/welovehandmade|
 ### 汽車
 |Name|Link|
 |:---|---|
@@ -1593,7 +1598,7 @@
 |Name|Link|
 |:---|---|
 |公公手工皂 Gong Gong Soap|https://mewe.com/p/gonggongsoap|
-|+ 小人物部屋 + Nendoroids 黏土人 日本代購|https://mewe.com/join/homeoflittledoll|
+|小人物部屋 + Nendoroids 黏土人 日本代購|https://mewe.com/join/homeoflittledoll|
 |香港手作網店|https://mewe.com/p/litlagom_hk|
 |草帽本舖|https://mewe.com/p/strawhatstore|
 |Azure's Bear Shop|https://mewe.com/p/azuresbearshop|
