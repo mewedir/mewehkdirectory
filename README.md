@@ -126,7 +126,6 @@
 
 <!-- /code_chunk_output -->
 
-
 # Group 目錄
 
 ## 新聞, 時事
@@ -564,6 +563,7 @@
 |UP 得就 UP|http://mewe.com/join/hkfreechatclub|
 |香港加好友HONG KONG FRIENDS|https://mewe.com/join/hkfriend|
 |任你噏廣場|https://mewe.com/join/blowwater1|
+|香港ICQ群組交流區|https://mewe.com/join/icq|
 ## 本土其他
 |Name|Link|
 |:---|---|
@@ -585,7 +585,7 @@
 |HK💪D.TRUMP 13|https://mewe.com/join/hksupporttrump13|
 |HONG KONG Nationals 香港國民|https://mewe.com/join/hongkongnationals|
 |香港搞笑meme討論交流區|https://mewe.com/join/hongkongmeme|
-|ExChange 香港技能交換|https://mewe.com/group/600a6e92bb73327536628157|
+|ExChange 香港技能交換|https://mewe.com/join/exforexchange|
 ## 資訊科技
 |Name|Link|
 |:---|---|
@@ -720,6 +720,7 @@
 |惜食人foodwiser|https://mewe.com/group/60054ba0b4068d6e4da3b8bd|
 |香港碟頭飯關注組|https://mewe.com/join/hkplatter|
 |香港人打邊爐聯盟|https://mewe.com/join/hongkongerhotpotfansclub|
+|Steak House 牛扒屋|https://mewe.com/join/steakhousehk|
 ### 素食
 |Name|Link|
 |:---|---|
@@ -767,6 +768,7 @@
 |我哋真係好撚鍾意行山 WE'RE REALLY LOVE HONG KONG HIKING|https://mewe.com/group/5fb70cbc77a54353f731db2c|
 |驚Hike！|https://mewe.com/join/5201314|
 |Make your own backpacking gear|https://mewe.com/join/myog-makeyourownbackpackinggear|
+|草民戶外工作室|https://mewe.com/join/grassianoutdoorstudio|
 ### 藍球, NBA
 |Name|Link|
 |:---|---|
@@ -1086,6 +1088,7 @@
 |全港著數情報分享|https://mewe.com/group/5fcdd82c66714006b138a739|
 |著數優惠/荀貨報料吹水群|https://mewe.com/join/hkjetsosharing|
 |食通18區，區區有團購|https://mewe.com/join/eatingin18districtsofhk|
+|JCW Baby 百貨購物團|https://mewe.com/join/jcwbabyshopping|
 ## 外國資訊
 |Name|Link|
 |:---|---|
@@ -1187,6 +1190,7 @@
 |歷史科討論區|https://mewe.com/join/his|
 |教育界人士合作|https://mewe.com/join/teacher|
 |升中一討論區|https://mewe.com/join/goingformone_hk|
+|DSE The DSengers|https://mewe.com/group/5fcca3b768f9f20c00d6d024|
 ## 美術、插畫
 |Name|Link|
 |:---|---|
@@ -1253,6 +1257,7 @@
 |🎗佛偈和你傾🙏🏻|https://mewe.com/join/yellowbuddah|
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
+|香港基督徒在荷蘭|https://mewe.com/group/600b592a1948b10da5d77ac9|
 
 # Page 目錄
 
@@ -1604,6 +1609,7 @@
 |Azure's Bear Shop|https://mewe.com/p/azuresbearshop|
 |印象交易所 Wemember HK|https://mewe.com/p/wememberhk|
 |Fantany Shop|https://mewe.com/p/fantasyshop|
+|Angel Q Korea Accessories|https://mewe.com/p/angelqkoreaaccessories4|
 ### 食物, 辦館, 雜貨
 |Name|Link|
 |:---|---|
@@ -1759,6 +1765,7 @@
 |Student Nurse|https://mewe.com/p/studentnurse|
 |Mindful Living 靜觀生活體驗及培訓中心|https://mewe.com/p/mindfulliving|
 |action fitness hk|http://mewe.com/p/actionfitnesshk|
+|快達五金|https://mewe.com/p/快達五金速遞公司high-speeddelivery|
 ## 寵物
 |Name|Link|
 |:---|---|
