@@ -90,6 +90,7 @@
   - [其他](#其他-4)
   - [軍事](#軍事)
   - [宗教](#宗教)
+  - [職場](#職場)
 - [Page 目錄](#page-目錄)
   - [區議員](#區議員)
   - [漫畫, 插畫](#漫畫-插畫)
@@ -122,6 +123,7 @@
     - [寵物](#寵物-1)
     - [未分類](#未分類-1)
   - [寵物](#寵物-2)
+  - [打工仔權益](#打工仔權益)
   - [其他](#其他-6)
 
 <!-- /code_chunk_output -->
@@ -1258,6 +1260,25 @@
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
 |香港基督徒在荷蘭|https://mewe.com/group/600b592a1948b10da5d77ac9|
+## 職場
+|Name|Link|
+|:---|---|
+|香港人搵工（FREELANCER/炒散/PARTIME/兼職/臨時工/SLASH)|https://mewe.com/join/hongkongfreelancer|
+|香港人搵工（長工介紹/招聘/入行）|https://mewe.com/join/jobs2|
+|香港招聘/求職/PARTIME/炒散/臨時工/兼職/替工|https://mewe.com/join/recruitment|
+|OFFICE 扮工室日常 （吹水交流/招聘求職）|https://mewe.com/join/office|
+|FREELANCE 自由職業日常 （吹水交流/招聘求職）|https://mewe.com/join/freelance|
+|廚師日常 （吹水交流/招聘求職）|https://mewe.com/join/kitchen|
+|地盤日常 （吹水交流/招聘求職）|https://mewe.com/join/construction|
+|HR日常 （吹水交流/招聘求職）|https://mewe.com/join/hr2|
+|會計日常 （吹水交流/招聘求職）|https://mewe.com/join/accounting|
+|MARKETING 市場及銷售員日常 （吹水交流/招聘求職）|https://mewe.com/join/marketing5|
+|飲服務業日常 （吹水交流/招聘求職）|https://mewe.com/join/waiter|
+|DESIGNER 設計師日常 （吹水交流/招聘求職）|https://mewe.com/join/designer1|
+|IT日常 （吹水交流/招聘求職）|https://mewe.com/join/it1|
+|業管理日常 （吹水交流/招聘求職）|https://mewe.com/join/facility|
+|醫護日常 （吹水交流/招聘求職）|https://mewe.com/join/hospital1|
+|銀行金融業日常 （吹水交流/招聘求職）|https://mewe.com/join/banking|
 
 # Page 目錄
 
@@ -1771,6 +1792,10 @@
 |:---|---|
 |小貓奴冬甩冬薑|https://mewe.com/p/%E5%B0%8F%E8%B2%93%E5%A5%B4%E5%86%AC%E7%94%A9%E5%86%AC%E8%96%91|
 |貓奴貓事多|https://mewe.com/p/meowsmore|
+## 打工仔權益
+|Name|Link|
+|:---|---|
+|勞工組|https://mewe.com/p/workercom|
 ## 其他
 |Name|Link|
 |:---|---|
