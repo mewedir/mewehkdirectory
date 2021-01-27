@@ -37,6 +37,7 @@
     - [搵工](#搵工)
   - [本土討論區](#本土討論區)
   - [本土其他](#本土其他)
+  - [職場](#職場)
   - [資訊科技](#資訊科技)
   - [寵物](#寵物)
     - [毛孩](#毛孩)
@@ -81,11 +82,11 @@
   - [玄學/神秘學](#玄學神秘學)
   - [感情生活, 兩性關係](#感情生活-兩性關係)
   - [醫療保健](#醫療保健)
-  - [教育、家庭、育兒資訊](#教育家庭育兒資訊)
+  - [教育、家庭、育兒資訊](#教育-家庭-育兒資訊)
     - [幼兒, 育兒, 家庭](#幼兒-育兒-家庭)
     - [家長會](#家長會)
     - [小學, 中學](#小學-中學)
-  - [美術、插畫](#美術插畫)
+  - [美術、插畫](#美術-插畫)
   - [對抗霸權](#對抗霸權)
   - [其他](#其他-4)
   - [軍事](#軍事)
@@ -625,6 +626,7 @@
 |科技吹水台|https://mewe.com/group/5ffdb7f53984d21f06755824|
 |香港智能控制討論區|https://mewe.com/join/hongkongerintcontrol|
 |Apple 果粉 group|https://mewe.com/join/applefansclub|
+|MeWe User Manual 使用說明|https://mewe.com/join/mewemanual|
 ## 寵物
 |Name|Link|
 |:---|---|
@@ -1474,6 +1476,7 @@
 |Law, Ka Chung|https://mewe.com/join/lawkachung|
 |今日FBlive - Eugene Law|https://mewe.com/join/今日fblive|
 |Cooking KaKa 食譜分享|https://mewe.com/p/cookingkaka|
+|杜汶澤喱騷|https://mewe.com/p/%E5%96%B1%E9%A8%B7lateshow|
 ## 新聞, 時事討論
 |Name|Link|
 |:---|---|
@@ -1858,3 +1861,4 @@
 |Weebuy|https://mewe.com/p/weebuy|
 |如果沒有「黃色蠟筆」|https://mewe.com/p/ayellowadaykeepsthebluecaway|
 |Cura Box - 香港首個個人化營養補充品平台|https://mewe.com/p/curabox|
+|FreeDream|https://mewe.com/p/freedream|
