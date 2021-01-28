@@ -371,6 +371,7 @@
 |布里斯本香港人店舖服務指南|Https://mewe.com/join/brisbanelifestylenshopingguide|
 |港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
 |AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
+|珀斯香港人/HKers in Perth|https://mewe.com/join/hkersinperth|
 ### 紐西蘭
 |Name|Link|
 |:---|---|
@@ -1402,7 +1403,7 @@
 |Dgxmusic|https://mewe.com/p/dgxmusic|
 |Edwin Wan 尹溥程|https://mewe.com/p/edwinwan|
 |Ember|https://mewe.com/p/ember_hk_band1|
-|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
+|Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
 |GYM CHAN 陳健身 (陳健安)|https://mewe.com/p/onchan|
 |Hailey C - 唯一可以鬧人八婆嘅group|https://mewe.com/join/haileyc|
 |Hinx軒力|https://mewe.com/p/hinx軒力|
