@@ -173,6 +173,8 @@
 |am730|https://mewe.com/p/am730|
 |Yahoo新聞|https://mewe.com/p/yahoo新聞|
 |NOW news|https://mewe.com/p/nownews-新聞|
+|New Economy|https://mewe.com/p/neweconomy|
+|Yahoo財經|https://mewe.com/p/yahoo財經|
 ## 離島區
 |Name|Link|
 |:---|---|
@@ -768,6 +770,7 @@
 |香港小摺車黃金谷|https://mewe.com/join/hongkongfoldingbikeunion|
 |香港單車靚相團|https://mewe.com/join/ridehk|
 |單車靚景團|https://mewe.com/group/5fc8b4b93444c567b5bc7f4a|
+|獨騎深旺道|ttps://mewe.com/join/獨騎深旺道calvinonshammongroad|
 ### 足球
 |Name|Link|
 |:---|---|
@@ -864,6 +867,7 @@
 |鬼滅之刃|https://mewe.com/join/jumpdemonslayer|
 |漫熱 - 香港人嘅漫畫討論平台！|https://mewe.com/join/comic_holic_|
 |KANAHEI卡娜赫拉同好會|https://mewe.com/join/kanahei|
+|香港漫畫同好組|https://mewe.com/join/hkcomicsfd|
 ### 遊戲主機
 |Name|Link|
 |:---|---|
@@ -1862,3 +1866,5 @@
 |如果沒有「黃色蠟筆」|https://mewe.com/p/ayellowadaykeepsthebluecaway|
 |Cura Box - 香港首個個人化營養補充品平台|https://mewe.com/p/curabox|
 |FreeDream|https://mewe.com/p/freedream|
+|香港人揾工 職庫CDB casualDB|https://mewe.com/p/cdb|
+|Yahoo娛樂圈|https://mewe.com/p/yahoo娛樂圈|
