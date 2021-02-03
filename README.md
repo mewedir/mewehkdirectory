@@ -691,6 +691,7 @@
 |AQUARIUM LANDSCAPE - 水族造景交流|https://mewe.com/group/600142267b6d90568798df83|
 |香港觀賞蝦&觀賞魚黃金群|https://mewe.com/join/hkaquariumgoldengroup|
 |納米缸圍爐|https://mewe.com/join/納米缸圍爐|
+|香港孔雀魚協會|https://mewe.com/group/5fcc68bf5193512aa89185a5|
 ### 其他
 |Name|Link|
 |:---|---|
@@ -1679,6 +1680,10 @@
 |Fiber Bird 美加澳進口百貨|https://mewe.com/p/fiberbirdhk|
 |globalbuy全球買環球生活百貨|https://mewe.com/join/globalbuy全球買環球生活百貨|
 |MI MING MART 彌明生活百貨|https://mewe.com/p/mimingmart%E5%BD%8C%E6%98%8E%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8|
+### 國外
+|Name|Link|
+|:---|---|
+|雞蛋黃雜貨舖 Egg Yolk Grocery🇭🇰🇭🇰🐥🐥|https://mewe.com/join/eggyolkgrocery|
 ### 未分類
 |Name|Link|
 |:---|---|
