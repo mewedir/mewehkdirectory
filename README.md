@@ -24,7 +24,7 @@
     - [印度](#印度)
     - [泰國](#泰國)
     - [西班牙](#西班牙)
-    - [誇國](#誇國)
+    - [誇國/其他](#誇國其他)
   - [移民](#移民)
     - [英國](#英國-1)
     - [澳洲](#澳洲-1)
@@ -86,9 +86,10 @@
     - [幼兒, 育兒, 家庭](#幼兒-育兒-家庭)
     - [家長會](#家長會)
     - [小學, 中學](#小學-中學)
+    - [其他](#其他-4)
   - [美術、插畫](#美術-插畫)
   - [對抗霸權](#對抗霸權)
-  - [其他](#其他-4)
+  - [其他](#其他-5)
   - [軍事](#軍事)
   - [宗教](#宗教)
 - [Page 目錄](#page-目錄)
@@ -101,7 +102,7 @@
   - [新聞, 時事討論](#新聞-時事討論)
   - [運動](#運動-1)
     - [足球](#足球-1)
-    - [其他](#其他-5)
+    - [其他](#其他-6)
   - [本土,社運](#本土社運)
   - [飲食](#飲食)
   - [Gamer](#gamer)
@@ -123,10 +124,9 @@
     - [寵物](#寵物-1)
     - [未分類](#未分類-1)
   - [寵物](#寵物-2)
-  - [其他](#其他-6)
+  - [其他](#其他-7)
 
 <!-- /code_chunk_output -->
-
 # Group 目錄
 
 ## 新聞, 時事
@@ -175,6 +175,7 @@
 |NOW news|https://mewe.com/p/nownews-新聞|
 |New Economy|https://mewe.com/p/neweconomy|
 |Yahoo財經|https://mewe.com/p/yahoo財經|
+|黑鏡觀察|https://mewe.com/p/blackmirrortech|
 ## 離島區
 |Name|Link|
 |:---|---|
@@ -432,7 +433,7 @@
 |Name|Link|
 |:---|---|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
-### 誇國
+### 誇國/其他
 |Name|Link|
 |:---|---|
 |美加絲打自由講|https://mewe.com/join/美國絲打自由講|
@@ -441,6 +442,7 @@
 |MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
 |🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
 |🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
+|Hongkongers in Malta 🇲🇹🇭🇰香港人在馬爾他|https://mewe.com/join/hongkongersinmalta|
 ## 移民
 |Name|Link|
 |:---|---|
@@ -1052,6 +1054,7 @@
 |香港電子書討論|https://mewe.com/group/5fc8a368318dcd7d246100c6|
 |速寫分享組|https://mewe.com/join/速寫分享組|
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
+|女生穿搭|https://mewe.com/join/girloutfit|
 ## 二手買賣, Free, 團購
 |Name|Link|
 |:---|---|
@@ -1224,6 +1227,10 @@
 |教育界人士合作|https://mewe.com/join/teacher|
 |升中一討論區|https://mewe.com/join/goingformone_hk|
 |DSE The DSengers|https://mewe.com/group/5fcca3b768f9f20c00d6d024|
+### 其他
+|Name|Link|
+|:---|---|
+|TUTOPIA|https://mewe.com/join/tutopia功課交流區|
 ## 美術、插畫
 |Name|Link|
 |:---|---|
@@ -1547,6 +1554,7 @@
 |和你慳 yellowoneihaan|https://mewe.com/p/yellowoneihaan|
 |良心消費 Ethical Consumption|https://mewe.com/p/ethicalconsumption|
 |勞工組|https://mewe.com/p/workercom|
+|TUTOPIA|https://mewe.com/p/tutopiahk|
 ## 飲食
 |Name|Link|
 |:---|---|
@@ -1652,6 +1660,7 @@
 |Fantany Shop|https://mewe.com/p/fantasyshop|
 |Angel Q Korea Accessories|https://mewe.com/p/angelqkoreaaccessories4|
 |So Green|https://mewe.com/p/sogreen|
+|香港網購盆栽|https://mewe.com/p/香港網購盆栽|
 ### 食物, 辦館, 雜貨
 |Name|Link|
 |:---|---|
@@ -1814,6 +1823,7 @@
 |action fitness hk|http://mewe.com/p/actionfitnesshk|
 |快達五金|https://mewe.com/p/快達五金速遞公司high-speeddelivery|
 |Studibar 本土砌機工作室|https://mewe.com/p/studibar|
+|點籽 Seed|https://mewe.com/p/seedhongkong|
 ## 寵物
 |Name|Link|
 |:---|---|
