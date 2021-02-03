@@ -24,7 +24,7 @@
     - [印度](#印度)
     - [泰國](#泰國)
     - [西班牙](#西班牙)
-    - [誇國](#誇國)
+    - [誇國/其他](#誇國其他)
   - [移民](#移民)
     - [英國](#英國-1)
     - [澳洲](#澳洲-1)
@@ -127,7 +127,6 @@
   - [其他](#其他-7)
 
 <!-- /code_chunk_output -->
-
 # Group 目錄
 
 ## 新聞, 時事
@@ -176,6 +175,7 @@
 |NOW news|https://mewe.com/p/nownews-新聞|
 |New Economy|https://mewe.com/p/neweconomy|
 |Yahoo財經|https://mewe.com/p/yahoo財經|
+|黑鏡觀察|https://mewe.com/p/blackmirrortech|
 ## 離島區
 |Name|Link|
 |:---|---|
@@ -433,7 +433,7 @@
 |Name|Link|
 |:---|---|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
-### 誇國
+### 誇國/其他
 |Name|Link|
 |:---|---|
 |美加絲打自由講|https://mewe.com/join/美國絲打自由講|
@@ -442,6 +442,7 @@
 |MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
 |🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
 |🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
+|Hongkongers in Malta 🇲🇹🇭🇰香港人在馬爾他|https://mewe.com/join/hongkongersinmalta|
 ## 移民
 |Name|Link|
 |:---|---|
@@ -1659,6 +1660,7 @@
 |Fantany Shop|https://mewe.com/p/fantasyshop|
 |Angel Q Korea Accessories|https://mewe.com/p/angelqkoreaaccessories4|
 |So Green|https://mewe.com/p/sogreen|
+|香港網購盆栽|https://mewe.com/p/香港網購盆栽|
 ### 食物, 辦館, 雜貨
 |Name|Link|
 |:---|---|
