@@ -127,6 +127,7 @@
   - [其他](#其他-7)
 
 <!-- /code_chunk_output -->
+
 # Group 目錄
 
 ## 新聞, 時事
@@ -176,6 +177,7 @@
 |New Economy|https://mewe.com/p/neweconomy|
 |Yahoo財經|https://mewe.com/p/yahoo財經|
 |黑鏡觀察|https://mewe.com/p/blackmirrortech|
+|🙅♂香港人抵制藍店 🙅♂罷買中國貨 🙅監察TVB 💪香港人加油|https://mewe.com/join/banTVBteam|
 ## 離島區
 |Name|Link|
 |:---|---|
@@ -1147,6 +1149,7 @@
 |NES’ TAROT｜塔羅牌、雷諾曼、占卜卡全方位討論區|https://mewe.com/join/nestarot|
 |塔占暖男🔮西洋玄學🔯占星資訊|https://mewe.com/join/塔占暖男西洋玄學占星資訊|
 |八字。紫微斗數。玄學命理社|https://mewe.com/join/eightworld|
+|水瓶星人|https://mewe.com/join/aquarian|
 ## 感情生活, 兩性關係
 |Name|Link|
 |:---|---|
@@ -1245,7 +1248,6 @@
 |反Facebook大聯盟|https://mewe.com/join/BanFB|
 |微 辣 係 時 候 返 澳 門|https://mewe.com/join/mannertomacau|
 |侵侵 + 彭斯 + 蓬佩奧 粉絲會|https://mewe.com/join/tppclub|
-|抵制TVB運動|https://mewe.com/join/bantvb|
 |向中國製造說不 ！Say NO to Made in China|https://mewe.com/join/hkersaynotomakeinchina|
 |監察TVB行動組|https://mewe.com/join/banTVBteam|
 |香港signal 群指南|https://mewe.com/join/hksignalgroup|
