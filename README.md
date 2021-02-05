@@ -82,12 +82,12 @@
   - [玄學/神秘學](#玄學神秘學)
   - [感情生活, 兩性關係](#感情生活-兩性關係)
   - [醫療保健](#醫療保健)
-  - [教育、家庭、育兒資訊](#教育-家庭-育兒資訊)
+  - [教育、家庭、育兒資訊](#教育家庭育兒資訊)
     - [幼兒, 育兒, 家庭](#幼兒-育兒-家庭)
     - [家長會](#家長會)
     - [小學, 中學](#小學-中學)
     - [其他](#其他-4)
-  - [美術、插畫](#美術-插畫)
+  - [美術、插畫](#美術插畫)
   - [對抗霸權](#對抗霸權)
   - [其他](#其他-5)
   - [軍事](#軍事)
@@ -113,6 +113,7 @@
     - [手作, 工藝](#手作-工藝)
     - [食物, 辦館, 雜貨](#食物-辦館-雜貨)
     - [百貨](#百貨)
+    - [國外](#國外)
     - [未分類](#未分類)
   - [黃店](#黃店)
     - [食店](#食店)
@@ -376,6 +377,7 @@
 |布里斯本香港人店舖服務指南|Https://mewe.com/join/brisbanelifestylenshopingguide|
 |港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
 |AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
+|澳洲職人吹水(歡迎交流及呻訴職場血淚史)|https://mewe.com/join/aussiehongkongerscareercommunicationgp|
 ### 紐西蘭
 |Name|Link|
 |:---|---|
@@ -775,7 +777,7 @@
 |香港小摺車黃金谷|https://mewe.com/join/hongkongfoldingbikeunion|
 |香港單車靚相團|https://mewe.com/join/ridehk|
 |單車靚景團|https://mewe.com/group/5fc8b4b93444c567b5bc7f4a|
-|獨騎深旺道|ttps://mewe.com/join/獨騎深旺道calvinonshammongroad|
+|獨騎深旺道|https://mewe.com/join/獨騎深旺道calvinonshammongroad|
 ### 足球
 |Name|Link|
 |:---|---|
@@ -1102,6 +1104,7 @@
 |啟德free物區💛|https://mewe.com/join/pay.it.forward.in.kai.tak|
 |北區·斷捨離/互助/Free/交流/格價 group👩🏻👶🏻💕|https://mewe.com/join/freenorthdistrict|
 |環保免費二手傢俬物品分享站|https://mewe.com/join/secondlifehk|
+|Free嘢有請|https://mewe.com/join/freeplease|
 ### 配對
 |Name|Link|
 |:---|---|
@@ -1644,6 +1647,7 @@
 |Nail Jolly|https://mewe.com/p/nailjolly|
 |She.com|https://mewe.com/p/she.com|
 |【陶璃宗貢 】|https://mewe.com/p/ceramicglaze|
+|港究 Kong’s Cult|https://mewe.com/p/kongscult|
 ## 網店
 |Name|Link|
 |:---|---|
