@@ -764,7 +764,7 @@
 |黃香港素食群|https://mewe.com/join/vegetariansinhongkong|
 |素食青年|https://mewe.com/join/veggieyouth|
 |開心素食樂園餐|https://mewe.com/join/happyveggiemeal|
-|純素生活|https://mewe.com/join/純素生活|
+|純素生活|https://mewe.com/join/veganlifehk|
 |素人時代 veggiegeneration|https://mewe.com/join/veggiegeneration|
 ## 運動
 |Name|Link|
@@ -1185,6 +1185,7 @@
 |The Key of Soul 心靈鑰匙|https://mewe.com/p/thekeyofsoul|
 |Usui Reiki 靈氣|https://mewe.com/join/reikihk|
 |Magic Mom 紮肚。按摩|https://mewe.com/join/magicmom|
+|HK Psychology Society|https://mewe.com/join/hk_psychology_society|
 ## 教育、家庭、育兒資訊
 |Name|Link|
 |:---|---|
@@ -1561,6 +1562,7 @@
 |良心消費 Ethical Consumption|https://mewe.com/p/ethicalconsumption|
 |勞工組|https://mewe.com/p/workercom|
 |TUTOPIA|https://mewe.com/p/tutopiahk|
+|HKJobMatch|https://mewe.com/p/hkjobmatch|
 ## 飲食
 |Name|Link|
 |:---|---|
@@ -1686,10 +1688,13 @@
 |Fiber Bird 美加澳進口百貨|https://mewe.com/p/fiberbirdhk|
 |globalbuy全球買環球生活百貨|https://mewe.com/join/globalbuy全球買環球生活百貨|
 |MI MING MART 彌明生活百貨|https://mewe.com/p/mimingmart%E5%BD%8C%E6%98%8E%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8|
+|Amaya Shop For You (澳洲 )|https://mewe.com/join/amayashopforyou|
+|Green Corner|https://mewe.com/p/greencorner|
+|GYPSY 吉普賽生活百貨概念店|https://mewe.com/p/gypsy%E5%90%89%E6%99%AE%E8%B3%BD%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8%E6%A6%82%E5%BF%B5%E5%BA%97|
 ### 國外
 |Name|Link|
 |:---|---|
-|雞蛋黃雜貨舖 Egg Yolk Grocery🇭🇰🇭🇰🐥🐥|https://mewe.com/join/eggyolkgrocery|
+|雞蛋黃雜貨舖 (Adelaide)Egg Yolk Grocery🇭🇰🇭🇰🐥🐥|https://mewe.com/join/eggyolkgrocery|
 ### 未分類
 |Name|Link|
 |:---|---|
