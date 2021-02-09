@@ -10,26 +10,11 @@
   - [港島區](#港島區)
   - [九龍區](#九龍區)
   - [新界區](#新界區)
-  - [外國勢力](#外國勢力)
-    - [美國](#美國)
-    - [加拿大](#加拿大)
-    - [澳洲](#澳洲)
-    - [紐西蘭](#紐西蘭)
-    - [台灣](#台灣)
-    - [歐洲](#歐洲)
-    - [英國](#英國)
-    - [日本](#日本)
-    - [新加玻](#新加玻)
-    - [馬來西亞](#馬來西亞)
-    - [印度](#印度)
-    - [泰國](#泰國)
-    - [西班牙](#西班牙)
-    - [誇國/其他](#誇國其他)
   - [移民](#移民)
-    - [英國](#英國-1)
-    - [澳洲](#澳洲-1)
-    - [台灣](#台灣-1)
-    - [加拿大](#加拿大-1)
+    - [英國](#英國)
+    - [澳洲](#澳洲)
+    - [台灣](#台灣)
+    - [加拿大](#加拿大)
     - [其他](#其他)
   - [香港學界](#香港學界)
   - [香港歷史, 資料類](#香港歷史-資料類)
@@ -126,6 +111,23 @@
     - [未分類](#未分類-1)
   - [寵物](#寵物-2)
   - [其他](#其他-7)
+- [國外勢力 目錄](#國外勢力-目錄)
+  - [美國](#美國)
+  - [加拿大](#加拿大-1)
+  - [澳洲](#澳洲-1)
+    - [網店/黃店](#網店黃店)
+  - [紐西蘭](#紐西蘭)
+  - [台灣](#台灣-1)
+    - [網店/黃店](#網店黃店-1)
+  - [歐洲](#歐洲)
+  - [英國](#英國-1)
+  - [日本](#日本)
+  - [新加玻](#新加玻)
+  - [馬來西亞](#馬來西亞)
+  - [印度](#印度)
+  - [泰國](#泰國)
+  - [西班牙](#西班牙)
+  - [誇國/其他](#誇國其他)
 
 <!-- /code_chunk_output -->
 
@@ -314,139 +316,6 @@
 |屯門黃牛|https://mewe.com/group/5ffd780917b7d67831254992|
 |荃葵青交通關注組 Tsuen Wan and Kwai Tsing transport|https://mewe.com/join/荃葵青交通關注組|
 |顯徑連隆|https://mewe.com/join/hinkenglunghang|
-## 外國勢力
-|Name|Link|
-|:---|---|
-### 美國
-|Name|Link|
-|:---|---|
-|香港遇上西雅圖|http://mewe.com/join/hongersinseattle|
-|北美香港人DIYer 谷|https://mewe.com/join/北美香港人diyer|
-|日港夜又講us美國真香港人(USAHKers)|https://mewe.com/join/usahkers|
-|波士頓港女 Missyelly|https://mewe.com/join/hkongbosgirl|
-|美國波士頓香港人 HongKongers in Boston|https://mewe.com/join/hongkongersinboston|
-|美國香港人|https://mewe.com/join/ushkers|
-|美國港人在Vegas|https://mewe.com/join/hongkongerinlasvegas|
-|香港人在美國首都大華府|https://mewe.com/join/dchkgers|
-|真。香港人在三藩市灣區 HongKongers in SF Bay Area|http://mewe.com/join/sfbayhkers|
-|紐約香港人|https://mewe.com/join/hkersinny|
-|猶他州香港人|https://mewe.com/join/uthongkonger|
-|HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
-|USA Cantonese Families 美國廣東話家庭|https://mewe.com/join/usacantonesefamilies|
-|美國黃店網店廣告|https://mewe.com/join/美國黃店網店廣告|
-### 加拿大
-|Name|Link|
-|:---|---|
-|Torontonian HongKongers Action Group (THKAG) (Group)|https://mewe.com/group/5fba479f6aab720699e52fe4|
-|Torontonian HongKongers Action Group (THKAG) (Page)|https://mewe.com/p/torontonianhongkongersactiongroupthkag|
-|加拿大香港人|https://mewe.com/join/CanadaHongKonger|
-|加拿大港人野佬同盟（黃）|https://mewe.com/join/canadianhkeryellowalliance|
-|加拿大Montreal group|https://mewe.com/join/hkers|
-|加拿大野佬黃頁|https://mewe.com/join/canadianyellowpages2|
-|多倫多香港人|https://mewe.com/join/hkto|
-|多倫多黃色經濟兵團|https://mewe.com/group/5ffbfc908df1b9009ba0e1c5|
-|住加男人|https://mewe.com/join/canmenmewegroup|
-|是日馬丁 - 加拿大香港人工作日常|https://mewe.com/join/todayheha|
-|温哥華識飲識食交流區vancouverdineintakeout|https://mewe.com/group/5fb24d7cb722052ab3e98691|
-|溫哥華香港人|https://mewe.com/join/vancouverhkers|
-|溫哥華香港人兒童台 PEPPER'S WORLD|https://mewe.com/join/peppersworld|
-|溫哥華瀨嘢中伏圍威喂|https://mewe.com/join/vancityweiweiwei|
-|Friend of Hong Kong Calgary|https://mewe.com/join/fohk.yyc|
-|Friends of Hong Kong- Edmonton|https://mewe.com/join/friendsofhongkongedmonton|
-|Skymind 加拿大稅務資訊及會計服務|https://mewe.com/join/skymind|
-### 澳洲
-|Name|Link|
-|:---|---|
-|🇦🇺 澳洲雪梨大西北香港人|https://mewe.com/join/sydneynorwesthkers|
-|🇦🇺 澳洲港人手作市集/手工藝教學興趣班交流🎨|https://mewe.com/join/auhkersartandcraft|
-|✈️落地谷 - 澳洲香港群組（可匿名）|https://mewe.com/join/australiahkjob|
-|🍺識新朋友谷 - 澳洲香港群組（可匿名）|http://www.mewe.com/join/australiahkdating|
-|🎗澳洲資訊 🎗(由各行各業專業人士義務解答）|https://mewe.com/join/auhknewssharing|
-|主谷- 澳洲香港群組（可匿名)|https://mewe.com/join/australiahkchat|
-|坎培垃香港人俱樂部 CANBERRA HONG KONGER'S CLUB 🇭🇰🇦🇺|https://mewe.com/join/canberrahongkongersclub|
-|香港人生活在澳洲🇦🇺|https://mewe.com/join/aushkers|
-|香港人在澳洲聯絡平台 HK AUSSIE|https://mewe.com/join/hkaussie|
-|野佬MEWE聯合社|https://mewe.com/join/britishhongkongmeweclubofaustralia|
-|澳洲自由閪☂👷🏻‍♂👷🏻‍♀❌🈹|https://mewe.com/join/freedomhiaustralia|
-|澳洲香港人 (同FB同名)|https://mewe.com/join/australiahongkongers|
-|HKIA Brisbane|https://mewe.com/join/hkiabrisbane|
-|hong港人insydney|https://mewe.com/join/hong港人insydney|
-|NSW Hongkongers （悉尼）🇦🇺🇭🇰|https://mewe.com/join/nswhongkongers|
-|澳洲悉尼劣食記 What Shit to Eat in Sydney|https://mewe.com/join/whatshittoeatinsydney|
-|What to eat in Sydney 澳洲飲飲食食交流區|https://mewe.com/join/whattoeatinsydney|
-|布里斯本香港人店舖服務指南|Https://mewe.com/join/brisbanelifestylenshopingguide|
-|港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
-|AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
-|澳洲職人吹水(歡迎交流及呻訴職場血淚史)|https://mewe.com/join/aussiehongkongerscareercommunicationgp|
-### 紐西蘭
-|Name|Link|
-|:---|---|
-|香港人在紐西蘭生活點滴|https://mewe.com/join/hkersconnectedinnz|
-|我們的紐西蘭奇異生活 New Start in NZ|https://mewe.com/join/我們的紐西蘭奇異生活newstartinnz|
-|紐西蘭南島香港人|https://mewe.com/join/southislandhkger|
-|紐西蘭Yellow Power NZ 聯同 We are Kiwi Hongkonger|https://mewe.com/join/wearekiwihongkonger|
-|New Zealand Working Holiday 紐西蘭打工度假|https://mewe.com/join/newzealandworkingholiday|
-### 台灣
-|Name|Link|
-|:---|---|
-|在台香港人💛|https://mewe.com/join/hkerintw|
-### 歐洲
-|Name|Link|
-|:---|---|
-|在德國的港人|https://mewe.com/join/hongkongeringermany|
-|香港人在德國|https://mewe.com/join/dehkers|
-|真。香港人生活在荷蘭|http://mewe.com/join/nlhongkongers|
-|歐洲港僑聯盟🇭🇰 🇪🇺|https://mewe.com/join/hker_in_europe|
-### 英國
-|Name|Link|
-|:---|---|
-|英國 MeWe Club|https://mewe.com/join/ukmeweclub|
-|英國手足UK生活見聞|https://mewe.com/join/hkers-in-uk-sharing-addoil|
-|英國香港人 群組 (全球聯繫)|https://mewe.com/join/unitedkingdomshongkongers|
-|英國純正香港人群組 (英國境內)|https://mewe.com/join/unitedkingdomsrealhongkongers|
-|英國嬉笑怒罵|https://mewe.com/join/uklol|
-|黃圈🟡 BNO香港人投奔英國🇬🇧 |https://mewe.com/join/yellowuk|
-|Hong Kongers in the UK 香港人在英國|https://mewe.com/join/hongkongersinuk|
-### 日本
-|Name|Link|
-|:---|---|
-|香港人在日本|https://mewe.com/join/hongkongerliveinjapan|
-|香港人日本生活互助群組|https://mewe.com/join/livinginjapan|
-|日本香港人協會 （討論區）|https://mewe.com/join/jphkersgroup|
-### 新加玻
-|Name|Link|
-|:---|---|
-|香港人在新加坡 HONG KONG TOWN - SINGAPORE (HKER IN SG)|https://mewe.com/join/hongkongerinsingapore|
-|透視新加坡|https://mewe.com/join/seethroughsingapore|
-|港人在獅城|https://mewe.com/join/hkersinsg|
-### 馬來西亞
-|Name|Link|
-|:---|---|
-|香港人在檳城|https://mewe.com/join/hkerinpenang|
-|海外港人💛OVERSEAS HONGKONGER|https://mewe.com/join/overseashongkonger|
-### 印度
-|Name|Link|
-|:---|---|
-|真。香港人妻住印度🇭🇰🇮🇳日常生活二三事|https://mewe.com/join/hkwifeliveindia|
-|戀戀印度🇭🇰🇮🇳|https://mewe.com/join/fallsloveindia|
-### 泰國
-|Name|Link|
-|:---|---|
-|真·港人和你在泰國|https://mewe.com/join/realhkersinthailand|
-### 西班牙
-|Name|Link|
-|:---|---|
-|SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
-### 誇國/其他
-|Name|Link|
-|:---|---|
-|美加絲打自由講|https://mewe.com/join/美國絲打自由講|
-|港美美澳加 grad school/post grad/RA學術及生活交流區|https://mewe.com/join/hkerdoresearchhere|
-|Donald Trump's 全球香港及台灣後援會|https://mewe.com/join/trumpsglobalhkandtwsupporters|
-|MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
-|🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
-|🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
-|Hongkongers in Malta 🇲🇹🇭🇰香港人在馬爾他|https://mewe.com/join/hongkongersinmalta|
 ## 移民
 |Name|Link|
 |:---|---|
@@ -1186,6 +1055,7 @@
 |Usui Reiki 靈氣|https://mewe.com/join/reikihk|
 |Magic Mom 紮肚。按摩|https://mewe.com/join/magicmom|
 |HK Psychology Society|https://mewe.com/join/hk_psychology_society|
+|抗病誌日記研究抑鬱病|https://mewe.com/join/抗病誌日記研究抑鬱病|
 ## 教育、家庭、育兒資訊
 |Name|Link|
 |:---|---|
@@ -1679,6 +1549,7 @@
 |特急食料店 Limiter Express Groceries HK|https://mewe.com/p/特急食料店limiterexpressgrocerieshk|
 |雜嘜太|https://mewe.com/p/雜嘜太mrschapmuk|
 |the king’s kitchen|https://mewe.com/p/thekingskitchen|
+|黃到金榴槤 Golden Durian|https://mewe.com/p/goldendurain%E9%BB%83%E9%87%91%E5%88%B0%E6%A6%B4%E6%A7%A4|
 ### 百貨
 |Name|Link|
 |:---|---|
@@ -1894,3 +1765,168 @@
 |FreeDream|https://mewe.com/p/freedream|
 |香港人揾工 職庫CDB casualDB|https://mewe.com/p/cdb|
 |Yahoo娛樂圈|https://mewe.com/p/yahoo娛樂圈|
+
+# 國外勢力 目錄
+
+## 美國
+|Name|Link|
+|:---|---|
+|香港遇上西雅圖|http://mewe.com/join/hongersinseattle|
+|北美香港人DIYer 谷|https://mewe.com/join/北美香港人diyer|
+|日港夜又講us美國真香港人(USAHKers)|https://mewe.com/join/usahkers|
+|波士頓港女 Missyelly|https://mewe.com/join/hkongbosgirl|
+|美國波士頓香港人 HongKongers in Boston|https://mewe.com/join/hongkongersinboston|
+|美國香港人|https://mewe.com/join/ushkers|
+|美國港人在Vegas|https://mewe.com/join/hongkongerinlasvegas|
+|香港人在美國首都大華府|https://mewe.com/join/dchkgers|
+|真。香港人在三藩市灣區 HongKongers in SF Bay Area|http://mewe.com/join/sfbayhkers|
+|紐約香港人|https://mewe.com/join/hkersinny|
+|猶他州香港人|https://mewe.com/join/uthongkonger|
+|HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
+|USA Cantonese Families 美國廣東話家庭|https://mewe.com/join/usacantonesefamilies|
+|美國黃店網店廣告|https://mewe.com/join/美國黃店網店廣告|
+## 加拿大
+|Name|Link|
+|:---|---|
+|Torontonian HongKongers Action Group (THKAG) (Group)|https://mewe.com/group/5fba479f6aab720699e52fe4|
+|Torontonian HongKongers Action Group (THKAG) (Page)|https://mewe.com/p/torontonianhongkongersactiongroupthkag|
+|加拿大香港人|https://mewe.com/join/CanadaHongKonger|
+|加拿大港人野佬同盟（黃）|https://mewe.com/join/canadianhkeryellowalliance|
+|加拿大Montreal group|https://mewe.com/join/hkers|
+|加拿大野佬黃頁|https://mewe.com/join/canadianyellowpages2|
+|多倫多香港人|https://mewe.com/join/hkto|
+|多倫多黃色經濟兵團|https://mewe.com/group/5ffbfc908df1b9009ba0e1c5|
+|住加男人|https://mewe.com/join/canmenmewegroup|
+|是日馬丁 - 加拿大香港人工作日常|https://mewe.com/join/todayheha|
+|温哥華識飲識食交流區vancouverdineintakeout|https://mewe.com/group/5fb24d7cb722052ab3e98691|
+|溫哥華香港人|https://mewe.com/join/vancouverhkers|
+|溫哥華香港人兒童台 PEPPER'S WORLD|https://mewe.com/join/peppersworld|
+|溫哥華瀨嘢中伏圍威喂|https://mewe.com/join/vancityweiweiwei|
+|Friend of Hong Kong Calgary|https://mewe.com/join/fohk.yyc|
+|Friends of Hong Kong- Edmonton|https://mewe.com/join/friendsofhongkongedmonton|
+|Skymind 加拿大稅務資訊及會計服務|https://mewe.com/join/skymind|
+|TruFinancial Consultants|https://mewe.com/join/trufinancialconsultants|
+## 澳洲
+|Name|Link|
+|:---|---|
+|🇦🇺 澳洲雪梨大西北香港人|https://mewe.com/join/sydneynorwesthkers|
+|🇦🇺 澳洲港人手作市集/手工藝教學興趣班交流🎨|https://mewe.com/join/auhkersartandcraft|
+|✈️落地谷 - 澳洲香港群組（可匿名）|https://mewe.com/join/australiahkjob|
+|🍺識新朋友谷 - 澳洲香港群組（可匿名）|http://www.mewe.com/join/australiahkdating|
+|🎗澳洲資訊 🎗(由各行各業專業人士義務解答）|https://mewe.com/join/auhknewssharing|
+|主谷- 澳洲香港群組（可匿名)|https://mewe.com/join/australiahkchat|
+|坎培垃香港人俱樂部 CANBERRA HONG KONGER'S CLUB 🇭🇰🇦🇺|https://mewe.com/join/canberrahongkongersclub|
+|香港人生活在澳洲🇦🇺|https://mewe.com/join/aushkers|
+|香港人在澳洲聯絡平台 HK AUSSIE|https://mewe.com/join/hkaussie|
+|野佬MEWE聯合社|https://mewe.com/join/britishhongkongmeweclubofaustralia|
+|澳洲自由閪☂👷🏻‍♂👷🏻‍♀❌🈹|https://mewe.com/join/freedomhiaustralia|
+|澳洲香港人 (同FB同名)|https://mewe.com/join/australiahongkongers|
+|HKIA Brisbane|https://mewe.com/join/hkiabrisbane|
+|hong港人insydney|https://mewe.com/join/hong港人insydney|
+|NSW Hongkongers （悉尼）🇦🇺🇭🇰|https://mewe.com/join/nswhongkongers|
+|澳洲悉尼劣食記 What Shit to Eat in Sydney|https://mewe.com/join/whatshittoeatinsydney|
+|What to eat in Sydney 澳洲飲飲食食交流區|https://mewe.com/join/whattoeatinsydney|
+|布里斯本香港人店舖服務指南|Https://mewe.com/join/brisbanelifestylenshopingguide|
+|港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
+|AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
+|澳洲職人吹水(歡迎交流及呻訴職場血淚史)|https://mewe.com/join/aussiehongkongerscareercommunicationgp|
+|🇦🇺 澳洲港人手作市集/手工藝教學興趣班交流🎨|https://mewe.com/join/auhkersartandcraft|
+|✈️落地谷 - 澳洲香港群組（可匿名）|https://mewe.com/join/australiahkjob|
+|🍺識新朋友谷 - 澳洲香港群組（可匿名）|http://www.mewe.com/join/australiahkdating|
+|🎗澳洲資訊 🎗(由各行各業專業人士義務解答）|https://mewe.com/join/auhknewssharing|
+|主谷- 澳洲香港群組（可匿名)|https://mewe.com/join/australiahkchat|
+|坎培垃香港人俱樂部 CANBERRA HONG KONGER'S CLUB 🇭🇰🇦🇺|https://mewe.com/join/canberrahongkongersclub|
+|香港人生活在澳洲🇦🇺|https://mewe.com/join/aushkers|
+|香港人在澳洲聯絡平台 HK AUSSIE|https://mewe.com/join/hkaussie|
+|野佬MEWE聯合社|https://mewe.com/join/britishhongkongmeweclubofaustralia|
+|澳洲自由閪☂👷🏻‍♂👷🏻‍♀❌🈹|https://mewe.com/join/freedomhiaustralia|
+|澳洲香港人 (同FB同名)|https://mewe.com/join/australiahongkongers|
+|HKIA Brisbane|https://mewe.com/join/hkiabrisbane|
+|hong港人insydney|https://mewe.com/join/hong港人insydney|
+|NSW Hongkongers （悉尼）🇦🇺🇭🇰|https://mewe.com/join/nswhongkongers|
+|澳洲悉尼劣食記 What Shit to Eat in Sydney|https://mewe.com/join/whatshittoeatinsydney|
+|What to eat in Sydney 澳洲飲飲食食交流區|https://mewe.com/join/whattoeatinsydney|
+|布里斯本香港人店舖服務指南|Https://mewe.com/join/brisbanelifestylenshopingguide|
+|港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
+|AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
+|澳洲職人吹水(歡迎交流及呻訴職場血淚史)|https://mewe.com/join/aussiehongkongerscareercommunicationgp|
+### 網店/黃店
+|Name|Link|
+|:---|---|
+|小東京私房菜|https://mewe.com/group/60222e8bf4f5a17005e4fdcd|
+|雞蛋黃雜貨舖 (Adelaide)Egg Yolk Grocery|https://mewe.com/join/eggyolkgrocery|
+|Koala Shop 澳洲代購|https://mewe.com/join/from.koala|
+## 紐西蘭
+|Name|Link|
+|:---|---|
+|香港人在紐西蘭生活點滴|https://mewe.com/join/hkersconnectedinnz|
+|我們的紐西蘭奇異生活 New Start in NZ|https://mewe.com/join/我們的紐西蘭奇異生活newstartinnz|
+|紐西蘭南島香港人|https://mewe.com/join/southislandhkger|
+|紐西蘭Yellow Power NZ 聯同 We are Kiwi Hongkonger|https://mewe.com/join/wearekiwihongkonger|
+|New Zealand Working Holiday 紐西蘭打工度假|https://mewe.com/join/newzealandworkingholiday|
+## 台灣
+|Name|Link|
+|:---|---|
+|在台香港人💛|https://mewe.com/join/hkerintw|
+### 網店/黃店
+|Name|Link|
+|:---|---|
+|LADYBIBE STUDIO 呢啲創作|https://mewe.com/join/ladybibestudio|
+|Handmade hair bow store|https://mewe.com/join/twbuy|
+## 歐洲
+|Name|Link|
+|:---|---|
+|在德國的港人|https://mewe.com/join/hongkongeringermany|
+|香港人在德國|https://mewe.com/join/dehkers|
+|真。香港人生活在荷蘭|http://mewe.com/join/nlhongkongers|
+|歐洲港僑聯盟🇭🇰 🇪🇺|https://mewe.com/join/hker_in_europe|
+## 英國
+|Name|Link|
+|:---|---|
+|英國 MeWe Club|https://mewe.com/join/ukmeweclub|
+|英國手足UK生活見聞|https://mewe.com/join/hkers-in-uk-sharing-addoil|
+|英國香港人 群組 (全球聯繫)|https://mewe.com/join/unitedkingdomshongkongers|
+|英國純正香港人群組 (英國境內)|https://mewe.com/join/unitedkingdomsrealhongkongers|
+|英國嬉笑怒罵|https://mewe.com/join/uklol|
+|黃圈🟡 BNO香港人投奔英國🇬🇧 |https://mewe.com/join/yellowuk|
+|Hong Kongers in the UK 香港人在英國|https://mewe.com/join/hongkongersinuk|
+## 日本
+|Name|Link|
+|:---|---|
+|香港人在日本|https://mewe.com/join/hongkongerliveinjapan|
+|香港人日本生活互助群組|https://mewe.com/join/livinginjapan|
+|日本香港人協會 （討論區）|https://mewe.com/join/jphkersgroup|
+## 新加玻
+|Name|Link|
+|:---|---|
+|香港人在新加坡 HONG KONG TOWN - SINGAPORE (HKER IN SG)|https://mewe.com/join/hongkongerinsingapore|
+|透視新加坡|https://mewe.com/join/seethroughsingapore|
+|港人在獅城|https://mewe.com/join/hkersinsg|
+## 馬來西亞
+|Name|Link|
+|:---|---|
+|香港人在檳城|https://mewe.com/join/hkerinpenang|
+|海外港人💛OVERSEAS HONGKONGER|https://mewe.com/join/overseashongkonger|
+## 印度
+|Name|Link|
+|:---|---|
+|真。香港人妻住印度🇭🇰🇮🇳日常生活二三事|https://mewe.com/join/hkwifeliveindia|
+|戀戀印度🇭🇰🇮🇳|https://mewe.com/join/fallsloveindia|
+## 泰國
+|Name|Link|
+|:---|---|
+|真·港人和你在泰國|https://mewe.com/join/realhkersinthailand|
+## 西班牙
+|Name|Link|
+|:---|---|
+|SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
+## 誇國/其他
+|Name|Link|
+|:---|---|
+|美加絲打自由講|https://mewe.com/join/美國絲打自由講|
+|港美美澳加 grad school/post grad/RA學術及生活交流區|https://mewe.com/join/hkerdoresearchhere|
+|Donald Trump's 全球香港及台灣後援會|https://mewe.com/join/trumpsglobalhkandtwsupporters|
+|MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
+|🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
+|🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
+|Hongkongers in Malta 🇲🇹🇭🇰香港人在馬爾他|https://mewe.com/join/hongkongersinmalta|
