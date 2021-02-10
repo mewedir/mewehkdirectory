@@ -115,10 +115,10 @@
   - [美國](#美國)
   - [加拿大](#加拿大-1)
   - [澳洲](#澳洲-1)
-    - [網店/黃店](#網店黃店)
+    - [澳洲網店/黃店](#澳洲網店黃店)
   - [紐西蘭](#紐西蘭)
   - [台灣](#台灣-1)
-    - [網店/黃店](#網店黃店-1)
+    - [台灣網店/黃店](#台灣網店黃店)
   - [歐洲](#歐洲)
   - [英國](#英國-1)
   - [日本](#日本)
@@ -1849,7 +1849,7 @@
 |港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
 |AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
 |澳洲職人吹水(歡迎交流及呻訴職場血淚史)|https://mewe.com/join/aussiehongkongerscareercommunicationgp|
-### 網店/黃店
+### 澳洲網店/黃店
 |Name|Link|
 |:---|---|
 |小東京私房菜|https://mewe.com/group/60222e8bf4f5a17005e4fdcd|
@@ -1867,11 +1867,12 @@
 |Name|Link|
 |:---|---|
 |在台香港人💛|https://mewe.com/join/hkerintw|
-### 網店/黃店
+### 台灣網店/黃店
 |Name|Link|
 |:---|---|
 |LADYBIBE STUDIO 呢啲創作|https://mewe.com/join/ladybibestudio|
 |Handmade hair bow store|https://mewe.com/join/twbuy|
+|Nes’ Tarot|https://mewe.com/join/nestarot|
 ## 歐洲
 |Name|Link|
 |:---|---|
