@@ -98,7 +98,6 @@
     - [手作, 工藝](#手作-工藝)
     - [食物, 辦館, 雜貨](#食物-辦館-雜貨)
     - [百貨](#百貨)
-    - [國外](#國外)
     - [未分類](#未分類)
   - [黃店](#黃店)
     - [食店](#食店)
@@ -1109,6 +1108,13 @@
 |Name|Link|
 |:---|---|
 |TUTOPIA|https://mewe.com/join/tutopia功課交流區|
+|香港人海外升學輔導|https://mewe.com/join/studyabroadguidance|
+|美國升學討論區|https://mewe.com/join/studyinus|
+|拿大升學討論區|https://mewe.com/join/studyincanada|
+|英國寄宿學校討論區|https://mewe.com/join/ukboardingschools|
+|海外大學報讀攻略|https://mewe.com/join/admissionsecrets|
+|大學申請論文一擊即中|https://mewe.com/join/bestadmissionessay|
+|Ace the college admission essay|https://mewe.com/join/collegeadmissionessay|
 ## 美術、插畫
 |Name|Link|
 |:---|---|
@@ -1455,6 +1461,7 @@
 |KELICIOUS HK 生酮低碳飲食資訊平台|https://mewe.com/p/kelicioushk生酮低碳飲食資訊平台|
 |Little B Kitchen 💛 小B廚房|https://mewe.com/p/littlebkitchen|
 |OpenRice Hong Kong|https://mewe.com/p-front/openricehongkong|
+|黃到金榴槤 Golden Durian|https://mewe.com/p/goldendurain%E9%BB%83%E9%87%91%E5%88%B0%E6%A6%B4%E6%A7%A4|
 ## Gamer
 |Name|Link|
 |:---|---|
@@ -1553,7 +1560,6 @@
 |特急食料店 Limiter Express Groceries HK|https://mewe.com/p/特急食料店limiterexpressgrocerieshk|
 |雜嘜太|https://mewe.com/p/雜嘜太mrschapmuk|
 |the king’s kitchen|https://mewe.com/p/thekingskitchen|
-|黃到金榴槤 Golden Durian|https://mewe.com/p/goldendurain%E9%BB%83%E9%87%91%E5%88%B0%E6%A6%B4%E6%A7%A4|
 |永樂粉麵廠 Wing Lok Noodle Factory|https://mewe.com/p/%E6%B0%B8%E6%A8%82%E7%B2%89%E9%BA%B5%E5%BB%A0wingloknoodlefactory|
 ### 百貨
 |Name|Link|
@@ -1567,6 +1573,7 @@
 |Amaya Shop For You (澳洲 )|https://mewe.com/join/amayashopforyou|
 |Green Corner|https://mewe.com/p/greencorner|
 |GYPSY 吉普賽生活百貨概念店|https://mewe.com/p/gypsy%E5%90%89%E6%99%AE%E8%B3%BD%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8%E6%A6%82%E5%BF%B5%E5%BA%97|
+|剛田百貨(大埔)(台灣代購、日式精品、生活百貨，原創產品、手作產品😁 😍 🇯🇵 🇹🇼 🇭🇰 )|https://mewe.com/p/剛田百貨株式會社台灣代購生活百貨|
 ### 未分類
 |Name|Link|
 |:---|---|
@@ -1613,6 +1620,7 @@
 |Lalamami Mall|https://mewe.com/p/lalamamimall%E9%9B%B6%E5%94%AE%E8%B0%B7|
 |Ganzak 梘宅|https://mewe.com/p/ganzak梘宅|
 |mMegafootwear|https://mewe.com/p/mmegafootwear|
+|Factiv|https://mewe.com/p/factiv|
 ## 黃店
 |Name|Link|
 |:---|---|
@@ -1642,6 +1650,7 @@
 |蒸廬|ttps://mewe.com/p/蒸廬thesteamhut|
 |Oh My Dog|https://mewe.com/join/ohmydog|
 |Rimi Cafe|https://mewe.com/p/rimicafe|
+|永樂粉麵廠 Wing Lok Noodle Factory|https://mewe.com/p/%E6%B0%B8%E6%A8%82%E7%B2%89%E9%BA%B5%E5%BB%A0wingloknoodlefactory|
 ### 素食
 |Name|Link|
 |:---|---|
@@ -1766,6 +1775,7 @@
 |FreeDream|https://mewe.com/p/freedream|
 |香港人揾工 職庫CDB casualDB|https://mewe.com/p/cdb|
 |Yahoo娛樂圈|https://mewe.com/p/yahoo娛樂圈|
+|KOACH Education Consultancy|https://mewe.com/p/koacheducationconsultancy|
 
 # 國外勢力 目錄
 
