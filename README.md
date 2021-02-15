@@ -928,6 +928,7 @@
 |速寫分享組|https://mewe.com/join/速寫分享組|
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
 |女生穿搭|https://mewe.com/join/girloutfit|
+|讀劇檯 Script Table Hong Kong|https://mewe.com/join/ScriptTableHK|
 ## 二手買賣, Free, 團購
 |Name|Link|
 |:---|---|
@@ -1181,7 +1182,6 @@
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
 |香港基督徒在荷蘭|https://mewe.com/group/600b592a1948b10da5d77ac9|
-
 # Page 目錄
 
 ## 區議員
