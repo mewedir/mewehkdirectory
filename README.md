@@ -112,6 +112,7 @@
   - [其他](#其他-7)
 - [國外勢力 目錄](#國外勢力-目錄)
   - [美國](#美國)
+    - [美國網店/黃店](#美國網店黃店)
   - [加拿大](#加拿大-1)
   - [澳洲](#澳洲-1)
     - [澳洲網店/黃店](#澳洲網店黃店)
@@ -1182,6 +1183,7 @@
 |愛我主。守我城（信唔信基督都歡迎）|https://mewe.com/join/godloveshk|
 |廣東話詩歌係幾好聽既|https://mewe.com/join/廣東話詩歌係幾好聽既|
 |香港基督徒在荷蘭|https://mewe.com/group/600b592a1948b10da5d77ac9|
+
 # Page 目錄
 
 ## 區議員
@@ -1371,6 +1373,7 @@
 |今日FBlive - Eugene Law|https://mewe.com/join/今日fblive|
 |Cooking KaKa 食譜分享|https://mewe.com/p/cookingkaka|
 |杜汶澤喱騷|https://mewe.com/p/%E5%96%B1%E9%A8%B7lateshow|
+|Goodbye HK Hello UK|https://mewe.com/p/goodbyehkhellouk|
 ## 新聞, 時事討論
 |Name|Link|
 |:---|---|
@@ -1722,6 +1725,7 @@
 |Studibar 本土砌機工作室|https://mewe.com/p/studibar|
 |點籽 Seed|https://mewe.com/p/seedhongkong|
 |UHK港生活|https://mewe.com/p/uhk|
+|Westenfoodiegoshopping 西柚Foodie 和你購|https://mewe.com/p/%E8%A5%BF%E6%9F%9Afoodie%E5%92%8C%E4%BD%A0%E8%B3%BC|
 ## 寵物
 |Name|Link|
 |:---|---|
@@ -1796,6 +1800,10 @@
 |HongKongersinUSA|https://mewe.com/join/hongkongersinusa|
 |USA Cantonese Families 美國廣東話家庭|https://mewe.com/join/usacantonesefamilies|
 |美國黃店網店廣告|https://mewe.com/join/美國黃店網店廣告|
+### 美國網店/黃店
+|Name|Link|
+|:---|---|
+|美國兒童網上廣東話班|https://mewe.com/join/michigancantonesestorytime|
 ## 加拿大
 |Name|Link|
 |:---|---|
@@ -1867,6 +1875,13 @@
 |小東京私房菜|https://mewe.com/group/60222e8bf4f5a17005e4fdcd|
 |雞蛋黃雜貨舖 (Adelaide)Egg Yolk Grocery|https://mewe.com/join/eggyolkgrocery|
 |Koala Shop 澳洲代購|https://mewe.com/join/from.koala|
+|悉尼LK訂貨谷|https://mewe.com/join/mewesylk27hk|
+|港製作 MIHK Australia|https://mewe.com/p/%E6%B8%AF%E8%A3%BD%E4%BD%9Cmihkaustralia|
+|Chinese Wedding|https://mewe.com/p/chinesewedding|
+|Amaya Shop for you|https://mewe.com/join/amayashopforyou|
+|My Heart 澳洲代購|https://mewe.com/join/myheart2|
+|Owoh 喔澳-澳洲代購|https://mewe.com/join/owoh|
+|Zacoli Organic|https://mewe.com/p/zacoliorganic|
 ## 紐西蘭
 |Name|Link|
 |:---|---|
