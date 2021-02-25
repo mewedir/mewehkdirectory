@@ -12,7 +12,6 @@
   - [新界區](#新界區)
   - [移民](#移民)
     - [英國](#英國)
-    - [澳洲](#澳洲)
     - [台灣](#台灣)
     - [加拿大](#加拿大)
     - [其他](#其他)
@@ -97,6 +96,7 @@
     - [書店](#書店)
     - [手作, 工藝](#手作-工藝)
     - [食物, 辦館, 雜貨](#食物-辦館-雜貨)
+    - [酒品](#酒品)
     - [百貨](#百貨)
     - [未分類](#未分類)
   - [黃店](#黃店)
@@ -114,8 +114,9 @@
   - [美國](#美國)
     - [美國網店/黃店](#美國網店黃店)
   - [加拿大](#加拿大-1)
-  - [澳洲](#澳洲-1)
+  - [澳洲](#澳洲)
     - [澳洲網店/黃店](#澳洲網店黃店)
+    - [澳洲移民](#澳洲移民)
   - [紐西蘭](#紐西蘭)
   - [台灣](#台灣-1)
     - [台灣網店/黃店](#台灣網店黃店)
@@ -326,16 +327,6 @@
 |英國工作招聘|https://mewe.com/join/ukjobs|
 |香港人移民英國 (窮L小組)|https://mewe.com/join/香港人移民英國|
 |從零開始移民英國|https://mewe.com/join/readytogouk|
-### 澳洲  
-|Name|Link|
-|:---|---|
-|🎗澳洲貸款中介 Mortgage broker🎗 - Rachel Yeung 楊純子|https://mewe.com/join/rachelyeung|
-|香港人澳洲塔斯生活指南Tasmania survivor-Hongkongers Crossing|https://mewe.com/join/香港人澳洲塔斯生活指南tasmaniasurvivor-hongkongerscrossing|
-|移民澳洲報料區 by MARA agent|https://mewe.com/join/aimigrationgroup|
-|移澳生活攻略|https://mewe.com/join/auslivinguide|
-|移民澳洲 |https://mewe.com/join/immi.au|
-|澳洲移民DIY(港人新485簽證)|https://mewe.com/group/5fffef869320470031aba900|
-|細粒姑娘 膽粗粗移民去澳洲|https://mewe.com/join/littlepsynurseaus|
 ### 台灣
 |Name|Link|
 |:---|---|
@@ -445,7 +436,7 @@
 |香港加好友HONG KONG FRIENDS|https://mewe.com/join/hkfriend|
 |任你噏廣場|https://mewe.com/join/blowwater1|
 |香港ICQ群組交流區|https://mewe.com/join/icq|
-
+|我們Pk的時代|https://mewe.com/join/pkfunny|
 ## 本土其他
 |Name|Link|
 |:---|---|
@@ -487,7 +478,7 @@
 |業管理日常 （吹水交流/招聘求職）|https://mewe.com/join/facility|
 |護日常 （吹水交流/招聘求職）|https://mewe.com/join/hospital1|
 |銀行金融業日常 （吹水交流/招聘求職）|https://mewe.com/join/banking|
-
+|只買外國貨|https://mewe.com/group/6031a727d81d7014c494be13|
 ## 資訊科技
 |Name|Link|
 |:---|---|
@@ -885,7 +876,7 @@
 |:---|---|
 |皂咩・meh de savon|https://mewe.com/group/5fc7d011318dcd7d248a12e7|
 |真香港 手作人、縫紉谷🧵🖼|https://mewe.com/join/hkersartscraftsewing|
-|~~黃金手作谷~~|~~https://mewe.com/join/goldenhandmade~~|
+|黃金手作谷 2021|https://mewe.com/group/601a65b17052b81291e666ec|
 |Bevoka 香薰/手工皂/護膚品/蠟燭/花藥交流園地|https://mewe.com/join/bevokasharing|
 |香港💃娃🕺手作-手殘膠流同好會|https://mewe.com/join/craftlala|
 |羊毛氈交流|https://mewe.com/join/needlefeltinglovers|
@@ -1025,6 +1016,7 @@
 |塔占暖男🔮西洋玄學🔯占星資訊|https://mewe.com/join/塔占暖男西洋玄學占星資訊|
 |八字。紫微斗數。玄學命理社|https://mewe.com/join/eightworld|
 |水瓶星人|https://mewe.com/join/aquarian|
+|創造者的羊皮卷 «吸引力法則»|https://mewe.com/join/scrollsofloa|
 ## 感情生活, 兩性關係
 |Name|Link|
 |:---|---|
@@ -1556,6 +1548,7 @@
 |Angel Q Korea Accessories|https://mewe.com/p/angelqkoreaaccessories4|
 |So Green|https://mewe.com/p/sogreen|
 |香港網購盆栽|https://mewe.com/p/香港網購盆栽|
+|MMF Handicraft|https://mewe.com/p/mmfhandicraft|
 ### 食物, 辦館, 雜貨
 |Name|Link|
 |:---|---|
@@ -1567,6 +1560,12 @@
 |the king’s kitchen|https://mewe.com/p/thekingskitchen|
 |永樂粉麵廠 Wing Lok Noodle Factory|https://mewe.com/p/%E6%B0%B8%E6%A8%82%E7%B2%89%E9%BA%B5%E5%BB%A0wingloknoodlefactory|
 |Pause & Ponder 環保服飾|https://mewe.com/p/pauseponder%E7%92%B0%E4%BF%9D%E6%9C%8D%E9%A3%BE3|
+### 酒品
+|Name|Link|
+|:---|---|
+|Wine Tycoon HK 醇酒大亨|https://mewe.com/p/winetycoonhk%E9%86%87%E9%85%92%E5%A4%A7%E4%BA%A8|
+|Lillion Wine Limited|https://mewe.com/p/lillionwinelimited|
+|Wine Meteor|https://mewe.com/p/winemeteor1|
 ### 百貨
 |Name|Link|
 |:---|---|
@@ -1868,6 +1867,16 @@
 |Owoh 喔澳-澳洲代購|https://mewe.com/join/owoh|
 |Zacoli Organic|https://mewe.com/p/zacoliorganic|
 |Swinson Foods 食唯鮮訂貨谷|https://mewe.com/join/swinsonfoods|
+### 澳洲移民 
+|Name|Link|
+|:---|---|
+|🎗澳洲貸款中介 Mortgage broker🎗 - Rachel Yeung 楊純子|https://mewe.com/join/rachelyeung|
+|香港人澳洲塔斯生活指南Tasmania survivor-Hongkongers Crossing|https://mewe.com/join/香港人澳洲塔斯生活指南tasmaniasurvivor-hongkongerscrossing|
+|移民澳洲報料區 by MARA agent|https://mewe.com/join/aimigrationgroup|
+|移澳生活攻略|https://mewe.com/join/auslivinguide|
+|移民澳洲 |https://mewe.com/join/immi.au|
+|澳洲移民DIY(港人新485簽證)|https://mewe.com/group/5fffef869320470031aba900|
+|細粒姑娘 膽粗粗移民去澳洲|https://mewe.com/join/littlepsynurseaus|
 ## 紐西蘭
 |Name|Link|
 |:---|---|
@@ -1920,6 +1929,7 @@
 |:---|---|
 |香港人在檳城|https://mewe.com/join/hkerinpenang|
 |海外港人💛OVERSEAS HONGKONGER|https://mewe.com/join/overseashongkonger|
+|香港人要知道馬來西亞的景點食物工作學校shopping先人福地地產和其他等等|https://mewe.com/group/5feffde6adfe082064f6ffee|
 ## 印度
 |Name|Link|
 |:---|---|
