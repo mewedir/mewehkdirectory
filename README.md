@@ -826,6 +826,7 @@
 |蒲．臺島 GOLD2TW|https://mewe.com/join/gold2tw|
 |Japan Walker HK|https://mewe.com/p/japanwalkerhk|
 |日本露營您去咗未?|https://mewe.com/join/hokkaido_camping|
+|VK Travel|https://mewe.com/join/vktravel2010|
 ## 興趣
 |Name|Link|
 |:---|---|
@@ -1103,7 +1104,7 @@
 ### 其他
 |Name|Link|
 |:---|---|
-|TUTOPIA|https://mewe.com/join/tutopia功課交流區|
+|TUTOPIA 功課交流區|https://mewe.com/join/tutopia功課交流區|
 |香港人海外升學輔導|https://mewe.com/join/studyabroadguidance|
 |美國升學討論區|https://mewe.com/join/studyinus|
 |拿大升學討論區|https://mewe.com/join/studyincanada|
