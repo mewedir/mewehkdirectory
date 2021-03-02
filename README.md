@@ -956,7 +956,6 @@
 |Name|Link|
 |:---|---|
 |南區惜物谷|https://mewe.com/join/hksouthexchange|
-|同行兒女 執屋減廢|https://mewe.com/join/sonsdaughtersathometoreducewaste|
 ### Free 野
 |Name|Link|
 |:---|---|
