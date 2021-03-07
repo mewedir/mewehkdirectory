@@ -10,11 +10,6 @@
   - [港島區](#港島區)
   - [九龍區](#九龍區)
   - [新界區](#新界區)
-  - [移民](#移民)
-    - [英國](#英國)
-    - [台灣](#台灣)
-    - [加拿大](#加拿大)
-    - [其他](#其他)
   - [香港學界](#香港學界)
   - [香港歷史, 資料類](#香港歷史-資料類)
   - [本土互助系列](#本土互助系列)
@@ -28,7 +23,7 @@
     - [喵星人](#喵星人)
     - [倉鼠/刺蝟/花枝鼠/松鼠/天竺鼠/兔/龍貓/龜](#倉鼠刺蝟花枝鼠松鼠天竺鼠兔龍貓龜)
     - [魚/水族](#魚水族)
-    - [其他](#其他-1)
+    - [其他](#其他)
   - [飲飲食食](#飲飲食食)
     - [素食](#素食)
   - [運動](#運動)
@@ -38,7 +33,7 @@
     - [藍球, NBA](#藍球-nba)
     - [Yoga, Gym](#yoga-gym)
     - [潛水](#潛水)
-    - [其他](#其他-2)
+    - [其他](#其他-1)
   - [娛樂, 電影, 電視](#娛樂-電影-電視)
   - [動漫, 電玩](#動漫-電玩)
     - [動漫](#動漫)
@@ -55,14 +50,14 @@
     - [種植](#種植)
     - [文具](#文具)
     - [美容, 首飾](#美容-首飾)
-    - [其他](#其他-3)
+    - [其他](#其他-2)
   - [二手買賣, Free, 團購](#二手買賣-free-團購)
     - [二手買賣, 自由貫賣](#二手買賣-自由貫賣)
     - [惜物群組](#惜物群組)
     - [Free 野](#free-野)
     - [配對](#配對)
     - [優惠, 團購, 網購, 代購](#優惠-團購-網購-代購)
-  - [外國資訊](#外國資訊)
+  - [外國興趣](#外國興趣)
   - [玄學/神秘學](#玄學神秘學)
   - [感情生活, 兩性關係](#感情生活-兩性關係)
   - [醫療保健](#醫療保健)
@@ -70,23 +65,22 @@
     - [幼兒, 育兒, 家庭](#幼兒-育兒-家庭)
     - [家長會](#家長會)
     - [小學, 中學](#小學-中學)
-    - [其他](#其他-4)
+    - [其他](#其他-3)
   - [美術、插畫](#美術插畫)
   - [對抗霸權](#對抗霸權)
-  - [其他](#其他-5)
+  - [其他](#其他-4)
   - [軍事](#軍事)
   - [宗教](#宗教)
 - [Page 目錄](#page-目錄)
   - [區議員](#區議員)
   - [漫畫, 插畫](#漫畫-插畫)
   - [IT, 資訊科技類](#it-資訊科技類)
-  - [國外勢力](#國外勢力)
   - [演藝界](#演藝界)
-  - [KOL](#kol)
+  - [本地KOL(海外KOL請到海外選項)](#本地kol海外kol請到海外選項)
   - [新聞, 時事討論](#新聞-時事討論)
   - [運動](#運動-1)
     - [足球](#足球-1)
-    - [其他](#其他-6)
+    - [其他](#其他-5)
   - [本土,社運](#本土社運)
   - [飲食](#飲食)
   - [Gamer](#gamer)
@@ -97,6 +91,7 @@
     - [手作, 工藝](#手作-工藝)
     - [食物, 辦館, 雜貨](#食物-辦館-雜貨)
     - [酒品](#酒品)
+    - [糕餅](#糕餅)
     - [百貨](#百貨)
     - [未分類](#未分類)
   - [黃店](#黃店)
@@ -109,26 +104,44 @@
     - [寵物](#寵物-1)
     - [未分類](#未分類-1)
   - [寵物](#寵物-2)
-  - [其他](#其他-7)
-- [國外勢力 目錄](#國外勢力-目錄)
+  - [其他](#其他-6)
+- [海外生活網店旅遊升學移民討論 目錄](#海外生活網店旅遊升學移民討論-目錄)
   - [美國](#美國)
     - [美國網店/黃店](#美國網店黃店)
-  - [加拿大](#加拿大-1)
+  - [加拿大](#加拿大)
+    - [加拿大網店](#加拿大網店)
+    - [加拿大移民](#加拿大移民)
+    - [加拿大專頁](#加拿大專頁)
   - [澳洲](#澳洲)
     - [澳洲網店/黃店](#澳洲網店黃店)
     - [澳洲移民](#澳洲移民)
+    - [澳洲專頁](#澳洲專頁)
   - [紐西蘭](#紐西蘭)
-  - [台灣](#台灣-1)
-    - [台灣網店/黃店](#台灣網店黃店)
   - [歐洲](#歐洲)
-  - [英國](#英國-1)
+  - [德國](#德國)
+    - [德國專頁](#德國專頁)
+  - [荷蘭](#荷蘭)
+    - [荷蘭專頁](#荷蘭專頁)
+  - [英國](#英國)
+    - [英國移民](#英國移民)
+    - [英國專頁](#英國專頁)
+  - [其他](#其他-7)
+  - [台灣](#台灣)
+    - [台灣網店/黃店](#台灣網店黃店)
+    - [台灣移民](#台灣移民)
+    - [台灣專頁](#台灣專頁)
   - [日本](#日本)
+    - [日本專頁](#日本專頁)
+  - [韓國](#韓國)
+    - [韓國專頁](#韓國專頁)
   - [新加玻](#新加玻)
+    - [新加玻專頁](#新加玻專頁)
   - [馬來西亞](#馬來西亞)
   - [印度](#印度)
   - [泰國](#泰國)
+    - [泰國專頁](#泰國專頁)
   - [西班牙](#西班牙)
-  - [誇國/其他](#誇國其他)
+  - [跨國/其他](#跨國其他)
 
 <!-- /code_chunk_output -->
 # Group 目錄
@@ -136,6 +149,7 @@
 ## 新聞, 時事
 |Name|Link|
 |:---|---|
+|Kauyimmedia 求驗傳媒|https://mewe.com/join/kauyimmedia|
 |👮🏿👮🏿♀香港黑警宣傳部👮🏿👮🏿♀ Hong Kong Popo News|https://mewe.com/join/HKPopo|
 |日不落傳媒 Hong Kong Never Sets|https://mewe.com/p/%E6%97%A5%E4%B8%8D%E8%90%BD%E5%82%B3%E5%AA%92hongkongneversets|
 |丘品新聞|https://mewe.com/p/cupidproducer_cupidnews|
@@ -316,32 +330,6 @@
 |屯門黃牛|https://mewe.com/group/5ffd780917b7d67831254992|
 |荃葵青交通關注組 Tsuen Wan and Kwai Tsing transport|https://mewe.com/join/荃葵青交通關注組|
 |顯徑連隆|https://mewe.com/join/hinkenglunghang|
-## 移民
-|Name|Link|
-|:---|---|
-### 英國
-|Name|Link|
-|:---|---|
-|90後香港夫妻移英煮食記錄|https://mewe.com/join/90scouple_newjourney|
-|走佬移民去UK (英國) 之 BNO GO!|https://mewe.com/join/走佬移民去uk英國之bnogo|
-|英國工作招聘|https://mewe.com/join/ukjobs|
-|香港人移民英國 (窮L小組)|https://mewe.com/join/香港人移民英國|
-|從零開始移民英國|https://mewe.com/join/readytogouk|
-### 台灣
-|Name|Link|
-|:---|---|
-|走佬移民去台灣|https://mewe.com/join/走佬移民去台灣|
-|帶着包包去台灣|https://mewe.com/join/breadbabyintaiwan|
-### 加拿大
-|Name|Link|
-|:---|---|
-|香港人- 加拿大移民討論區|https://mewe.com/join/hk-to-canada|
-### 其他
-|Name|Link|
-|:---|---|
-|香港人移民小貼士|https://mewe.com/join/香港人移民小貼士|
-|移民搵工升學生活group|https://Mewe.com/join/hongkongersabroad|
-|香港人在歐洲GRAD SCHOOL/POST GRAD/RA學術及生活交流區|https://mewe.com/group/600499e22cc3982c951ccee0|
 ## 香港學界
 |Name|Link|
 |:---|---|
@@ -590,9 +578,7 @@
 |香港人飲食圈|https://mewe.com/join/hongkongerrestaurant|
 |香港人飲飽食醉分享|https://mewe.com/join/foodlover|
 |香港人廚房 (簡單煮食/飲食交流分享)|https://mewe.com/join/hkeat|
-|香港手工啤關注組🍻|https://mewe.com/join/hkbeer|
 |香港沾麵關注組|https://mewe.com/join/香港沾麵關注組|
-|香港威士忌關注組|https://mewe.com/join/whiskyloverwhiskeylover|
 |香港食辣關注組|Http://MeWe.com/join/kfhksdkmfdnol|
 |香港飲茶情報組|https://mewe.com/join/香港飲茶情報組|
 |香港零食關注組|https://mewe.com/join/hksnacksclub|
@@ -602,10 +588,7 @@
 |氣炸鍋黑洞|https://mewe.com/join/airflyerblackhole|
 |烘焙天地|https://mewe.com/join/baking|
 |烘焙群組|https://mewe.com/join/yellowbread|
-|Whisky 金黃威士忌交流區|https://mewe.com/join/whiskyhkg|
 |香港人公仔麪天堂|https://mewe.com/join/hongkongernoodles|
-|VINO E AMIGOS 好酒好友|https://mewe.com/group/5fc77ee5318dcd7d243e5784|
-|溫哥華香港人日常煮意|https://mewe.com/join/溫哥華香港人日常煮意cocopiskitchen|
 |愛食愛玩愛享受（食玩嘆）|https://mewe.com/join/ilovefood777|
 |BRUNO（搬爐）煮食關注組|https://mewe.com/join/brunocooking|
 |AIRFRYER (氣炸鍋）煮食關注組|https://mewe.com/join/airfryercooking|
@@ -619,6 +602,12 @@
 |香港碟頭飯關注組|https://mewe.com/join/hkplatter|
 |香港人打邊爐聯盟|https://mewe.com/join/hongkongerhotpotfansclub|
 |Steak House 牛扒屋|https://mewe.com/join/steakhousehk|
+|酒品||
+|Whisky 金黃威士忌交流區|https://mewe.com/join/whiskyhkg|
+|香港手工啤關注組🍻|https://mewe.com/join/hkbeer|
+|VINO E AMIGOS 好酒好友|https://mewe.com/group/5fc77ee5318dcd7d243e5784|
+|香港威士忌關注組|https://mewe.com/join/whiskyloverwhiskeylover|
+|酒道。日本酒交流區 Shudo Sake Community|https://mewe.com/join/酒道日本酒交流區shudosakecommunity|
 ### 素食
 |Name|Link|
 |:---|---|
@@ -994,7 +983,7 @@
 |著數優惠/荀貨報料吹水群|https://mewe.com/join/hkjetsosharing|
 |食通18區，區區有團購|https://mewe.com/join/eatingin18districtsofhk|
 |JCW Baby 百貨購物團|https://mewe.com/join/jcwbabyshopping|
-## 外國資訊
+## 外國興趣
 |Name|Link|
 |:---|---|
 |日本有野 ニッポンの|https://mewe.com/group/5fb65b61236dfe43af421b50|
@@ -1246,15 +1235,6 @@
 |winandmac Media|https://mewe.com/p/winandmachk|
 |地下天文台台長|https://mewe.com/p/undergrounddirector|
 |Qooah|https://mewe.com/p/qooah|
-## 國外勢力
-|Name|Link|
-|:---|---|
-|香港人在英國|https://mewe.com/p/edmundhongkongerinuk|
-|日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
-|親子生活去台灣 (Group)|https://mewe.com/join/親子生活在台灣|
-|親子生活去台灣 (Page)|https://mewe.com/p/親子生活去台灣|
-|港女德國扮工|https://mewe.com/p/港女德國扮工1|
-|DNLM 不求人：海外港人生活資訊指南|https://mewe.com/p/dnlm不求人2|
 ## 演藝界
 |Name|Link|
 |:---|---|
@@ -1315,24 +1295,21 @@
 |The Cult Twins 文化雙子星|https://mewe.com/p/theculttwins文化雙子星|
 |TikChi 迪子|https://mewe.com/p/tikchi迪子|
 |ToNick|https://mewe.com/p/tonick|
-## KOL
+## 本地KOL(海外KOL請到海外選項)
 |Name|Link|
 |:---|---|
 |日語老師---福先生|https://mewe.com/p/日語老師---福先生|
 |王艾倫冒險日記|https://mewe.com/p/王艾倫冒險日記1|
-|加拿大 Friends of Hong Kong Edmonton|https://mewe.com/p/friendsofhongkongedmonton|
 |成波之路 my ways to get fat|https://mewe.com/p/mywaystogetfat|
 |米蘭雜記 Taste of Milano|https://mewe.com/p/tasteofmilano|
 |夜透紫的茄子粉絲貓窩|https://mewe.com/p/writingcat|
 |金水|https://mewe.com/p/goldwaterhk|
 |思想。影視媒體隨筆|https://mewe.com/p/思想影視媒體隨筆/|
-|風信子/在日香港人．日本生活與旅遊分享|https://mewe.com/p/hyacinthk|
 |香港人-林公子生活遊記|https://mewe.com/p/mrlamsan3|
 |香港作家王迪詩|https://mewe.com/p/%E9%A6%99%E6%B8%AF%E4%BD%9C%E5%AE%B6%E7%8E%8B%E8%BF%AA%E8%A9%A9|
 |香港棉花糖女孩Cherry|https://mewe.com/p/cherry1|
 |家明|https://mewe.com/p/%E5%AE%B6%E6%98%8E|
 |桑普|https://mewe.com/i/%E6%A1%91%E6%99%AE|
-|泰國人妻檔案 (blogger)|https://mewe.com/p/thailandwifefile|
 |神驅|https://mewe.com/p/localtv|
 |陳裕匡 (立場哥哥)|https://mewe.com/p/yuhongchan|
 |游大東影視筆記|https://mewe.com/p/yautaitung|
@@ -1342,13 +1319,11 @@
 |Alfred CHAN|https://mewe.com/p/imalfredchan|
 |arhoTV|https://mewe.com/p/arhotv|
 |Athena Poon \| 旅行 ● 美容 ● 生活|https://mewe.com/p/athenapoontravel-beauty-sneakers-lifestyle|
-|Bobs Your Uncle (BOB叔)|https://mewe.com/p/bobsyouruncle|
 |Coco哥|https://mewe.com/p/coco%E5%93%A5|
 |Finn Lau 劉祖廸・攬炒巴|https://mewe.com/i/finnlau%E6%94%AC%E7%82%92%E5%B7%B4%E5%8A%89%E7%A5%96%E5%BB%B8|
 |jess遊攝女生|https://mewe.com/p/jess遊攝女生|
 |KC飲食天地|https://mewe.com/p/kc%E9%A3%B2%E9%A3%9F%E5%A4%A9%E5%9C%B01|
 |LADY ROSELLE FAN CLUB|https://mewe.com/group/5fc18c1c67b8dd7459b551a1|
-|Letters from Sydney's Tai-Bo Cheung 張大寶的雪梨來鴻|https://mewe.com/p/張大寶的雪梨來鴻lettersfromsydneystai-bocheung|
 |Matt Leung|https://mewe.com/i/leungmatt|
 |Muddy Water 渾水財經Channel|https://mewe.com/p/%E6%B8%BE%E6%B0%B4%E8%B2%A1%E7%B6%93channel|
 |PAZU薯伯伯|https://mewe.com/p/pazu|
@@ -1359,10 +1334,7 @@
 |WHIZOO|https://mewe.com/p/whizoo|
 |Will Cho|https://mewe.com/p/willcho|
 |YY Wong 歪歪王|https://mewe.com/p/歪歪王|
-|life is simple 陪著你走到楓葉國|https://mewe.com/p/lifeissimplemamaintoronto|
 |哲學家安德烈 Dr Andrew Tam the Philosopher|https://mewe.com/p/哲學家安德烈drandrewtamthephilosopher|
-|英國為食貓 Hungry Cat UK|https://mewe.com/p/hungrycatuk|
-|Mrs.tsang in holland / 嫁到荷蘭的邊端|https://mewe.com/p/mrstsanginholland|
 |Law, Ka Chung|https://mewe.com/join/lawkachung|
 |今日FBlive - Eugene Law|https://mewe.com/join/今日fblive|
 |Cooking KaKa 食譜分享|https://mewe.com/p/cookingkaka|
@@ -1459,6 +1431,7 @@
 |Little B Kitchen 💛 小B廚房|https://mewe.com/p/littlebkitchen|
 |OpenRice Hong Kong|https://mewe.com/p-front/openricehongkong|
 |黃到金榴槤 Golden Durian|https://mewe.com/p/goldendurain%E9%BB%83%E9%87%91%E5%88%B0%E6%A6%B4%E6%A7%A4|
+|Too Full For Food 太飽喇|https://mewe.com/p/toofullforfood|
 ## Gamer
 |Name|Link|
 |:---|---|
@@ -1471,18 +1444,10 @@
 |Name|Link|
 |:---|---|
 |又飛啦旅人團|https://mewe.com/p/又飛啦flyagainla|
-|日本美景秘景分享區|https://www.mewe.com/p/hyacinthk|
 |艾域的郵輪旅圖 Eric Cruise & Travel Blog|https://mewe.com/p/%E8%89%BE%E5%9F%9F%E7%9A%84%E9%83%B5%E8%BC%AA%E6%97%85%E5%9C%96ericcruisetravelblog|
-|到這世界邊端-丹麥|https://mewe.com/p/%E5%88%B0%E9%80%99%E4%B8%96%E7%95%8C%E9%82%8A%E7%AB%AF-%E4%B8%B9%E9%BA%A51|
 |香港人遊香港Hkppltravel|https://mewe.com/p/hkppltravel|
 |浪遊旅人|https://mewe.com/p/backpackerjim|
-|透視新加坡 SeeThrough Singapore|ｈttps://mewe.com/p/seethroughsingapore|
-|澳洲Bacon狗之日常|https://mewe.com/p/bacon|
-|瀛遊物語|https://mewe.com/p/瀛遊物語jstorypro1|
 |MeWe 香港酒店、旅遊優惠情報 (Runhotel.hk)|https://mewe.com/p/%E8%87%AA%E5%8A%A9%E9%A4%90staycatioin%E5%84%AA%E6%83%A0%E6%83%85%E5%A0%B11|
-|Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
-|Gojapan|https://mewe.com/p/gojapan3|
-|Travel Japan Like A Local|https://mewe.com/p/traveljapanlikealocal|
 |香港青年協會賽馬會西貢戶外訓練營|https://mewe.com/p/hkfygotc|
 ## 興趣
 |Name|Link|
@@ -1496,7 +1461,6 @@
 |美劇咁樣睇|https://mewe.com/p/%E7%BE%8E%E5%8A%87%E5%92%81%E6%A8%A3%E7%9D%871|
 |香港人樂器店/樂器教學|http://mewe.com/p/gigamusicstore|
 |港語學 Cantonese|https://mewe.com/p/%E6%B8%AF%E8%AA%9E%E5%AD%B8|
-|溫哥華港媽扮靚攻略|https://mewe.com/p/vanhkmombeautystrategy|
 |醉意生活 Dolce Vita|https://mewe.com/p/%E6%9C%80%E6%84%8F%E7%94%9F%E6%B4%BB|
 |聲覺遊列破Shinkayo Theatre|https://mewe.com/p/shinkayotheatre|
 |雜嘜手作|https://mewe.com/p/雜嘜手作chapmukworkshop2|
@@ -1524,6 +1488,7 @@
 |DCM 韻弦樂器|https://mewe.com/p/dcm|
 |Nail Jolly|https://mewe.com/p/nailjolly|
 |She.com|https://mewe.com/p/she.com|
+|盧淑儀 Emma Lo 粵語/廣東話作品分享專頁|https://mewe.com/p/%E7%9B%A7%E6%B7%91%E5%84%80emmalo%E7%B2%A4%E8%AA%9E%E5%BB%A3%E6%9D%B1%E8%A9%B1%E4%BD%9C%E5%93%81%E5%88%86%E4%BA%AB%E5%B0%88%E9%A0%81|
 |【陶璃宗貢 】|https://mewe.com/p/ceramicglaze|
 |港究 Kong’s Cult|https://mewe.com/p/kongscult|
 |田進福Tin Chun Fook Photography|https://mewe.com/p/tinchunfookphotography|
@@ -1560,12 +1525,17 @@
 |the king’s kitchen|https://mewe.com/p/thekingskitchen|
 |永樂粉麵廠 Wing Lok Noodle Factory|https://mewe.com/p/%E6%B0%B8%E6%A8%82%E7%B2%89%E9%BA%B5%E5%BB%A0wingloknoodlefactory|
 |Pause & Ponder 環保服飾|https://mewe.com/p/pauseponder%E7%92%B0%E4%BF%9D%E6%9C%8D%E9%A3%BE3|
+|:Parties|https://mewe.com/p/parties|
 ### 酒品
 |Name|Link|
 |:---|---|
 |Wine Tycoon HK 醇酒大亨|https://mewe.com/p/winetycoonhk%E9%86%87%E9%85%92%E5%A4%A7%E4%BA%A8|
 |Lillion Wine Limited|https://mewe.com/p/lillionwinelimited|
 |Wine Meteor|https://mewe.com/p/winemeteor1|
+### 糕餅
+|Name|Link|
+|:---|---|
+|Bake_labb|https://mewe.com/p/bake_labb|
 ### 百貨
 |Name|Link|
 |:---|---|
@@ -1706,7 +1676,6 @@
 |黃式保險 yellowinsurance|https://mewe.com/p/yellowinsurance|
 |團購部屋 MIT 台灣代購|https://mewe.com/p/groupbuyheyataiwangroupbuy|
 |AbouThai 阿布泰國生活百貨|https://mewe.com/p/abouthai|
-|Aegis 保護傘|https://mewe.com/p/aegis%E4%BF%9D%E8%AD%B7%E5%82%98|
 |Aztec Sport|https://mewe.com/p/aztecsport|
 |Big Kiss Fashion|https://mewe.com/p/bigkissfashion|
 |Bodyzone Massage Hong Kong|https://mewe.com/p/bodyzonemassagehongkong|
@@ -1758,7 +1727,6 @@
 |試當真 Trial&Error:|https://mewe.com/p/trialanderror924|
 |與孩滑翔-香港Blw, 蒙特梭利及其他|https://mewe.com/p-front/與孩滑翔-香港blw蒙特梭利及其他|
 |潮文社|https://mewe.com/p/潮文社|
-|澳洲漫畫日和|https://mewe.com/p/澳洲漫畫日和|
 |醫。思維|https://mewe.com/p/medicalinspire|
 |靈性LYS|https://mewe.com/p/靈性lys-loveyourself|
 |ANGEL CIRCLE BY CARLIE塔羅占卜|https://mewe.com/p/angelcirclebycarlie塔羅占卜|
@@ -1784,7 +1752,7 @@
 |Yahoo娛樂圈|https://mewe.com/p/yahoo娛樂圈|
 |KOACH Education Consultancy|https://mewe.com/p/koacheducationconsultancy|
 
-# 國外勢力 目錄
+# 海外生活網店旅遊升學移民討論 目錄
 
 ## 美國
 |Name|Link|
@@ -1826,8 +1794,22 @@
 |溫哥華瀨嘢中伏圍威喂|https://mewe.com/join/vancityweiweiwei|
 |Friend of Hong Kong Calgary|https://mewe.com/join/fohk.yyc|
 |Friends of Hong Kong- Edmonton|https://mewe.com/join/friendsofhongkongedmonton|
+|溫哥華香港人日常煮意|https://mewe.com/join/溫哥華香港人日常煮意cocopiskitchen|
+### 加拿大網店
+|Name|Link|
+|:---|---|
 |Skymind 加拿大稅務資訊及會計服務|https://mewe.com/join/skymind|
 |TruFinancial Consultants|https://mewe.com/join/trufinancialconsultants|
+### 加拿大移民
+|Name|Link|
+|:---|---|
+|香港人- 加拿大移民討論區|https://mewe.com/join/hk-to-canada|
+### 加拿大專頁
+|Name|Link|
+|:---|---|
+|溫哥華港媽扮靚攻略|https://mewe.com/p/vanhkmombeautystrategy|
+|life is simple 陪著你走到楓葉國|https://mewe.com/p/lifeissimplemamaintoronto|
+|加拿大 Friends of Hong Kong Edmonton|https://mewe.com/p/friendsofhongkongedmonton|
 ## 澳洲
 |Name|Link|
 |:---|---|
@@ -1852,7 +1834,6 @@
 |港乜都得資訊台|https://mewe.com/join/hktalkmelbchannel|
 |AUS-HK Localist|https://mewe.com/join/aus-hklocalist|
 |澳洲職人吹水(歡迎交流及呻訴職場血淚史)|https://mewe.com/join/aussiehongkongerscareercommunicationgp|
-|Adelaide - Stand with Hong Kong|https://mewe.com/p/adelaide-standwithhongkong1|
 ### 澳洲網店/黃店
 |Name|Link|
 |:---|---|
@@ -1867,7 +1848,12 @@
 |Owoh 喔澳-澳洲代購|https://mewe.com/join/owoh|
 |Zacoli Organic|https://mewe.com/p/zacoliorganic|
 |Swinson Foods 食唯鮮訂貨谷|https://mewe.com/join/swinsonfoods|
-### 澳洲移民 
+|Sydney Shopaholic 港日韓貨品代購|https://mewe.com/p/sydneyshopaholic%E6%B8%AF%E6%97%A5%E9%9F%93%E8%B2%A8%E5%93%81%E4%BB%A3%E8%B3%BC|
+|Little Bean Cantonese|https://mewe.com/p/littlebeancantonese|
+|4Es Driving School|https://mewe.com/p/4esdrivingschool|
+|OOOCYCLE Jewelry/Watches|https://mewe.com/p/ooocycle|
+|Sydney Shopaholic 港日韓貨品代購|https://mewe.com/p/sydneyshopaholic%E6%B8%AF%E6%97%A5%E9%9F%93%E8%B2%A8%E5%93%81%E4%BB%A3%E8%B3%BC|
+### 澳洲移民
 |Name|Link|
 |:---|---|
 |🎗澳洲貸款中介 Mortgage broker🎗 - Rachel Yeung 楊純子|https://mewe.com/join/rachelyeung|
@@ -1877,6 +1863,14 @@
 |移民澳洲 |https://mewe.com/join/immi.au|
 |澳洲移民DIY(港人新485簽證)|https://mewe.com/group/5fffef869320470031aba900|
 |細粒姑娘 膽粗粗移民去澳洲|https://mewe.com/join/littlepsynurseaus|
+### 澳洲專頁
+|Name|Link|
+|:---|---|
+|SBS Cantonese 廣東話節目|https://mewe.com/p/sbscantonese|
+|澳洲漫畫日和|https://mewe.com/p/澳洲漫畫日和|
+|澳洲Bacon狗之日常|https://mewe.com/p/bacon|
+|Adelaide - Stand with Hong Kong|https://mewe.com/p/adelaide-standwithhongkong1|
+|Letters from Sydney's Tai-Bo Cheung 張大寶的雪梨來鴻|https://mewe.com/p/張大寶的雪梨來鴻lettersfromsydneystai-bocheung|
 ## 紐西蘭
 |Name|Link|
 |:---|---|
@@ -1885,23 +1879,28 @@
 |紐西蘭南島香港人|https://mewe.com/join/southislandhkger|
 |紐西蘭Yellow Power NZ 聯同 We are Kiwi Hongkonger|https://mewe.com/join/wearekiwihongkonger|
 |New Zealand Working Holiday 紐西蘭打工度假|https://mewe.com/join/newzealandworkingholiday|
-## 台灣
-|Name|Link|
-|:---|---|
-|在台香港人💛|https://mewe.com/join/hkerintw|
-### 台灣網店/黃店
-|Name|Link|
-|:---|---|
-|LADYBIBE STUDIO 呢啲創作|https://mewe.com/join/ladybibestudio|
-|Handmade hair bow store|https://mewe.com/join/twbuy|
-|Nes’ Tarot|https://mewe.com/join/nestarot|
 ## 歐洲
+|Name|Link|
+|:---|---|
+## 德國
 |Name|Link|
 |:---|---|
 |在德國的港人|https://mewe.com/join/hongkongeringermany|
 |香港人在德國|https://mewe.com/join/dehkers|
+### 德國專頁
+|Name|Link|
+|:---|---|
+|港女德國扮工|https://mewe.com/p/港女德國扮工1|
+## 荷蘭
+|Name|Link|
+|:---|---|
 |真。香港人生活在荷蘭|http://mewe.com/join/nlhongkongers|
-|歐洲港僑聯盟🇭🇰 🇪🇺|https://mewe.com/join/hker_in_europe|
+|🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
+### 荷蘭專頁
+|Name|Link|
+|:---|---|
+|Mrs.tsang in holland / 嫁到荷蘭的邊端|https://mewe.com/p/mrstsanginholland|
+|到這世界邊端-丹麥|https://mewe.com/p/%E5%88%B0%E9%80%99%E4%B8%96%E7%95%8C%E9%82%8A%E7%AB%AF-%E4%B8%B9%E9%BA%A51|
 ## 英國
 |Name|Link|
 |:---|---|
@@ -1912,18 +1911,78 @@
 |英國嬉笑怒罵|https://mewe.com/join/uklol|
 |黃圈🟡 BNO香港人投奔英國🇬🇧 |https://mewe.com/join/yellowuk|
 |Hong Kongers in the UK 香港人在英國|https://mewe.com/join/hongkongersinuk|
+### 英國移民
+|Name|Link|
+|:---|---|
+|90後香港夫妻移英煮食記錄|https://mewe.com/join/90scouple_newjourney|
+|走佬移民去UK (英國) 之 BNO GO!|https://mewe.com/join/走佬移民去uk英國之bnogo|
+|英國工作招聘|https://mewe.com/join/ukjobs|
+|香港人移民英國 (窮L小組)|https://mewe.com/join/香港人移民英國|
+|從零開始移民英國|https://mewe.com/join/readytogouk|
+### 英國專頁
+|Name|Link|
+|:---|---|
+|Bobs Your Uncle (BOB叔)|https://mewe.com/p/bobsyouruncle|
+|香港人在英國|https://mewe.com/p/edmundhongkongerinuk|
+|英國為食貓 Hungry Cat UK|https://mewe.com/p/hungrycatuk|
+## 其他
+|Name|Link|
+|:---|---|
+|歐洲港僑聯盟🇭🇰 🇪🇺|https://mewe.com/join/hker_in_europe|
+|香港人在歐洲GRAD SCHOOL/POST GRAD/RA學術及生活交流區|https://mewe.com/group/600499e22cc3982c951ccee0|
+## 台灣
+|Name|Link|
+|:---|---|
+|在台香港人💛|https://mewe.com/join/hkerintw|
+|親子生活去台灣 (Group)|https://mewe.com/join/親子生活在台灣|
+### 台灣網店/黃店
+|Name|Link|
+|:---|---|
+|LADYBIBE STUDIO 呢啲創作|https://mewe.com/join/ladybibestudio|
+|Handmade hair bow store|https://mewe.com/join/twbuy|
+|Nes’ Tarot|https://mewe.com/join/nestarot|
+|Aegis 保護傘|https://mewe.com/p/aegis%E4%BF%9D%E8%AD%B7%E5%82%98|
+### 台灣移民
+|Name|Link|
+|:---|---|
+|走佬移民去台灣|https://mewe.com/join/走佬移民去台灣|
+|帶着包包去台灣|https://mewe.com/join/breadbabyintaiwan|
+### 台灣專頁
+|Name|Link|
+|:---|---|
+|親子生活去台灣 (Page)|https://mewe.com/p/親子生活去台灣|
 ## 日本
 |Name|Link|
 |:---|---|
 |香港人在日本|https://mewe.com/join/hongkongerliveinjapan|
 |香港人日本生活互助群組|https://mewe.com/join/livinginjapan|
 |日本香港人協會 （討論區）|https://mewe.com/join/jphkersgroup|
+### 日本專頁
+|Name|Link|
+|:---|---|
+|日本美景秘景分享區|https://www.mewe.com/p/hyacinthk|
+|瀛遊物語|https://mewe.com/p/瀛遊物語jstorypro1|
+|Gojapan|https://mewe.com/p/gojapan3|
+|Travel Japan Like A Local|https://mewe.com/p/traveljapanlikealocal|
+|日本香港人協会 Japan Hongkongers Association|https://mewe.com/p/%E6%97%A5%E6%9C%AC%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8D%94%E4%BC%9Ajapanhongkongersassociation|
+|風信子/在日香港人．日本生活與旅遊分享|https://mewe.com/p/hyacinthk|
+## 韓國
+|Name|Link|
+|:---|---|
+### 韓國專頁
+|Name|Link|
+|:---|---|
+|Seoul Station|https://mewe.com/p/seoulstation%E9%A6%96%E7%88%BE%E7%AB%99|
 ## 新加玻
 |Name|Link|
 |:---|---|
 |香港人在新加坡 HONG KONG TOWN - SINGAPORE (HKER IN SG)|https://mewe.com/join/hongkongerinsingapore|
 |透視新加坡|https://mewe.com/join/seethroughsingapore|
 |港人在獅城|https://mewe.com/join/hkersinsg|
+### 新加玻專頁
+|Name|Link|
+|:---|---|
+|透視新加坡 SeeThrough Singapore|ｈttps://mewe.com/p/seethroughsingapore|
 ## 馬來西亞
 |Name|Link|
 |:---|---|
@@ -1939,17 +1998,22 @@
 |Name|Link|
 |:---|---|
 |真·港人和你在泰國|https://mewe.com/join/realhkersinthailand|
+### 泰國專頁
+|Name|Link|
+|:---|---|
+|泰國人妻檔案 (blogger)|https://mewe.com/p/thailandwifefile|
 ## 西班牙
 |Name|Link|
 |:---|---|
 |SPANISHSAYS 港·西班牙文｜香港X西班牙語交流+識新朋友|https://mewe.com/join/spanishsayshongkong|
-## 誇國/其他
+## 跨國/其他
 |Name|Link|
 |:---|---|
 |美加絲打自由講|https://mewe.com/join/美國絲打自由講|
 |港美美澳加 grad school/post grad/RA學術及生活交流區|https://mewe.com/join/hkerdoresearchhere|
 |Donald Trump's 全球香港及台灣後援會|https://mewe.com/join/trumpsglobalhkandtwsupporters|
 |MILK TEA ALLIANCE 奶茶聯盟 ชานม พันธมิตร (DEMOCRACY)|https://mewe.com/group/5fad03b1b1ff3917c5cc19cf|
-|🇳🇱荷蘭·香港人🇭🇰 💛 (全球聯繫）|https://mewe.com/join/realhongkongerinnetherlands|
 |🌎💫異鄉港妻の㊁㊂事💕🌏|https://mewe.com/join/cross_cultural_love|
 |Hongkongers in Malta 🇲🇹🇭🇰香港人在馬爾他|https://mewe.com/join/hongkongersinmalta|
+|香港人移民小貼士|https://mewe.com/join/香港人移民小貼士|
+|移民搵工升學生活group|https://Mewe.com/join/hongkongersabroad|
