@@ -86,6 +86,10 @@
   - [Gamer](#gamer)
   - [旅遊](#旅遊-1)
   - [興趣](#興趣-1)
+  - [音樂](#音樂-1)
+    - [攝影](#攝影-1)
+    - [文化手工藝術](#文化手工藝術)
+    - [美妝扮靚](#美妝扮靚)
   - [網店](#網店)
     - [書店](#書店)
     - [手作, 工藝](#手作-工藝)
@@ -913,6 +917,7 @@
 |香港釣魚交流群組|http://mewe.com/join/hongkonger_fishing_group|
 |女生穿搭|https://mewe.com/join/girloutfit|
 |讀劇檯 Script Table Hong Kong|https://mewe.com/join/ScriptTableHK|
+|紫控專員交流組|https://mewe.com/join/purplelover|
 ## 二手買賣, Free, 團購
 |Name|Link|
 |:---|---|
@@ -1394,11 +1399,9 @@
 |香港奇談百景|https://mewe.com/p/香港奇談百景1|
 |掃「黃」行動|https://mewe.com/p/sowongmission|
 |連豬買買買|https://mewe.com/p/lipig.buybuybuy|
-|街影 - 消失的香港紀錄|https://mewe.com/p/vanishing.hk|
 |黑盡元朗|https://mewe.com/p/allblackyuenlong7214|
 |燕子生命 十年抗爭支援|https://mewe.com/p/燕子生命十年抗爭支援|
 |幫港發聲 Sing Majority|https://mewe.com/p/singmajority|
-|Disappear Hong Kong 消失.香港|https://mewe.com/p/disappearhongkong5|
 |KuroTV - 周圍走，帶你影盡打卡呃like景點|https://mewe.com/join/kurotv|
 |Suzuko Hirano 平野鈴子|https://mewe.com/p/suzukohirano%E5%B9%B3%E9%87%8E%E9%88%B4%E5%AD%90|
 |Yellowland HK 走訪深黃大地|https://mewe.com/p/走訪深黃大地yellowlandhk|
@@ -1452,47 +1455,57 @@
 ## 興趣
 |Name|Link|
 |:---|---|
-|90後彩妝師漂流記 post-90s makeup artist|https://mewe.com/p/90%E5%BE%8C%E5%BD%A9%E5%A6%9D%E5%B8%AB%E6%BC%82%E6%B5%81%E8%A8%98|
-|一口知|https://mewe.com/p/一口知|
-|我睇你好 你好我睇|https://mewe.com/p/manicpixiedreamgirl電影夢女孩|
-|南粵急行nanyueexpress|https://mewe.com/p/南粵急行nanyueexpress|
-|美工霉 (Group)|https://mewe.com/group/5ffdcf6534221e6e129823cd|
-|美工霉 (Page)|https://mewe.com/p/美工霉mgmhongkong|
 |美劇咁樣睇|https://mewe.com/p/%E7%BE%8E%E5%8A%87%E5%92%81%E6%A8%A3%E7%9D%871|
-|香港人樂器店/樂器教學|http://mewe.com/p/gigamusicstore|
-|港語學 Cantonese|https://mewe.com/p/%E6%B8%AF%E8%AA%9E%E5%AD%B8|
-|醉意生活 Dolce Vita|https://mewe.com/p/%E6%9C%80%E6%84%8F%E7%94%9F%E6%B4%BB|
-|聲覺遊列破Shinkayo Theatre|https://mewe.com/p/shinkayotheatre|
-|雜嘜手作|https://mewe.com/p/雜嘜手作chapmukworkshop2|
-|藝術自療 Art Heals|https://mewe.com/p/%E8%97%9D%E8%A1%93%E8%87%AA%E7%99%82artheals|
 |攝時間 \| 香港Podcast \| 香港播客 \|廣東話Podcast \|香港人|https://mewe.com/p/sipsigan|
-|Art of Ngan 雁堂|https://mewe.com/p/rebeccahon|
-|Bloomestry \| Floral Design|https://mewe.com/p/bloomestryfloraldesigns|
-|Color Fairy Workshop|https://mewe.com/p/colorfairyworkshop|
-|Gremlins Handcraft|https://mewe.com/p/gremlinshandcraft1|
-|Hong Kong Arts Festival 香港藝術節|https://mewe.com/p/hkartsfestival|
 |I.J.|https://mewe.com/p/ij|
 |Isaac Wong 的玩具相簿|https://mewe.com/p/isaacwongtoys|
-|kpop 噏|https://mewe.com/p/kpop噏2|
 |Lessons From Books \| 閱讀|https://mewe.com/p/lessonsfrombooks閱讀|
 |mcbyesther|https://mewe.com/p/mcbyesther|
-|Ms Chan Piano Music 鋼琴老師的日常 教學/樂理/伴奏|https://mewe.com/p/mschanpiano|
-|Music and Story|https://mewe.com/p/musicandstory|
 |N.Maker|https://mewe.com/p/nmaker|
-|Research Wedding 婚紗雜誌|https://mewe.com/p/researchwedding|
 |Sakemoto|https://mewe.com/p/sakemotohk|
-|數碼相簿|https://mewe.com/p/bytedance|
+## 音樂
+|Name|Link|
+|:---|---|
 |香港音樂文學雜誌|https://mewe.com/p/musicandstory|
+|香港人樂器店/樂器教學|http://mewe.com/p/gigamusicstore|
+|Music and Story|https://mewe.com/p/musicandstory|
+|Ms Chan Piano Music 鋼琴老師的日常 教學/樂理/伴奏|https://mewe.com/p/mschanpiano|
+|DCM 韻弦樂器|https://mewe.com/p/dcm|
+|盧淑儀 Emma Lo 粵語/廣東話作品分享專頁|https://mewe.com/p/%E7%9B%A7%E6%B7%91%E5%84%80emmalo%E7%B2%A4%E8%AA%9E%E5%BB%A3%E6%9D%B1%E8%A9%B1%E4%BD%9C%E5%93%81%E5%88%86%E4%BA%AB%E5%B0%88%E9%A0%81|
+|kpop 噏|https://mewe.com/p/kpop噏2|
+### 攝影
+|Name|Link|
+|:---|---|
+|田進福Tin Chun Fook Photography|https://mewe.com/p/tinchunfookphotography|
+|數碼相簿|https://mewe.com/p/bytedance|
+|街影 - 消失的香港紀錄|https://mewe.com/p/vanishing.hk|
+|Disappear Hong Kong 消失.香港|https://mewe.com/p/disappearhongkong5|
+|荒凝止息 † Rufixation|https://mewe.com/p/%E8%8D%92%E5%87%9D%E6%AD%A2%E6%81%AFrufixation|
+### 文化手工藝術
+|Name|Link|
+|:---|---|
+|聲覺遊列破Shinkayo Theatre|https://mewe.com/p/shinkayotheatre|
+|一口知|https://mewe.com/p/一口知|
+|Art of Ngan 雁堂|https://mewe.com/p/rebeccahon|
+|雜嘜手作|https://mewe.com/p/雜嘜手作chapmukworkshop2|
+|藝術自療 Art Heals|https://mewe.com/p/%E8%97%9D%E8%A1%93%E8%87%AA%E7%99%82artheals|
 |十字繡卡材料包|https://mewe.com/p/stitchbystitchhk|
 |Dreamchaser Wool Felt 擬真動物羊毛氈|https://mewe.com/p/dreamchaserwoolfelt擬真動物羊毛氈|
-|DCM 韻弦樂器|https://mewe.com/p/dcm|
+|南粵急行nanyueexpress|https://mewe.com/p/南粵急行nanyueexpress|
+|Gremlins Handcraft|https://mewe.com/p/gremlinshandcraft1|
+|Hong Kong Arts Festival 香港藝術節|https://mewe.com/p/hkartsfestival|
+|【陶璃宗貢 】|https://mewe.com/p/ceramicglaze|
+|美工霉 (Page)|https://mewe.com/p/美工霉mgmhongkong|
+|美工霉 (Group)|https://mewe.com/group/5ffdcf6534221e6e129823cd|
+|港語學 Cantonese|https://mewe.com/p/%E6%B8%AF%E8%AA%9E%E5%AD%B8|
+### 美妝扮靚
+|Name|Link|
+|:---|---|
+|GirlStyle 女生日常|https://mewe.com/p/girlstyle%E5%A5%B3%E7%94%9F%E6%97%A5%E5%B8%B8|
 |Nail Jolly|https://mewe.com/p/nailjolly|
 |She.com|https://mewe.com/p/she.com|
-|盧淑儀 Emma Lo 粵語/廣東話作品分享專頁|https://mewe.com/p/%E7%9B%A7%E6%B7%91%E5%84%80emmalo%E7%B2%A4%E8%AA%9E%E5%BB%A3%E6%9D%B1%E8%A9%B1%E4%BD%9C%E5%93%81%E5%88%86%E4%BA%AB%E5%B0%88%E9%A0%81|
-|【陶璃宗貢 】|https://mewe.com/p/ceramicglaze|
-|港究 Kong’s Cult|https://mewe.com/p/kongscult|
-|田進福Tin Chun Fook Photography|https://mewe.com/p/tinchunfookphotography|
-|GirlStyle 女生日常|https://mewe.com/p/girlstyle%E5%A5%B3%E7%94%9F%E6%97%A5%E5%B8%B8|
+|Research Wedding 婚紗雜誌|https://mewe.com/p/researchwedding|
+|90後彩妝師漂流記 post-90s makeup artist|https://mewe.com/p/90%E5%BE%8C%E5%BD%A9%E5%A6%9D%E5%B8%AB%E6%BC%82%E6%B5%81%E8%A8%98|
 ## 網店
 |Name|Link|
 |:---|---|
@@ -1503,6 +1516,7 @@
 ### 手作, 工藝
 |Name|Link|
 |:---|---|
+|Color Fairy Workshop|https://mewe.com/p/colorfairyworkshop|
 |公公手工皂 Gong Gong Soap|https://mewe.com/p/gonggongsoap|
 |小人物部屋 + Nendoroids 黏土人 日本代購|https://mewe.com/join/homeoflittledoll|
 |香港手作網店|https://mewe.com/p/litlagom_hk|
@@ -1512,6 +1526,7 @@
 |Fantany Shop|https://mewe.com/p/fantasyshop|
 |Angel Q Korea Accessories|https://mewe.com/p/angelqkoreaaccessories4|
 |So Green|https://mewe.com/p/sogreen|
+|Bloomestry \| Floral Design|https://mewe.com/p/bloomestryfloraldesigns|
 |香港網購盆栽|https://mewe.com/p/香港網購盆栽|
 |MMF Handicraft|https://mewe.com/p/mmfhandicraft|
 ### 食物, 辦館, 雜貨
@@ -1545,7 +1560,6 @@
 |Fiber Bird 美加澳進口百貨|https://mewe.com/p/fiberbirdhk|
 |globalbuy全球買環球生活百貨|https://mewe.com/join/globalbuy全球買環球生活百貨|
 |MI MING MART 彌明生活百貨|https://mewe.com/p/mimingmart%E5%BD%8C%E6%98%8E%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8|
-|Amaya Shop For You (澳洲 )|https://mewe.com/join/amayashopforyou|
 |Green Corner|https://mewe.com/p/greencorner|
 |GYPSY 吉普賽生活百貨概念店|https://mewe.com/p/gypsy%E5%90%89%E6%99%AE%E8%B3%BD%E7%94%9F%E6%B4%BB%E7%99%BE%E8%B2%A8%E6%A6%82%E5%BF%B5%E5%BA%97|
 |剛田百貨(大埔)(台灣代購、日式精品、生活百貨，原創產品、手作產品😁 😍 🇯🇵 🇹🇼 🇭🇰 )|https://mewe.com/p/剛田百貨株式會社台灣代購生活百貨|
@@ -1751,6 +1765,7 @@
 |香港人揾工 職庫CDB casualDB|https://mewe.com/p/cdb|
 |Yahoo娛樂圈|https://mewe.com/p/yahoo娛樂圈|
 |KOACH Education Consultancy|https://mewe.com/p/koacheducationconsultancy|
+|港究 Kong’s Cult|https://mewe.com/p/kongscult|
 
 # 海外生活網店旅遊升學移民討論 目錄
 
@@ -1843,16 +1858,15 @@
 |悉尼LK訂貨谷|https://mewe.com/join/mewesylk27hk|
 |港製作 MIHK Australia|https://mewe.com/p/%E6%B8%AF%E8%A3%BD%E4%BD%9Cmihkaustralia|
 |Chinese Wedding|https://mewe.com/p/chinesewedding|
-|Amaya Shop for you|https://mewe.com/join/amayashopforyou|
 |My Heart 澳洲代購|https://mewe.com/join/myheart2|
 |Owoh 喔澳-澳洲代購|https://mewe.com/join/owoh|
 |Zacoli Organic|https://mewe.com/p/zacoliorganic|
 |Swinson Foods 食唯鮮訂貨谷|https://mewe.com/join/swinsonfoods|
-|Sydney Shopaholic 港日韓貨品代購|https://mewe.com/p/sydneyshopaholic%E6%B8%AF%E6%97%A5%E9%9F%93%E8%B2%A8%E5%93%81%E4%BB%A3%E8%B3%BC|
 |Little Bean Cantonese|https://mewe.com/p/littlebeancantonese|
 |4Es Driving School|https://mewe.com/p/4esdrivingschool|
 |OOOCYCLE Jewelry/Watches|https://mewe.com/p/ooocycle|
 |Sydney Shopaholic 港日韓貨品代購|https://mewe.com/p/sydneyshopaholic%E6%B8%AF%E6%97%A5%E9%9F%93%E8%B2%A8%E5%93%81%E4%BB%A3%E8%B3%BC|
+|Amaya Shop For You (澳洲 )|https://mewe.com/join/amayashopforyou|
 ### 澳洲移民
 |Name|Link|
 |:---|---|
