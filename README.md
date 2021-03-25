@@ -25,6 +25,7 @@
     - [魚/水族](#魚水族)
     - [其他](#其他)
   - [飲飲食食](#飲飲食食)
+    - [酒品](#酒品)
     - [素食](#素食)
   - [運動](#運動)
     - [單車](#單車)
@@ -87,28 +88,19 @@
   - [旅遊](#旅遊-1)
   - [興趣](#興趣-1)
   - [音樂](#音樂-1)
-    - [攝影](#攝影-1)
-    - [文化手工藝術](#文化手工藝術)
-    - [美妝扮靚](#美妝扮靚)
+  - [攝影](#攝影-1)
+  - [文化手工藝術](#文化手工藝術)
+  - [美妝扮靚](#美妝扮靚)
   - [網店](#網店)
     - [書店](#書店)
     - [手作, 工藝](#手作-工藝)
     - [食物, 辦館, 雜貨](#食物-辦館-雜貨)
-    - [酒品](#酒品)
+    - [酒品](#酒品-1)
     - [糕餅](#糕餅)
     - [百貨](#百貨)
     - [未分類](#未分類)
   - [黃店](#黃店)
     - [食店](#食店)
-    - [素食](#素食-1)
-    - [模型](#模型)
-    - [家居, 裝修](#家居-裝修)
-    - [汽車](#汽車-1)
-    - [婚禮用品, 服務](#婚禮用品-服務)
-    - [寵物](#寵物-1)
-    - [未分類](#未分類-1)
-  - [寵物](#寵物-2)
-  - [其他](#其他-6)
 - [海外生活網店旅遊升學移民討論 目錄](#海外生活網店旅遊升學移民討論-目錄)
   - [美國](#美國)
     - [美國網店/黃店](#美國網店黃店)
@@ -129,7 +121,7 @@
   - [英國](#英國)
     - [英國移民](#英國移民)
     - [英國專頁](#英國專頁)
-  - [其他](#其他-7)
+  - [其他](#其他-6)
   - [台灣](#台灣)
     - [台灣網店/黃店](#台灣網店黃店)
     - [台灣移民](#台灣移民)
@@ -146,6 +138,7 @@
     - [泰國專頁](#泰國專頁)
   - [西班牙](#西班牙)
   - [跨國/其他](#跨國其他)
+    - [海外專頁](#海外專頁)
 
 <!-- /code_chunk_output -->
 # Group 目錄
@@ -606,7 +599,9 @@
 |香港碟頭飯關注組|https://mewe.com/join/hkplatter|
 |香港人打邊爐聯盟|https://mewe.com/join/hongkongerhotpotfansclub|
 |Steak House 牛扒屋|https://mewe.com/join/steakhousehk|
-|酒品||
+### 酒品
+|Name|Link|
+|:---|---|
 |Whisky 金黃威士忌交流區|https://mewe.com/join/whiskyhkg|
 |香港手工啤關注組🍻|https://mewe.com/join/hkbeer|
 |VINO E AMIGOS 好酒好友|https://mewe.com/group/5fc77ee5318dcd7d243e5784|
@@ -713,6 +708,7 @@
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 |viutv討論區|https://mewe.com/join/siusiuviutv|
 |King Jer 瓊姐娛樂台|https://mewe.com/p/kingjer%E7%93%8A%E5%A7%90%E5%A8%9B%E6%A8%82%E5%8F%B0|
+|Netflix有咩好睇|https://mewe.com/group/60463644f99ce71cd395f7f9|
 ## 動漫, 電玩
 |Name|Link|
 |:---|---|
@@ -1318,7 +1314,6 @@
 |神驅|https://mewe.com/p/localtv|
 |陳裕匡 (立場哥哥)|https://mewe.com/p/yuhongchan|
 |游大東影視筆記|https://mewe.com/p/yautaitung|
-|黃世澤|https://mewe.com/p/martinoei%E9%BB%83%E4%B8%96%E6%BE%A4|
 |趙氏讀書生活GC|https://mewe.com/p/%E8%B6%99%E6%B0%8F%E8%AE%80%E6%9B%B8%E7%94%9F%E6%B4%BBgc|
 |藍橘子|https://mewe.com/p/%E8%97%8D%E6%A9%98%E5%AD%90|
 |Alfred CHAN|https://mewe.com/p/imalfredchan|
@@ -1359,6 +1354,7 @@
 |AndThen.hk|https://mewe.com/p/andthen.hk|
 |FORTUNE INSIGHT|https://mewe.com/p/fortuneinsight|
 |Market Digest|https://mewe.com/p/marketdigest|
+|果籽 Appleseed|https://mewe.com/p/as.appledaily|
 |Smart Post 囧報|https://mewe.com/p/smartpost%E5%9B%A7%E5%A0%B1|
 ## 運動
 |Name|Link|
@@ -1473,7 +1469,7 @@
 |DCM 韻弦樂器|https://mewe.com/p/dcm|
 |盧淑儀 Emma Lo 粵語/廣東話作品分享專頁|https://mewe.com/p/%E7%9B%A7%E6%B7%91%E5%84%80emmalo%E7%B2%A4%E8%AA%9E%E5%BB%A3%E6%9D%B1%E8%A9%B1%E4%BD%9C%E5%93%81%E5%88%86%E4%BA%AB%E5%B0%88%E9%A0%81|
 |kpop 噏|https://mewe.com/p/kpop噏2|
-### 攝影
+## 攝影
 |Name|Link|
 |:---|---|
 |田進福Tin Chun Fook Photography|https://mewe.com/p/tinchunfookphotography|
@@ -1481,7 +1477,7 @@
 |街影 - 消失的香港紀錄|https://mewe.com/p/vanishing.hk|
 |Disappear Hong Kong 消失.香港|https://mewe.com/p/disappearhongkong5|
 |荒凝止息 † Rufixation|https://mewe.com/p/%E8%8D%92%E5%87%9D%E6%AD%A2%E6%81%AFrufixation|
-### 文化手工藝術
+## 文化手工藝術
 |Name|Link|
 |:---|---|
 |聲覺遊列破Shinkayo Theatre|https://mewe.com/p/shinkayotheatre|
@@ -1498,7 +1494,9 @@
 |美工霉 (Page)|https://mewe.com/p/美工霉mgmhongkong|
 |美工霉 (Group)|https://mewe.com/group/5ffdcf6534221e6e129823cd|
 |港語學 Cantonese|https://mewe.com/p/%E6%B8%AF%E8%AA%9E%E5%AD%B8|
-### 美妝扮靚
+|NO IDEA HANDMADE|https://mewe.com/p/noideahandmade|
+|香港土著 土生土長|https://mewe.com/p/香港土著土生土長|
+## 美妝扮靚
 |Name|Link|
 |:---|---|
 |GirlStyle 女生日常|https://mewe.com/p/girlstyle%E5%A5%B3%E7%94%9F%E6%97%A5%E5%B8%B8|
@@ -1540,7 +1538,13 @@
 |the king’s kitchen|https://mewe.com/p/thekingskitchen|
 |永樂粉麵廠 Wing Lok Noodle Factory|https://mewe.com/p/%E6%B0%B8%E6%A8%82%E7%B2%89%E9%BA%B5%E5%BB%A0wingloknoodlefactory|
 |Pause & Ponder 環保服飾|https://mewe.com/p/pauseponder%E7%92%B0%E4%BF%9D%E6%9C%8D%E9%A3%BE3|
+|大聲哥哥 - 豪Dee|https://mewe.com/p/%E5%A4%A7%E8%81%B2%E5%93%A5%E5%93%A5-%E8%B1%AAdee|
+|Super Fine Food 凍肉滙|https://mewe.com/p/superfinefood%E5%87%8D%E8%82%89%E6%BB%99|
+|一素店 One Vegan Shop|https://mewe.com/p/oneveganshop|
+|Butcher.S 肉販佬|https://mewe.com/p/butcher.s|
 |:Parties|https://mewe.com/p/parties|
+|Meat Merchant 胾商|https://mewe.com/p/meatmerchant%E8%83%BE%E5%95%86|
+|手作仔HandmadeCandies Room|https://mewe.com/p/handmadecandiesroom|
 ### 酒品
 |Name|Link|
 |:---|---|
@@ -1640,132 +1644,6 @@
 |Oh My Dog|https://mewe.com/join/ohmydog|
 |Rimi Cafe|https://mewe.com/p/rimicafe|
 |永樂粉麵廠 Wing Lok Noodle Factory|https://mewe.com/p/%E6%B0%B8%E6%A8%82%E7%B2%89%E9%BA%B5%E5%BB%A0wingloknoodlefactory|
-### 素食
-|Name|Link|
-|:---|---|
-|素食黃店|https://mewe.com/p/vwvegancafe|
-|素食媽咪 VeggieMami-Annie|https://mewe.com/p/%E7%B4%A0%E9%A3%9F%E5%AA%BD%E5%92%AAveggiemamiannie%E7%B4%A0%E9%A3%9F|
-|Green entrance 入素|https://mewe.com/p/greenentrance|
-### 模型
-|Name|Link|
-|:---|---|
-|千里達模型玩具公司|https://mewe.com/p/twinnermodel|
-|福利模型|https://mewe.com/p/fooklemodel%E7%A6%8F%E5%88%A9%E6%A8%A1%E5%9E%8B|
-### 家居, 裝修
-|Name|Link|
-|:---|---|
-|良心裝修顧問有限公司|https://mewe.com/p/良心裝修顧問有限公司|
-|香港除甲醛服務|https://mewe.com/p/hchoremovalhk|
-|樂師傅維修服務公司|https://mewe.com/p/masterlokrepair|
-|Woodcraft Design|Https://mewe.com/p/woodcraftdesign|
-|kInG裝修工程公司|https://mewe.com/p/kinged|
-|良心裝修佬|https://mewe.com/p/良心裝修佬|
-### 汽車
-|Name|Link|
-|:---|---|
-|隨意門上門汽車美容|http://mewe.com/p/隨意門上門汽車美容|
-|TEVO香港總代理［一站式汽車服務-洗車 打蠟 鍍膜 維修 噴油 貼膜］|https://mewe.com/p/tevo汽車鍍膜維修噴油貼膜|
-|Power Support HK|https://mewe.com/p/powersupporthk|
-|Spigen 香港總代理|https://mewe.com/p/spigenhk|
-|SRSWorks|https://mewe.com/p/srsworks|
-### 婚禮用品, 服務
-|Name|Link|
-|:---|---|
-|Wedding Mood 香港喜帖|https://mewe.com/p/weddingmoodinvitation|
-|Sevilla Bridal 婚紗店|https://mewe.com/p/sevillabridal|
-### 寵物
-|Name|Link|
-|:---|---|
-|I Love U Dogz|https://mewe.com/p/iloveudogz|
-|PetPetGroup|https://mewe.com/join/petpetgroup|
-|PET TO NATURE|https://mewe.com/join/pettonature|
-### 未分類
-|Name|Link|
-|:---|---|
-|深水埗電子特賣城|https://mewe.com/p/深水埗電子特賣城|
-|長春藤中醫館|https://mewe.com/p/長春藤中醫館|
-|青公Bike Station|https://mewe.com/p/castlepeakbikestation1|
-|豉油佬 SoyaLo|https://mewe.com/p/%E8%B1%89%E6%B2%B9%E4%BD%AC|
-|斑鳩成人用品專門店|https://mewe.com/group/5fc462f8098c80318a3e189a/members|
-|黃式保險 yellowinsurance|https://mewe.com/p/yellowinsurance|
-|團購部屋 MIT 台灣代購|https://mewe.com/p/groupbuyheyataiwangroupbuy|
-|AbouThai 阿布泰國生活百貨|https://mewe.com/p/abouthai|
-|Aztec Sport|https://mewe.com/p/aztecsport|
-|Big Kiss Fashion|https://mewe.com/p/bigkissfashion|
-|Bodyzone Massage Hong Kong|https://mewe.com/p/bodyzonemassagehongkong|
-|Deesse.MM(HongKong)|https://mewe.com/p/deessemm|
-|Guilty Delight Hong Kong|https://mewe.com/p/guiltydelighthongkong|
-|Herencia Bespoke Tailors|https://mewe.com/p/herenciabespoketailors|
-|hkmamishop香港媽咪一站式購物網站|https://mewe.com/p/hkmamishop香港媽咪一站式購物網站|
-|Jep by Involtini|https://mewe.com/p/jepbyinvoltini1|
-|Nine Bird Frog Antiques|https://mewe.com/p/ninebirdfrogantiques|
-|Pole Beat Circus 空中舞蹈學校|https://mewe.com/p/polebeatcircus|
-|Purple Moon New Age Shop|https://mewe.com/p/purplemoonnewageshop|
-|Styleranger|https://mewe.com/p/styleranger|
-|Varywarm 暖笠笠|https://mewe.com/p/varywarm|
-|Student Nurse|https://mewe.com/p/studentnurse|
-|Mindful Living 靜觀生活體驗及培訓中心|https://mewe.com/p/mindfulliving|
-|action fitness hk|http://mewe.com/p/actionfitnesshk|
-|快達五金|https://mewe.com/p/快達五金速遞公司high-speeddelivery|
-|Studibar 本土砌機工作室|https://mewe.com/p/studibar|
-|點籽 Seed|https://mewe.com/p/seedhongkong|
-|UHK港生活|https://mewe.com/p/uhk|
-|Westenfoodiegoshopping 西柚Foodie 和你購|https://mewe.com/p/%E8%A5%BF%E6%9F%9Afoodie%E5%92%8C%E4%BD%A0%E8%B3%BC|
-|Etopia HK Mobile & Gadgets|https://mewe.com/p/etopiahkmobilesgadgets|
-## 寵物
-|Name|Link|
-|:---|---|
-|小貓奴冬甩冬薑|https://mewe.com/p/%E5%B0%8F%E8%B2%93%E5%A5%B4%E5%86%AC%E7%94%A9%E5%86%AC%E8%96%91|
-|貓奴貓事多|https://mewe.com/p/meowsmore|
-## 其他
-|Name|Link|
-|:---|---|
-|十萬個激嬲女友的理由|https://mewe.com/p/girlfriendwestface|
-|正嘢|https://mewe.com/p/jengyea|
-|好青年荼毒室 - 哲學部|https://mewe.com/p/corrupttheyouth|
-|余海峯David . 物理喵phycat|https://mewe.com/p/phycat|
-|我以用家角度comment|https://mewe.com/p/我以用家角度comment|
-|我要返工良心平台|https://mewe.com/p/我要返工良心平台|
-|抗癌。媽媽|https://mewe.com/p/%E6%8A%97%E7%99%8C%E5%AA%BD%E5%AA%BD|
-|昰樸催眠治療室 Sparkling Point Studi|https://mewe.com/p/sparklingpoint_studio|
-|烈大夫_香港人中醫|https://mewe.com/p/%E7%83%88%E5%A4%A7%E5%A4%AB|
-|高登音樂台|https://mewe.com/p/高登音樂台hkgoldenmusic|
-|啱channel|https://mewe.com/p/啱channel|
-|悠與花火|https://mewe.com/p/悠與花火|
-|都市風水命理|https://mewe.com/p/都市風水命理|
-|魚兒。野生動物保育日常|https://mewe.com/p/%E9%AD%9A%E5%85%92%E9%87%8E%E7%94%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%82%B2%E6%97%A5%E5%B8%B8|
-|愉快動物研究所 Happy Animal Lab|https://mewe.com/p/happyanimallab|
-|港鐵新動力 Railway Power|https://mewe.com/p/%E6%B8%AF%E9%90%B5%E6%96%B0%E5%8B%95%E5%8A%9Brailwaypower|
-|新時代消費地圖 Neoguidehk|https://mewe.com/p/新時代消費地圖neoguidehk|
-|腦力研究所 Lorak Institute|https://mewe.com/p/lorakinstitute|
-|試當真 Trial&Error:|https://mewe.com/p/trialanderror924|
-|與孩滑翔-香港Blw, 蒙特梭利及其他|https://mewe.com/p-front/與孩滑翔-香港blw蒙特梭利及其他|
-|潮文社|https://mewe.com/p/潮文社|
-|醫。思維|https://mewe.com/p/medicalinspire|
-|靈性LYS|https://mewe.com/p/靈性lys-loveyourself|
-|ANGEL CIRCLE BY CARLIE塔羅占卜|https://mewe.com/p/angelcirclebycarlie塔羅占卜|
-|Car1hk|https://mewe.com/p/car1hk|
-|clipversity - 民間知識交換平台|https://mewe.com/p/clipversity|
-|Cult片介紹返|https://mewe.com/p-front/cult片介紹返|
-|Light Whisper Healing|https://mewe.com/p/lightwhisperhealing|
-|LIHKG|https://mewe.com/p/lihkg_forum|
-|LittleGroundStaff|https://mewe.com/p/littlegroundstaff1|
-|Movfazz|https://mewe.com/p/movfazz|
-|MrTeddy．Baker's Log|https://mewe.com/p/mrteddybakes|
-|Nothing Serious|https://mewe.com/p/nothingserious|
-|NT photography|https://mewe.com/p/ntphotography|
-|Penana - 香港人搞的小說網站|https://mewe.com/p/penana故事平台|
-|The Common Ground|https://mewe.com/p/thecommonground|
-|Timable|www.mewe.com/join/timablegroup|
-|Unlimited Build Works|https://mewe.com/p/unlimitedbuildworks|
-|Weebuy|https://mewe.com/p/weebuy|
-|如果沒有「黃色蠟筆」|https://mewe.com/p/ayellowadaykeepsthebluecaway|
-|Cura Box - 香港首個個人化營養補充品平台|https://mewe.com/p/curabox|
-|FreeDream|https://mewe.com/p/freedream|
-|香港人揾工 職庫CDB casualDB|https://mewe.com/p/cdb|
-|Yahoo娛樂圈|https://mewe.com/p/yahoo娛樂圈|
-|KOACH Education Consultancy|https://mewe.com/p/koacheducationconsultancy|
-|港究 Kong’s Cult|https://mewe.com/p/kongscult|
 
 # 海外生活網店旅遊升學移民討論 目錄
 
@@ -1867,6 +1745,7 @@
 |OOOCYCLE Jewelry/Watches|https://mewe.com/p/ooocycle|
 |Sydney Shopaholic 港日韓貨品代購|https://mewe.com/p/sydneyshopaholic%E6%B8%AF%E6%97%A5%E9%9F%93%E8%B2%A8%E5%93%81%E4%BB%A3%E8%B3%BC|
 |Amaya Shop For You (澳洲 )|https://mewe.com/join/amayashopforyou|
+|Granary糧心の殿堂|https://mewe.com/join/sydneygranary|
 ### 澳洲移民
 |Name|Link|
 |:---|---|
@@ -1905,6 +1784,7 @@
 |Name|Link|
 |:---|---|
 |港女德國扮工|https://mewe.com/p/港女德國扮工1|
+|黃世澤|https://mewe.com/p/martinoei%E9%BB%83%E4%B8%96%E6%BE%A4|
 ## 荷蘭
 |Name|Link|
 |:---|---|
@@ -2031,3 +1911,7 @@
 |Hongkongers in Malta 🇲🇹🇭🇰香港人在馬爾他|https://mewe.com/join/hongkongersinmalta|
 |香港人移民小貼士|https://mewe.com/join/香港人移民小貼士|
 |移民搵工升學生活group|https://Mewe.com/join/hongkongersabroad|
+### 海外專頁
+|Name|Link|
+|:---|---|
+|DNLM 不求人：海外港人生活資訊指南|https://mewe.com/p/dnlm不求人2|
