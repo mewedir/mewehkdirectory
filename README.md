@@ -565,6 +565,7 @@
 |連寵拯救隊|https://mewe.com/join/petwithyouhk|
 |愛心義賣谷|https://mewe.com/join/charitysaleforsaveanimals|
 |HomeTubbies.pets 風乾小食及用品|https://mewe.com/join/hometubbies-pets|
+|貓之館美國日本生活百貨|https://mewe.com/group/60c09ad7ac8313580e599e25|
 ## 飲飲食食
 |Name|Link|
 |:---|---|
@@ -610,6 +611,7 @@
 |AIRFRYER (氣炸鍋）煮食關注組|https://mewe.com/join/airfryercooking|
 |BRUNO（搬爐）煮食關注組|https://mewe.com/join/brunocooking|
 |Steak House 牛扒屋|https://mewe.com/join/steakhousehk|
+|Sous Vide慢煮棒棒慢慢谷|https://mewe.com/join/sousvide慢煮棒棒慢慢谷|
 ### 酒品
 |Name|Link|
 |:---|---|
@@ -746,6 +748,7 @@
 |Switch 新作🕹討論🎯買賣谷|https://mewe.com/join/hkswitchgamers|
 |Xbox Series X/S 玩家俱樂部|https://mewe.com/join/xboxseriesxs玩家俱樂部|
 |xbox香港9up群|http://mewe.com/join/xboxhk9up|
+|香港 PS / PC / SWITCH / XBOX 討論區|https://mewe.com/join/hongkonggamerchatroom|
 ### 遊戲, 手機遊戲
 |Name|Link|
 |:---|---|
@@ -1208,6 +1211,7 @@
 |鄺俊宇 Roy Kwong|https://mewe.com/p/%E9%84%BA%E4%BF%8A%E5%AE%87roykwong|
 |Max Wu 胡耀昌 新富|https://mewe.com/p/maxwu%E8%83%A1%E8%80%80%E6%98%8C|
 |Paul ChowChow 周炫瑋區議員|https://mewe.com/i/paulchowchow|
+|張茂清Cheung Mau Ching•變革慈雲山|https://mewe.com/p/%E5%BC%B5%E8%8C%82%E6%B8%85cheungmauching%E8%AE%8A%E9%9D%A9%E6%85%88%E9%9B%B2%E5%B1%B1|
 ## 漫畫, 插畫
 |Name|Link|
 |:---|---|
@@ -1293,12 +1297,11 @@
 |Ember|https://mewe.com/p/ember_hk_band1|
 |Frankie Chan 陳瑞輝|https://mewe.com/p/frankie729|
 |Gloria yip 葉蘊儀 グロリア.イップ|https://mewe.com/p/gloriayip%E8%91%89%E8%98%8A%E5%84%80%E3%82%AF%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%A4%E3%83%83%E3%83%95|
-|GYM CHAN 陳健身 (陳健安)|https://mewe.com/p/onchan|
+|GYM CHAN 陳健身 (陳健安)|https://mewe.com/i/onchan27|
 |Hailey C - 唯一可以鬧人八婆嘅group|https://mewe.com/join/haileyc|
 |Hinx軒力|https://mewe.com/p/hinx軒力|
 |iii|https://mewe.com/p/iiiirisliu|
 |Instinct of Sight|https://mewe.com/p/instinctofsight|
-|Keung To 姜濤 (Fan Page)|https://mewe.com/p/keungto.mirror|
 |KOLOR|https://mewe.com/p/kolor|
 |Kowloon K|https://mewe.com/p/justinleungsounds|
 |KSD 韓星網|https://mewe.com/p/ksd|
@@ -1500,6 +1503,7 @@
 |街影 - 消失的香港紀錄|https://mewe.com/p/vanishing.hk|
 |數碼相簿|https://mewe.com/p/bytedance|
 |Disappear Hong Kong 消失.香港|https://mewe.com/p/disappearhongkong5|
+|昔日香港 The Old Hong Kong's stories|https://mewe.com/p/theoldhongkong|
 ## 文化手工藝術
 |Name|Link|
 |:---|---|
@@ -1519,6 +1523,7 @@
 |Gremlins Handcraft|https://mewe.com/p/gremlinshandcraft1|
 |Hong Kong Arts Festival 香港藝術節|https://mewe.com/p/hkartsfestival|
 |NO IDEA HANDMADE|https://mewe.com/p/noideahandmade|
+|字裡人間讀書會|https://mewe.com/p/%E5%AD%97%E8%A3%A1%E4%BA%BA%E9%96%93%E8%AE%80%E6%9B%B8%E6%9C%83|
 ## 美妝扮靚
 |Name|Link|
 |:---|---|
@@ -1534,6 +1539,7 @@
 |Name|Link|
 |:---|---|
 |K's Choice （台灣純天然個人護理用品店）|https://mewe.com/p/kschoice%E5%8F%B0%E7%81%A3%E7%B4%94%E5%A4%A9%E7%84%B6%E5%80%8B%E4%BA%BA%E8%AD%B7%E7%90%86%E7%94%A8%E5%93%81%E5%BA%97|
+|視點護眼 iPoint Optical's stories|https://mewe.com/p/ipointoptical|
 ### 書店
 |Name|Link|
 |:---|---|
