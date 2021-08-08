@@ -62,12 +62,12 @@
   - [玄學/神秘學](#玄學神秘學)
   - [感情生活, 兩性關係](#感情生活-兩性關係)
   - [醫療保健](#醫療保健)
-  - [教育、家庭、育兒資訊](#教育-家庭-育兒資訊)
+  - [教育、家庭、育兒資訊](#教育家庭育兒資訊)
     - [幼兒, 育兒, 家庭](#幼兒-育兒-家庭)
     - [家長會](#家長會)
     - [小學, 中學](#小學-中學)
     - [其他](#其他-3)
-  - [美術、插畫](#美術-插畫)
+  - [美術、插畫](#美術插畫)
   - [對抗霸權](#對抗霸權)
   - [其他](#其他-4)
   - [軍事](#軍事)
@@ -428,7 +428,6 @@
 |香港加好友HONG KONG FRIENDS|https://mewe.com/join/hkfriend|
 |香港ICQ群組交流區|https://mewe.com/join/icq|
 |高清本土台|https://mewe.com/join/localtvgroup|
-|賠錢都要走人 Take My Money and Let Me Go|https://mewe.com/group/60026e29f57b6043da48fed8|
 |Save Hk 救救香港(曲)|https://mewe.com/join/savehk救救香港|
 |UP 得就 UP|http://mewe.com/join/hkfreechatclub|
 |Welcome hongkong group香港群|https://mewe.com/join/hongkong9|
@@ -931,6 +930,7 @@
 |速寫分享組|https://mewe.com/join/速寫分享組|
 |紫控專員交流組|https://mewe.com/join/purplelover|
 |讀劇檯 Script Table Hong Kong|https://mewe.com/join/ScriptTableHK|
+|Quite Interesting society (綜合學術研究)|https://mewe.com/join/quite_interesting_society|
 ## 二手買賣, Free, 團購
 |Name|Link|
 |:---|---|
@@ -1054,7 +1054,6 @@
 |藍醫生vs黃姑娘|https://mewe.com/join/drblue_vs_missyellow|
 |Creative hearts Hong Kong 心藝表達藝術治療|https://mewe.com/p/creativeheartshongkong|
 |HK INFJ/INFP (香港群組)|https://mewe.com/join/hkinfpitfj|
-|HK Psychology Society|https://mewe.com/join/hk_psychology_society|
 |Magic Mom 紮肚。按摩|https://mewe.com/join/magicmom|
 |Pace Aroma 香薰治療\|手作|https://mewe.com/join/pacearoma|
 |The Key of Soul 心靈鑰匙|https://mewe.com/p/thekeyofsoul|
@@ -1119,6 +1118,7 @@
 |海外大學報讀攻略|https://mewe.com/join/admissionsecrets|
 |Ace the college admission essay|https://mewe.com/join/collegeadmissionessay|
 |TUTOPIA 功課交流區|https://mewe.com/join/tutopia功課交流區|
+|兒童青少年課外活動playgroup課程興趣活動班及暑期課程|https://mewe.com/join/兒童青少年課外活動playgroup課程興趣活動班及暑期課程|
 ## 美術、插畫
 |Name|Link|
 |:---|---|
